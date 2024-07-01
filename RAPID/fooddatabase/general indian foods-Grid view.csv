@@ -1,0 +1,473 @@
+﻿Cuisines,Food item,Field 2,Quantity,Protiens (in g),Carbs (in g),Fats (in g),Fiber (in g),Calcium (in mg),Total (in g),Calories (in Cal)
+South Indian,dosa,,1 medium dosa,3.88,29.20,3.72,0.86,0,96.78,167.67
+South Indian,dosai,,1 medium dosa,3.88,29.20,3.72,0.86,0,96.78,167.67
+South Indian,dosas,,1 medium dosa,3.88,29.20,3.72,0.86,0,96.78,167.67
+South Indian,egg dosa,,1 dosa,9.01,20.68,9.57,1.51,0,232.26,205.15
+South Indian,egg dosas,,1 dosa,9.01,20.68,9.57,1.51,0,232.26,205.15
+South Indian,ragi dosa,,1 medium dosa,1.95,14.58,7.77,0.74,0,80.00,134.79
+South Indian,ragi dosas,,1 medium dosa,1.95,14.58,7.77,0.74,0,80.00,134.79
+South Indian,onion dosa,,1 medium dosa,4.62,34.50,3.90,1.83,0,150.44,190.96
+South Indian,wheat dosa,,1 medium dosa,3.88,29.20,3.72,0.86,0,96.78,167.67
+South Indian,mutta dosa,,1 dosa,9.01,20.68,9.57,1.51,0,232.26,205.15
+South Indian,carrot dosa,,1 Serving,4.55,36.36,14.43,3.29,0,330.68,291.53
+South Indian,dosa batter,,1 cup,3.88,29.20,0.26,0.86,0,229.93,137.07
+South Indian,butter dosa,,1 medium dosa,4.01,29.21,11.77,0.86,0,107.50,238.88
+South Indian,onion dosas,,1 medium dosa,4.62,34.50,3.90,1.83,0,150.44,190.96
+South Indian,masala dosa,,1 medium dosa,3.88,29.20,3.72,0.86,0,96.78,167.67
+South Indian,mutta dosai,,1 dosa,9.01,20.68,9.57,1.51,0,232.26,205.15
+South Indian,wheat dosas,,1 medium dosa,3.88,29.20,3.72,0.86,0,96.78,167.67
+South Indian,masala dosas,,1 medium dosa,3.88,29.20,3.72,0.86,0,96.78,167.67
+South Indian,carrot and ginger dosa,,1 Serving,4.55,36.36,14.43,3.29,0,330.68,291.53
+South Indian,idli,,1 idli,1.65,11.62,0.44,0.54,0,38.50,58.01
+South Indian,idlis,,1 idli,1.65,11.62,0.44,0.54,0,38.50,58.01
+South Indian,idli vada,,1 idli,1.65,11.62,0.44,0.54,0,38.50,58.01
+South Indian,idli sambar,,1 cup sambar with 3 idli,12.00,61.27,1.99,8.93,0,368.54,303.95
+South Indian,sambar,,1 bowl (2 cups),14.12,52.83,1.34,14.62,0,506.00,259.80
+South Indian,sambar rice,,1 cup,6.53,38.54,4.50,5.45,0,207.00,213.92
+South Indian,sambar soup,,1 bowl (2 cups),14.12,52.83,1.34,14.62,0,506.00,259.80
+South Indian,rice sambar,,1 cup,6.53,38.54,4.50,5.45,0,207.00,213.92
+South Indian,sambar sadam,,1 cup,6.53,38.54,4.50,5.45,0,207.00,213.92
+South Indian,sambar powder,,1 tsp,0.29,1.12,0.28,1.06,0,2.00,6.50
+South Indian,lentil sambar,,1 bowl (2 cups),14.12,52.83,1.34,14.62,0,506.00,259.80
+South Indian,homemade sambar,,1 bowl (2 cups),14.12,52.83,1.34,14.62,0,506.00,259.80
+South Indian,sambar homemade,,1 bowl (2 cups),14.12,52.83,1.34,14.62,0,506.00,259.80
+South Indian,vada,,1 piece,4.36,11.35,8.39,2.02,0,70.86,134.88
+South Indian,vadas,,1 piece,4.36,11.35,8.39,2.02,0,70.86,134.88
+South Indian,vada pao,,1 sandwich,7.46,37.08,9.48,3.77,0,126.65,262.94
+South Indian,vada pav,,1 sandwich,7.46,37.08,9.48,3.77,0,126.65,262.94
+South Indian,dahi vada,,1 piece with sauce,3.78,7.79,5.01,2.41,0,70.90,88.66
+South Indian,medu vada,,1 piece,4.36,11.35,8.39,2.02,0,70.86,134.88
+South Indian,mumbai vada,,1 piece,1.71,13.02,5.96,0.89,0,50.42,111.54
+South Indian,batata vada,,1 piece,1.71,13.02,5.96,0.89,0,50.42,111.54
+South Indian,potato vada,,1 piece,1.71,13.02,5.96,0.89,0,50.42,111.54
+South Indian,vada sambhar,,1 piece,4.36,11.35,8.39,2.02,0,70.86,134.88
+South Indian,upma,,1 cup,3.45,21.12,3.96,1.98,0,155.06,132.38
+South Indian,poha upma,,1 cup,4.03,35.41,6.92,1.91,0,163.40,219.18
+South Indian,vegetable upma,,1 cup,3.45,21.12,3.96,1.98,0,155.06,132.38
+South Indian,veggie poha upma,,1 cup,4.03,35.41,6.92,1.91,0,163.40,219.18
+South Indian,vegetable poha upma,,1 cup,4.03,35.41,6.92,1.91,0,163.40,219.18
+South Indian,rasam,,1 serving,2.21,8.67,3.14,2.75,0,249.53,64.00
+South Indian,rasam soup,,1 serving,2.21,8.67,3.14,2.75,0,249.53,64.00
+South Indian,indian rasam,,1 serving,2.21,8.67,3.14,2.75,0,249.53,64.00
+South Indian,pongal,,1 cup,7.32,53.98,8.07,3.79,0,207.00,318.62
+South Indian,ven pongal,,1 cup,7.32,53.98,8.07,3.79,0,207.00,318.62
+South Indian,belekoy,,1 piece,0.53,12.89,0.33,0.68,0,16.42,55.19
+South Indian,belecoy,,1 piece,0.53,12.89,0.33,0.68,0,16.42,55.19
+South Indian,filipino belekoy,,1 piece,0.53,12.89,0.33,0.68,0,16.42,55.19
+South Indian,filipino belecoy,,1 piece,0.53,12.89,0.33,0.68,0,16.42,55.19
+South Indian,coconut chutney,,2 tbsp,1.27,4.92,4.38,1.67,0,37.20,59.96
+South Indian,coconut chutneys,,2 tbsp,1.27,4.92,4.38,1.67,0,37.20,59.96
+South Indian,onion chutney,,2 tbsp,0.37,2.17,2.44,0.35,0,34.60,30.87
+South Indian,tomato chutney,,1 tbsp,0.33,7.68,0.13,0.45,0,46.00,33.68
+South Indian,mango chutney,,1 tbsp,0.14,8.34,0.10,0.20,0,17.00,33.35
+South Indian,green chutney,,1 tablespoon,0.85,1.67,1.41,0.47,0,17.00,20.67
+South Indian,garlic chutney,,1 cup,1.26,4.76,19.28,1.11,0,155.85,192.32
+South Indian,date chutney,,1 tbsp,0.10,4.87,0.03,0.25,0,17.85,18.77
+South Indian,apple chutney,,0.25 cup,0.46,26.34,0.12,0.84,0,60.80,104.18
+South Indian,tamarind chutney,,1 tbsp,0.10,4.87,0.03,0.25,0,17.85,18.77
+South Indian,coconut milk,,1 cup,4.57,6.35,48.21,,0,226.00,445.22
+South Indian,chutney,,1 tablespoon,0.85,1.67,1.41,0.47,0,17.00,20.67
+South Indian,coconut oil,,1 tbsp,0.00,0.00,13.47,0.00,0,13.60,121.31
+South Indian,spiced mango chutney,,1 tbsp,0.14,8.34,0.10,0.20,0,17.00,33.35
+South Indian,tamarind date chutney,,1 tbsp,0.10,4.87,0.03,0.25,0,17.85,18.77
+South Indian,chutney coconut,,2 tbsp,1.27,4.92,4.38,1.67,0,37.20,59.96
+South Indian,apple raisin chutney,,0.25 cup,0.46,26.34,0.12,0.84,0,60.80,104.18
+South Indian,date tamarind chutney,,1 tbsp,0.10,4.87,0.03,0.25,0,17.85,18.77
+South Indian,chutney tomato,,1 tbsp,0.33,7.68,0.13,0.45,0,46.00,33.68
+South Indian,british style mango chutney,,1 tbsp,0.14,8.34,0.10,0.20,0,17.00,33.35
+South Indian,biryani,,1 cup,19.65,30.95,9.44,1.36,0,205.18,291.95
+South Indian,egg biryani,,1 cup,6.74,30.75,7.86,1.65,0,169.41,221.62
+South Indian,biryani veg,,1 cup,4.18,36.82,3.88,1.97,0,168.81,198.41
+South Indian,biryani egg,,1 cup,6.74,30.75,7.86,1.65,0,169.41,221.62
+South Indian,fish biryani,,1 cup,19.36,31.09,10.01,1.31,0,205.18,295.74
+South Indian,egg biryanis,,1 cup,6.74,30.75,7.86,1.65,0,169.41,221.62
+South Indian,nasi biryani,,1 cup,4.29,42.72,14.81,1.76,0,170.80,321.02
+South Indian,beef biryani,,1 cup,19.89,19.00,16.96,1.54,0,201.15,310.84
+South Indian,palak biryani,,1 Serving,10.02,82.48,12.24,5.71,0,400.57,472.69
+South Indian,steak biryani,,1 cup,19.89,19.00,16.96,1.54,0,201.15,310.84
+South Indian,mutton biryani,,1 serving (about 2 cups),37.65,37.99,37.14,3.08,0,402.20,642.24
+South Indian,chicken biryani,,1 cup,19.65,30.95,9.44,1.36,0,205.18,291.95
+South Indian,biryani with egg,,1 cup,6.74,30.75,7.86,1.65,0,169.41,221.62
+South Indian,chicken biryanis,,1 cup,19.65,30.95,9.44,1.36,0,205.18,291.95
+South Indian,vegetable biryani,,1 cup,4.18,36.82,3.88,1.97,0,168.81,198.41
+South Indian,fish biryani spice,,0.25 tsp,0.02,0.14,0.02,0.08,0,1.20,0.62
+South Indian,biryani fish spice,,0.25 tsp,0.02,0.14,0.02,0.08,0,1.20,0.62
+South Indian,vegetable biryanis,,1 cup,4.18,36.82,3.88,1.97,0,168.81,198.41
+South Indian,fish biryani spice mix,,0.25 tsp,0.02,0.14,0.02,0.08,0,1.20,0.62
+South Indian,biryani fish spice mix,,0.25 tsp,0.02,0.14,0.02,0.08,0,1.20,0.62
+South Indian,appam,,1 piece,1.47,16.68,2.39,0.61,0,45.94,94.29
+South Indian,appams,,1 piece,1.47,16.68,2.39,0.61,0,45.94,94.29
+South Indian,kerala appam,,1 piece,1.47,16.68,2.39,0.61,0,45.94,94.29
+South Indian,payasam,,0.5 cup,4.16,17.29,5.34,0.38,0,112.50,131.29
+North Indian,paratha,,1 piece,5.02,35.83,10.43,7.58,0,79.00,257.54
+North Indian,egg paratha,,1 piece,11.32,45.13,7.46,6.80,0,106.14,278.62
+North Indian,dal paratha,,1 Paratha,4.16,20.68,5.47,1.91,0,64.02,148.43
+North Indian,aloo paratha,,1 piece,6.13,45.53,10.61,8.72,0,130.65,300.10
+North Indian,roti paratha,,1 piece,5.02,35.83,10.43,7.58,0,79.00,257.54
+North Indian,aloo parathas,,1 piece,6.13,45.53,10.61,8.72,0,130.65,300.10
+North Indian,palak paratha,,1 Piece,4.12,22.83,6.03,1.79,0,83.48,160.23
+North Indian,onion paratha,,1 piece,5.67,39.94,10.70,8.47,0,115.76,276.55
+North Indian,paratha paneer,,1 piece,7.70,20.62,7.78,3.03,0,77.75,176.11
+North Indian,paneer paratha,,1 piece,7.70,20.62,7.78,3.03,0,77.75,176.11
+North Indian,potato paratha,,1 piece,6.13,45.53,10.61,8.72,0,130.65,300.10
+North Indian,potato parathas,,1 piece,6.13,45.53,10.61,8.72,0,130.65,300.10
+North Indian,paneer parathas,,1 piece,7.70,20.62,7.78,3.03,0,77.75,176.11
+North Indian,chana dal paratha,,1 Paratha,4.16,20.68,5.47,1.91,0,64.02,148.43
+North Indian,aloo stuffed paratha,,1 piece,6.13,45.53,10.61,8.72,0,130.65,300.10
+North Indian,potato stuffed paratha,,1 piece,6.13,45.53,10.61,8.72,0,130.65,300.10
+North Indian,potato stuffed parathas,,1 piece,6.13,45.53,10.61,8.72,0,130.65,300.10
+North Indian,poha,,1 cup,2.86,34.83,0.23,0.00,0,138.72,157.52
+North Indian,pohas,,1 cup,2.86,34.83,0.23,0.00,0,138.72,157.52
+North Indian,poha dry,,1 cup,7.15,87.07,0.57,,0,110.00,393.80
+North Indian,raw poha,,1 cup,7.15,87.07,0.57,,0,110.00,393.80
+North Indian,dry poha,,1 cup,7.15,87.07,0.57,,0,110.00,393.80
+North Indian,poha upma,,1 cup,4.03,35.41,6.92,1.91,0,163.40,219.18
+North Indian,poha raw,,1 cup,7.15,87.07,0.57,,0,110.00,393.80
+North Indian,dry pohas,,1 cup,7.15,87.07,0.57,,0,110.00,393.80
+North Indian,raw pohas,,1 cup,7.15,87.07,0.57,,0,110.00,393.80
+North Indian,poha fruit,,1 cup,2.66,15.68,0.98,,0,140.00,74.20
+North Indian,poha plain,,1 cup,2.86,34.83,0.23,0.00,0,138.72,157.52
+North Indian,plain poha,,1 cup,2.86,34.83,0.23,0.00,0,138.72,157.52
+North Indian,cooked poha,,1 cup,2.86,34.83,0.23,0.00,0,138.72,157.52
+North Indian,uncooked poha,,1 cup,7.15,87.07,0.57,,0,110.00,393.80
+North Indian,poha uncooked,,1 cup,7.15,87.07,0.57,,0,110.00,393.80
+North Indian,veggie poha upma,,1 cup,4.03,35.41,6.92,1.91,0,163.40,219.18
+North Indian,vegetable poha upma,,1 cup,4.03,35.41,6.92,1.91,0,163.40,219.18
+North Indian,samosa,,1 samosa,3.49,23.91,17.24,2.08,0,100.00,261.50
+North Indian,samosas,,1 samosa,3.49,23.91,17.24,2.08,0,100.00,261.50
+North Indian,meat samosa,,1 samosa,7.44,20.00,11.07,1.67,0,93.30,209.63
+North Indian,samosa beef,,1 samosa,7.44,20.00,11.07,1.67,0,93.30,209.63
+North Indian,samosa chaat,,1 cup,10.86,42.31,22.83,8.10,0,233.26,403.43
+North Indian,meat samosas,,1 samosa,7.44,20.00,11.07,1.67,0,93.30,209.63
+North Indian,coconut samosa,,1 piece,1.91,19.36,6.07,1.03,0,38.37,139.08
+North Indian,chicken samosa,,1 samosa,7.66,24.02,9.31,2.16,0,111.47,209.86
+North Indian,coconut samosas,,1 piece,1.91,19.36,6.07,1.03,0,38.37,139.08
+North Indian,chicken samosas,,1 samosa,7.66,24.02,9.31,2.16,0,111.47,209.86
+North Indian,vegetable samosa,,1 samosa,3.49,23.91,17.24,2.08,0,100.00,261.50
+North Indian,vegetarian samosa,,1 samosa,3.49,23.91,17.24,2.08,0,100.00,261.50
+North Indian,vegetable samosas,,1 samosa,3.49,23.91,17.24,2.08,0,100.00,261.50
+North Indian,vegetarian samosas,,1 samosa,3.49,23.91,17.24,2.08,0,100.00,261.50
+North Indian,indian samosa chaat,,1 cup,10.86,42.31,22.83,8.10,0,233.26,403.43
+North Indian,beef and potato samosa,,1 samosa,7.44,20.00,11.07,1.67,0,93.30,209.63
+North Indian,meat and potato samosa,,1 samosa,7.44,20.00,11.07,1.67,0,93.30,209.63
+North Indian,aloo tikki,,1 cup,3.54,18.25,16.50,2.37,0,121.29,228.58
+North Indian,aloo tikka,,1 cup,3.54,18.25,16.50,2.37,0,121.29,228.58
+North Indian,aloo pie,,1 pie,9.55,74.10,11.31,5.06,0,226.61,434.24
+North Indian,aloo papri,,1 cup,6.78,31.53,10.03,2.21,0,128.89,242.11
+North Indian,aloo sabzi,,1 cup,3.52,27.19,2.67,3.76,0,159.52,140.80
+North Indian,aloo gobi,,1 cup,2.48,14.51,5.46,2.83,0,154.98,110.82
+North Indian,aloo naan,,1 piece,6.13,45.53,10.61,8.72,0,130.65,300.10
+North Indian,aloo pakora,,1 piece,0.88,3.54,0.23,0.49,0,15.51,19.77
+North Indian,aloo jeera,,1 cup,3.45,28.32,5.61,3.15,0,143.29,172.06
+North Indian,aloo curry,,1 cup,2.94,20.53,13.23,3.60,0,237.69,204.18
+North Indian,aloo masala,,1 cup,3.83,27.46,14.22,4.06,0,195.08,242.14
+North Indian,aloo pakoras,,1 piece,0.88,3.54,0.23,0.49,0,15.51,19.77
+North Indian,saag aloo,,1 cup,4.93,22.62,6.66,4.26,0,194.83,159.73
+North Indian,jeera aloo,,1 cup,3.45,28.32,5.61,3.15,0,143.29,172.06
+North Indian,aloo papri chaat,,1 cup,6.78,31.53,10.03,2.21,0,128.89,242.11
+North Indian,tandoori aloo,,1 cup,3.54,18.25,16.50,2.37,0,121.29,228.58
+North Indian,aloo gajar matar,,1 cup,3.83,22.94,5.86,4.55,0,158.02,154.54
+North Indian,chole bhature,,1 bhatura with chole,13.24,58.91,26.96,11.07,0,281.08,510.88
+North Indian,chole bhatura,,1 bhatura with chole,13.24,58.91,26.96,11.07,0,281.08,510.88
+North Indian,channa bhature,,1 bhatura with chole,13.24,58.91,26.96,11.07,0,281.08,510.88
+North Indian,chole puri,,1 serving,15.11,54.05,14.28,13.33,0,226.02,392.59
+North Indian,chole rice,,1 cup,5.96,36.58,8.45,4.13,0,176.55,243.21
+North Indian,bhature,,1 piece,5.57,30.29,10.51,3.46,0,86.04,230.05
+North Indian,chole masala,,1 cup,7.67,28.63,16.45,7.60,0,195.08,280.93
+North Indian,chole,,1 cup,7.67,28.63,16.45,7.60,0,195.08,280.93
+North Indian,choles,,1 cup,5.96,36.58,8.45,4.13,0,176.55,243.21
+North Indian,chole masala with rice,,1 cup,5.96,36.58,8.45,4.13,0,176.55,243.21
+North Indian,no cholesterol mayo,,1 tbsp,0.13,0.98,4.86,0.00,0,14.60,48.62
+North Indian,cholesterol free mayo,,1 tbsp,0.13,0.98,4.86,0.00,0,14.60,48.62
+North Indian,cholesterol free mayonnaise,,1 tbsp,0.13,0.98,4.86,0.00,0,14.60,48.62
+North Indian,kachori,,1 piece,1.50,7.68,5.26,0.63,0,19.78,83.29
+North Indian,kachoris,,1 piece,1.50,7.68,5.26,0.63,0,19.78,83.29
+North Indian,dal kachori,,1 piece,1.50,7.68,5.26,0.63,0,19.78,83.29
+North Indian,dal kachoris,,1 piece,1.50,7.68,5.26,0.63,0,19.78,83.29
+North Indian,khasta kachori,,1 piece,1.50,7.68,5.26,0.63,0,19.78,83.29
+North Indian,chana masala,,1 cup,7.67,28.63,16.45,7.60,0,195.08,280.93
+North Indian,channa masala,,1 cup,7.67,28.63,16.45,7.60,0,195.08,280.93
+North Indian,chana daal,,"1 cup, cooked",12.84,41.71,4.51,11.49,0,182.40,251.71
+North Indian,chana dal,,"1 cup, cooked",12.84,41.71,4.51,11.49,0,182.40,251.71
+North Indian,tikka masala,,2 cups,55.61,21.70,47.79,4.33,0,472.00,729.73
+North Indian,matar masala,,1 cup,4.71,19.06,7.01,4.66,0,241.29,149.32
+North Indian,garam masala,,1 serving,0.16,0.85,0.19,0.36,0,1.47,4.64
+North Indian,chana poori,,1 serving,15.11,54.05,14.28,13.33,0,226.02,392.59
+North Indian,masala,,1 serving,0.16,0.85,0.19,0.36,0,1.47,4.64
+North Indian,chana puri,,1 serving,15.11,54.05,14.28,13.33,0,226.02,392.59
+North Indian,chanas,,1 cup,7.67,28.63,16.45,7.60,0,195.08,280.93
+North Indian,masala dosa,,1 medium dosa,3.88,29.20,3.72,0.86,0,96.78,167.67
+North Indian,chana,,1 cup,7.67,28.63,16.45,7.60,0,195.08,280.93
+North Indian,puri chana,,1 serving,15.11,54.05,14.28,13.33,0,226.02,392.59
+North Indian,daal chanas,,"1 cup, cooked",12.84,41.71,4.51,11.49,0,182.40,251.71
+North Indian,chana dal poori,,1 serving,15.11,54.05,14.28,13.33,0,226.02,392.59
+North Indian,plain chana dal,,"1 cup, cooked",12.84,41.71,4.51,11.49,0,182.40,251.71
+North Indian,chicken tikka masala,,2 cups,55.61,21.70,47.79,4.33,0,472.00,729.73
+North Indian,misal pav,,1 serving (1 pav + 1 cup curry),10.07,41.66,7.37,8.38,0,225.90,263.80
+North Indian,vada pav,,1 sandwich,7.46,37.08,9.48,3.77,0,126.65,262.94
+North Indian,wada pav,,1 sandwich,7.46,37.08,9.48,3.77,0,126.65,262.94
+North Indian,pavlova,,1 piece,3.40,39.86,10.87,2.08,0,151.72,263.43
+North Indian,pavlovas,,1 piece,3.40,39.86,10.87,2.08,0,151.72,263.43
+North Indian,pav bhaji,,1 serving,11.75,62.58,11.44,9.44,0,404.33,389.75
+North Indian,fruit pavlova,,1 piece,3.40,39.86,10.87,2.08,0,151.72,263.43
+North Indian,pavlova cake,,1 piece,3.40,39.86,10.87,2.08,0,151.72,263.43
+North Indian,berry pavlova,,1 piece,3.40,39.86,10.87,2.08,0,151.72,263.43
+North Indian,salvadoreno pavo,,1 cup,38.46,10.39,10.53,1.83,0,245.09,298.05
+North Indian,pavo salvadoreno,,1 cup,38.46,10.39,10.53,1.83,0,245.09,298.05
+North Indian,mixed berry pavlova,,1 piece,3.40,39.86,10.87,2.08,0,151.72,263.43
+North Indian,pavlova with berries,,1 piece,3.40,39.86,10.87,2.08,0,151.72,263.43
+North Indian,dhokla,,1 piece,5.70,15.88,7.36,2.54,0,57.86,151.72
+North Indian,khaman dhokla,,1 piece,5.70,15.88,7.36,2.54,0,57.86,151.72
+North Indian,paneer curry,,1 cup,17.48,10.13,29.09,1.48,0,236.00,367.39
+North Indian,paneer cheese,,"1 cup, crumbled",22.07,3.64,29.06,0.00,0,122.00,364.78
+North Indian,paneer korma,,1 cup,17.48,10.13,29.09,1.48,0,236.00,367.39
+North Indian,paneer kabab,,1 skewer,12.75,12.04,20.54,1.24,0,177.92,280.30
+North Indian,paneer kebab,,1 skewer,12.75,12.04,20.54,1.24,0,177.92,280.30
+North Indian,paneer tikka,,1 cup,8.24,6.90,16.27,1.50,0,198.14,201.27
+North Indian,paneer butter,,1 cup,8.24,6.90,16.27,1.50,0,198.14,201.27
+North Indian,paneer masala,,1 cup,8.24,6.90,16.27,1.50,0,198.14,201.27
+North Indian,paneer,,"1 cup, crumbled",22.07,3.64,29.06,0.00,0,122.00,364.78
+North Indian,matter paneer,,1 serving,23.31,24.93,46.18,6.41,0,440.46,598.54
+North Indian,mutter paneer,,1 serving,23.31,24.93,46.18,6.41,0,440.46,598.54
+North Indian,matar paneer,,1 serving,23.31,24.93,46.18,6.41,0,440.46,598.54
+North Indian,palak paneer,,1 cup,15.06,10.01,30.48,2.64,0,200.00,365.53
+North Indian,saag paneer,,1 cup,15.06,10.01,30.48,2.64,0,200.00,365.53
+North Indian,chilli paneer,,1 cup,15.03,17.45,27.01,2.09,0,232.71,366.48
+North Indian,shahi paneer,,1 cup,11.72,12.39,24.58,2.44,0,242.29,309.87
+North Indian,chili paneer,,1 cup,15.03,17.45,27.01,2.09,0,232.71,366.48
+North Indian,paneer tikka masala,,1 cup,8.24,6.90,16.27,1.50,0,198.14,201.27
+Northeast and Coastal Indian,paratha paneer,,1 piece,7.70,20.62,7.78,3.03,0,77.75,176.11
+Northeast and Coastal Indian,paneer paratha,,1 piece,7.70,20.62,7.78,3.03,0,77.75,176.11
+Northeast and Coastal Indian,potato paratha,,1 piece,6.13,45.53,10.61,8.72,0,130.65,300.10
+Northeast and Coastal Indian,potato parathas,,1 piece,6.13,45.53,10.61,8.72,0,130.65,300.10
+Northeast and Coastal Indian,paneer parathas,,1 piece,7.70,20.62,7.78,3.03,0,77.75,176.11
+Northeast and Coastal Indian,momos,,1 dumpling,3.37,7.19,2.16,0.44,0,36.43,61.48
+Northeast and Coastal Indian,nepali momos,,1 dumpling,3.37,7.19,2.16,0.44,0,36.43,61.48
+Northeast and Coastal Indian,chicken momos,,1 dumpling,3.37,7.19,2.16,0.44,0,36.43,61.48
+Northeast and Coastal Indian,lauki sabzi,,1 cup,1.89,11.16,2.67,3.30,0,239.30,69.08
+Northeast and Coastal Indian,aloo sabzi,,1 cup,3.52,27.19,2.67,3.76,0,159.52,140.80
+Northeast and Coastal Indian,ghormeh sabzi,,1 bowl (2 cups),44.62,32.84,24.80,8.05,0,503.40,523.27
+Northeast and Coastal Indian,qormeh sabzi,,1 bowl (2 cups),44.62,32.84,24.80,8.05,0,503.40,523.27
+Northeast and Coastal Indian,lauki ki sabzi,,1 cup,1.89,11.16,2.67,3.30,0,239.30,69.08
+Northeast and Coastal Indian,chocolate rice pudding,,1 cup,2.51,49.79,0.20,0.00,0,172.00,212.86
+Northeast and Coastal Indian,pakistani style rice pudding,,1 cup,11.56,47.74,13.20,1.34,0,290.21,351.79
+Northeast and Coastal Indian,pakistani rice pudding,,1 cup,11.56,47.74,13.20,1.34,0,290.21,351.79
+Northeast and Coastal Indian,thai steamed rice and pork pudding,,1 cup,7.12,45.33,17.35,0.71,0,194.94,368.68
+Northeast and Coastal Indian,black pudding,,1 sausage,16.56,1.46,39.12,0.00,0,113.40,429.79
+Northeast and Coastal Indian,rice pudding,,0.5 cup,2.97,16.92,1.98,0.28,0,92.00,99.36
+Northeast and Coastal Indian,banana pudding,,1 cup,3.98,46.64,10.11,1.17,0,175.44,287.63
+Northeast and Coastal Indian,black eye peas and rice,,1 cup,12.27,51.81,1.99,6.21,0,224.00,276.25
+Northeast and Coastal Indian,black rice,,1 cup,4.25,44.51,0.44,0.63,0,158.00,205.40
+Northeast and Coastal Indian,blackeye peas and rice,,1 cup,12.27,51.81,1.99,6.21,0,224.00,276.25
+Northeast and Coastal Indian,black beans with rice,,1 cup,5.75,42.86,5.46,4.16,0,239.00,244.13
+Northeast and Coastal Indian,black beans and rice,,1 cup,5.75,42.86,5.46,4.16,0,239.00,244.13
+Northeast and Coastal Indian,black eyed peas and rice,,1 cup,12.27,51.81,1.99,6.21,0,224.00,276.25
+Northeast and Coastal Indian,thai steamed rice pudding with pork,,1 cup,7.12,45.33,17.35,0.71,0,194.94,368.68
+Northeast and Coastal Indian,thai steamed pudding with rice and pork,,1 cup,7.12,45.33,17.35,0.71,0,194.94,368.68
+Northeast and Coastal Indian,black beans with rice and tomatoes,,1 cup,5.75,42.86,5.46,4.16,0,239.00,244.13
+Northeast and Coastal Indian,black beans and rice with tomatoes,,1 cup,5.75,42.86,5.46,4.16,0,239.00,244.13
+Northeast and Coastal Indian,rice kheer,,0.5 cup,4.16,17.29,5.34,0.38,0,112.50,131.29
+Northeast and Coastal Indian,kheer,,0.5 cup,4.16,17.29,5.34,0.38,0,112.50,131.29
+Rajastani,dal kachori,,1 piece,1.50,7.68,5.26,0.63,0,19.78,83.29
+Rajastani,khasta kachori,,1 piece,1.50,7.68,5.26,0.63,0,19.78,83.29
+Rajastani,dal kachoris,,1 piece,1.50,7.68,5.26,0.63,0,19.78,83.29
+Rajastani,kachori,,1 piece,1.50,7.68,5.26,0.63,0,19.78,83.29
+Rajastani,kachoris,,1 piece,1.50,7.68,5.26,0.63,0,19.78,83.29
+Rajastani,kimchi,,1 cup,1.65,3.60,0.75,2.40,0,150.00,22.50
+Rajastani,kit kat,,1 bar (1.5 oz),2.73,27.13,10.92,0.42,0,42.00,217.56
+Rajastani,kiwi,,"1 fruit (2"" dia)",0.79,10.12,0.36,2.07,0,69.00,42.09
+Rajastani,sungold kiwi,,1 fruit,0.83,12.79,0.23,1.13,0,81.00,51.03
+Rajastani,kiwi smoothie,,12 fl oz,6.85,52.01,2.73,3.55,0,308.52,245.00
+Rajastani,kipper snacks,,"2 oz, boneless",13.94,0.00,7.01,0.00,0,56.70,123.04
+Rajastani,kiwifruit,,"1 fruit (2"" dia)",0.79,10.12,0.36,2.07,0,69.00,42.09
+Rajastani,kielbasa,,1 link,45.69,18.46,108.93,0.00,0,367.00,1236.79
+Rajastani,kidneys,,3 oz,23.18,0.00,3.95,0.00,0,85.00,134.30
+Rajastani,kiwis,,"1 fruit (2"" dia)",0.79,10.12,0.36,2.07,0,69.00,42.09
+Rajastani,turkey kielbasa,,1 link,45.69,18.46,108.93,0.00,0,367.00,1236.79
+Rajastani,kidney beans,,1 cup,15.35,40.36,0.89,11.33,0,177.00,224.79
+Rajastani,burger king french fries,,1 medium serving,3.78,45.28,14.60,3.39,0,117.00,327.60
+Rajastani,strawberry kiwi smoothie,,12 fl oz,6.85,52.01,2.73,3.55,0,308.52,245.00
+Rajastani,dry white kidney beans,,1 cup,47.19,121.75,1.72,30.70,0,202.00,672.66
+Rajastani,baati chokha,,1 piece,5.18,25.09,3.35,4.18,0,104.81,144.08
+Rajastani,dal baati,,1 Baati with dal,11.59,36.15,13.49,9.53,0,165.25,301.48
+Rajastani,dal paratha,,1 Paratha,4.16,20.68,5.47,1.91,0,64.02,148.43
+Rajastani,dal chawal,,1 cup,12.78,48.22,5.84,9.53,0,207.00,293.42
+Rajastani,baati,,1 piece,4.44,19.19,2.91,3.09,0,49.58,115.75
+Rajastani,dal makhani,,1 serving,16.28,39.48,24.21,13.21,0,253.46,426.89
+Rajastani,dal rice,,1 cup,12.78,48.22,5.84,9.53,0,207.00,293.42
+Rajastani,palak dal,,1 servings,12.80,29.07,8.77,11.46,0,184.68,236.84
+Rajastani,daleem,,1 bowl (2 cups),7.54,7.80,5.52,2.12,0,151.80,109.22
+Rajastani,drumstick dal,,1 serving,4.96,16.78,8.50,4.88,0,385.54,155.20
+Rajastani,chokha baati,,1 piece,5.18,25.09,3.35,4.18,0,104.81,144.08
+Rajastani,plain chana dal,,"1 cup, cooked",12.84,41.71,4.51,11.49,0,182.40,251.71
+Rajastani,roti dal,,1 roti,4.60,20.67,2.42,3.86,0,46.98,116.17
+Rajastani,lentil dal,,1 cup,14.25,33.94,4.18,12.89,0,214.26,221.88
+Rajastani,coconut dal,,1 cup,6.75,15.86,16.28,5.00,0,140.55,224.74
+Rajastani,chana dal paratha,,1 Paratha,4.16,20.68,5.47,1.91,0,64.02,148.43
+Rajastani,rice dal,,1 cup,12.78,48.22,5.84,9.53,0,207.00,293.42
+Rajastani,dal,,1 cup,14.25,33.94,4.18,12.89,0,214.26,221.88
+Rajastani,chana dal,,"1 cup, cooked",12.84,41.71,4.51,11.49,0,182.40,251.71
+Rajastani,moong dal,,1 cup,15.71,40.52,2.05,15.90,0,206.46,235.67
+Rajastani,lauki ki sabzi,,1 cup,1.89,11.16,2.67,3.30,0,239.30,69.08
+Rajastani,lauki sabzi,,1 cup,1.89,11.16,2.67,3.30,0,239.30,69.08
+Rajastani,qormeh sabzi,,1 bowl (2 cups),44.62,32.84,24.80,8.05,0,503.40,523.27
+Rajastani,aloo sabzi,,1 cup,3.52,27.19,2.67,3.76,0,159.52,140.80
+Rajastani,ghormeh sabzi,,1 bowl (2 cups),44.62,32.84,24.80,8.05,0,503.40,523.27
+Rajastani,mawa paneer,,1 cup,13.40,16.72,19.49,1.93,0,198.29,288.76
+Rajastani,mawa,,1 cup,20.36,29.77,24.31,0.00,0,111.66,416.09
+Rajastani,mawas,,1 cup,20.36,29.77,24.31,0.00,0,111.66,416.09
+Rajastani,mawa paneer curry,,1 cup,13.40,16.72,19.49,1.93,0,198.29,288.76
+Rajastani,paneer mawa,,1 cup,13.40,16.72,19.49,1.93,0,198.29,288.76
+Rajastani,poha,,1 cup,2.86,34.83,0.23,0.00,0,138.72,157.52
+Rajastani,pohas,,1 cup,2.86,34.83,0.23,0.00,0,138.72,157.52
+Rajastani,dry poha,,1 cup,7.15,87.07,0.57,,0,110.00,393.80
+Rajastani,poha dry,,1 cup,7.15,87.07,0.57,,0,110.00,393.80
+Rajastani,raw poha,,1 cup,7.15,87.07,0.57,,0,110.00,393.80
+Rajastani,poha raw,,1 cup,7.15,87.07,0.57,,0,110.00,393.80
+Rajastani,raw pohas,,1 cup,7.15,87.07,0.57,,0,110.00,393.80
+Rajastani,poha upma,,1 cup,4.03,35.41,6.92,1.91,0,163.40,219.18
+Rajastani,dry pohas,,1 cup,7.15,87.07,0.57,,0,110.00,393.80
+Rajastani,poha plain,,1 cup,2.86,34.83,0.23,0.00,0,138.72,157.52
+Rajastani,poha fruit,,1 cup,2.66,15.68,0.98,,0,140.00,74.20
+Rajastani,plain poha,,1 cup,2.86,34.83,0.23,0.00,0,138.72,157.52
+Rajastani,cooked poha,,1 cup,2.86,34.83,0.23,0.00,0,138.72,157.52
+Rajastani,uncooked poha,,1 cup,7.15,87.07,0.57,,0,110.00,393.80
+Rajastani,poha uncooked,,1 cup,7.15,87.07,0.57,,0,110.00,393.80
+Rajastani,veggie poha upma,,1 cup,4.03,35.41,6.92,1.91,0,163.40,219.18
+Rajastani,vegetable poha upma,,1 cup,4.03,35.41,6.92,1.91,0,163.40,219.18
+Rajastani,aloo paratha,,1 piece,6.13,45.53,10.61,8.72,0,130.65,300.10
+Rajastani,aloo parathas,,1 piece,6.13,45.53,10.61,8.72,0,130.65,300.10
+Rajastani,egg paratha,,1 piece,11.32,45.13,7.46,6.80,0,106.14,278.62
+Rajastani,roti paratha,,1 piece,5.02,35.83,10.43,7.58,0,79.00,257.54
+Rajastani,palak paratha,,1 Piece,4.12,22.83,6.03,1.79,0,83.48,160.23
+Rajastani,paratha,,1 piece,5.02,35.83,10.43,7.58,0,79.00,257.54
+Rajastani,potato parathas,,1 piece,6.13,45.53,10.61,8.72,0,130.65,300.10
+Rajastani,paneer paratha,,1 piece,7.70,20.62,7.78,3.03,0,77.75,176.11
+Rajastani,aloo tikka,,1 cup,3.54,18.25,16.50,2.37,0,121.29,228.58
+Rajastani,aloo jeera,,1 cup,3.45,28.32,5.61,3.15,0,143.29,172.06
+Rajastani,aloo gobi,,1 cup,2.48,14.51,5.46,2.83,0,154.98,110.82
+Rajastani,aloo stuffed paratha,,1 piece,6.13,45.53,10.61,8.72,0,130.65,300.10
+Rajastani,saag aloo,,1 cup,4.93,22.62,6.66,4.26,0,194.83,159.73
+Rajastani,jeera aloo,,1 cup,3.45,28.32,5.61,3.15,0,143.29,172.06
+Rajastani,tandoori aloo,,1 cup,3.54,18.25,16.50,2.37,0,121.29,228.58
+Rajastani,paratha paneer,,1 piece,7.70,20.62,7.78,3.03,0,77.75,176.11
+Rajastani,potato stuffed paratha,,1 piece,6.13,45.53,10.61,8.72,0,130.65,300.10
+Rajastani,idli vada,,1 idli,1.65,11.62,0.44,0.54,0,38.50,58.01
+Rajastani,dahi vada,,1 piece with sauce,3.78,7.79,5.01,2.41,0,70.90,88.66
+Rajastani,mumbai vada,,1 piece,1.71,13.02,5.96,0.89,0,50.42,111.54
+Rajastani,potato vada,,1 piece,1.71,13.02,5.96,0.89,0,50.42,111.54
+Rajastani,batata vada,,1 piece,1.71,13.02,5.96,0.89,0,50.42,111.54
+Rajastani,medu vada,,1 piece,4.36,11.35,8.39,2.02,0,70.86,134.88
+Rajastani,vada,,1 piece,4.36,11.35,8.39,2.02,0,70.86,134.88
+Rajastani,vadas,,1 piece,4.36,11.35,8.39,2.02,0,70.86,134.88
+Rajastani,vada pav,,1 sandwich,7.46,37.08,9.48,3.77,0,126.65,262.94
+Rajastani,vada pao,,1 sandwich,7.46,37.08,9.48,3.77,0,126.65,262.94
+Rajastani,vada sambhar,,1 piece,4.36,11.35,8.39,2.02,0,70.86,134.88
+Rajastani,dahl roti,,1 roti,4.60,20.67,2.42,3.86,0,46.98,116.17
+Rajastani,fulka roti,,1 piece,7.65,31.52,5.07,3.33,0,68.00,201.96
+Rajastani,daal roti,,1 roti,4.60,20.67,2.42,3.86,0,46.98,116.17
+Rajastani,ragi roti,,1 large,2.78,19.52,5.71,1.14,0,67.98,139.24
+Rajastani,dal roti,,1 roti,4.60,20.67,2.42,3.86,0,46.98,116.17
+Rajastani,wheat roti,,1 medium,3.14,18.45,3.68,3.88,0,40.00,119.60
+Rajastani,roti,,1 medium,3.14,18.45,3.68,3.88,0,40.00,119.60
+Rajastani,chicken roti,,1 wrap,36.07,39.09,15.99,4.83,0,304.00,446.70
+Rajastani,rotini,,1 cup rotini,6.21,33.02,1.00,1.93,0,107.00,169.06
+Rajastani,black bean rotini,,2 oz,15.07,28.48,4.50,7.44,0,56.00,211.96
+Rajastani,roti chicken,,1 wrap,36.07,39.09,15.99,4.83,0,304.00,446.70
+Rajastani,whole wheat rotini,,1 cup rotini,6.41,32.17,1.83,4.17,0,107.00,159.43
+Rajastani,curry chicken roti,,1 wrap,36.07,39.09,15.99,4.83,0,304.00,446.70
+Rajastani,chicken rotisserie,,1 serving (3 oz),21.93,0.02,10.30,0.00,0,85.00,180.51
+Rajastani,rotisserie drumstick,,1 drumstick,14.24,0.01,6.35,0.00,0,53.00,113.95
+Rajastani,rotisserie chicken,,1 serving (3 oz),21.93,0.02,10.30,0.00,0,85.00,180.51
+Rajastani,rotisserie chicken thigh,,1 thigh,20.41,0.02,13.97,0.00,0,89.00,207.37
+Rajastani,rotisserie chicken breast,,1 serving (3 oz),23.36,0.02,6.95,0.00,0,85.00,156.40
+Rajastani,chicken drumstick rotisserie,,1 drumstick,14.24,0.01,6.35,0.00,0,53.00,113.95
+Rajastani,indian ladoo,,1 piece,4.17,23.54,11.44,2.04,0,41.64,211.38
+Rajastani,besan ladoo,,1 piece,4.17,23.54,11.44,2.04,0,41.64,211.38
+Rajastani,chickpea ladoo,,1 piece,4.17,23.54,11.44,2.04,0,41.64,211.38
+Rajastani,ladoo,,1 piece,4.17,23.54,11.44,2.04,0,41.64,211.38
+Rajastani,aloo tikki,,1 cup,3.54,18.25,16.50,2.37,0,121.29,228.58
+Rajastani,aloo pie,,1 pie,9.55,74.10,11.31,5.06,0,226.61,434.24
+general,paneer tikka,,1 cup,8.24,6.90,16.27,1.50,0,198.14,201.27
+general,masala dosa,,1 medium dosa,3.88,29.20,3.72,0.86,0,96.78,167.67
+general,chole bhature,,1 bhatura with chole,13.24,58.91,26.96,11.07,0,281.08,510.88
+general,palak paneer,,1 cup,15.06,10.01,30.48,2.64,0,200.00,365.53
+general,aloo gobi,,1 cup,2.48,14.51,5.46,2.83,0,154.98,110.82
+general,rajma masala,,1 cup,13.20,37.98,6.51,9.26,0,250.00,252.36
+general,baingan bharta,,1 cup,2.14,17.47,5.64,4.82,0,233.92,117.41
+general,pav bhaji,,1 serving,11.75,62.58,11.44,9.44,0,404.33,389.75
+general,vegetable biryani,,1 cup,4.18,36.82,3.88,1.97,0,168.81,198.41
+general,dal,,1 cup,14.25,33.94,4.18,12.89,0,214.26,221.88
+general,kofta,,1 piece,6.10,1.32,4.80,0.47,0,30.05,73.17
+general,paneer butter masala,,1 cup,8.24,6.90,16.27,1.50,0,198.14,201.27
+general,aloo paratha,,1 piece,6.13,45.53,10.61,8.72,0,130.65,300.10
+general,idli sambar,,1 cup sambar with 3 idli,12.00,61.27,1.99,8.93,0,368.54,303.95
+general,veg pulao,,1 cup,5.39,53.93,4.39,1.01,0,244.07,280.64
+general,paneer,,"1 cup, crumbled",22.07,3.64,29.06,0.00,0,122.00,364.78
+general,masala,,1 serving,0.16,0.85,0.19,0.36,0,1.47,4.64
+general,dal makhani,,1 serving,16.28,39.48,24.21,13.21,0,253.46,426.89
+general,vegetable,,0.5 cup,2.60,11.91,0.14,4.00,0,91.00,59.15
+general,gobi manchurian,,1 cup,3.11,22.16,15.71,2.57,0,136.67,235.92
+general,veg,,0.5 cup,2.60,11.91,0.14,4.00,0,91.00,59.15
+general,hakka noodles,,2 cups,18.43,52.26,17.16,5.77,0,400.00,424.13
+general,spring rolls,,1 roll,3.75,19.28,6.22,0.87,0,64.47,148.30
+general,roti,,1 medium,3.14,18.45,3.68,3.88,0,40.00,119.60
+general,korma,,1 serving (about 2 cups),27.99,14.89,32.91,2.34,0,318.60,460.98
+general,vegetable upma,,1 cup,3.45,21.12,3.96,1.98,0,155.06,132.38
+general,pani puri,,1 piece,2.45,14.89,9.86,2.15,0,70.69,151.70
+general,dahi vada,,1 piece with sauce,3.78,7.79,5.01,2.41,0,70.90,88.66
+general,chana masala,,1 cup,7.67,28.63,16.45,7.60,0,195.08,280.93
+general,rajma chawal,,1 cup,9.47,42.59,3.44,6.54,0,250.45,235.08
+general,momos,,1 dumpling,3.37,7.19,2.16,0.44,0,36.43,61.48
+general,seekh kebab,,1 piece,28.02,8.53,19.73,2.04,0,155.38,324.91
+general,curry,,1 cup,28.25,7.52,10.86,1.49,0,234.57,243.26
+general,aloo tikki,,1 cup,3.54,18.25,16.50,2.37,0,121.29,228.58
+general,cutlet,,1 cutlet,30.57,15.83,8.43,0.82,0,126.68,270.60
+general,dosa,,1 medium dosa,3.88,29.20,3.72,0.86,0,96.78,167.67
+general,veg fried rice,,1 cup,8.01,29.71,14.28,2.11,0,166.99,278.80
+general,mixed vegetable,,1 cup,2.38,9.73,0.46,4.16,0,140.05,45.30
+general,veggie pizza,,1 medium slice,10.95,32.70,9.91,2.48,0,108.00,262.80
+general,vegetable soup,,1 bowl (2 cups),5.83,25.79,3.76,3.37,0,482.00,159.06
+general,vegetable pakora,,1 piece,0.43,3.23,1.25,0.32,0,13.11,25.36
+general,veggie burger,,1 veggie burger on bun,17.69,36.28,16.69,6.52,0,192.75,364.75
+general,mushroom masala,,1 cup,5.02,16.76,9.35,4.72,0,230.25,156.44
+general,mushroom,,1 mushroom,0.26,0.63,0.06,0.26,0,12.00,3.36
+general,pulao,,1 cup,4.06,41.92,8.12,0.75,0,164.30,261.22
+general,tikka,,1 cup,33.31,11.19,12.21,2.21,0,253.22,291.15
+general,mushroom soup,,1 can,14.87,36.29,22.55,1.89,0,630.00,409.50
+general,biryani,,1 cup,19.65,30.95,9.44,1.36,0,205.18,291.95
+general,roll,,1 roll (1 oz),2.41,12.88,1.76,1.06,0,28.00,76.44
+general,halwa,,1 cup,5.61,35.18,13.49,2.21,0,228.00,275.44
+general,matar paneer,,1 serving,23.31,24.93,46.18,6.41,0,440.46,598.54
+general,vegetable salad,,1 cup,3.72,10.90,6.78,2.66,0,163.00,114.21
+general,palak,,1 cup,5.35,6.75,0.47,4.32,0,180.00,41.40
+general,paratha,,1 piece,5.02,35.83,10.43,7.58,0,79.00,257.54
+general,paneer curry,,1 cup,17.48,10.13,29.09,1.48,0,236.00,367.39
+general,bhindi fry,,1 cup,2.86,11.60,16.69,3.94,0,186.45,195.93
+general,veggie stir fry,,1 cup,6.03,15.39,10.89,5.01,0,237.82,170.55
+general,veg stew,,1 bowl (2 cups),5.83,25.79,3.76,3.37,0,482.00,159.06
+general,veggie,,0.5 cup,2.60,11.91,0.14,4.00,0,91.00,59.15
+general,veggie kebabs,,1 kabob,2.64,8.37,4.99,2.43,0,188.42,81.84
+general,soup,,1 serving 1 cup,2.88,7.37,1.88,1.24,0,248.00,59.52
+general,papdi chaat,,1 cup,6.78,31.53,10.03,2.21,0,128.89,242.11
+general,bhel puri,,1 cup,5.86,21.86,9.24,2.84,0,92.92,187.98
+general,sev puri,,1 piece,1.85,11.27,5.10,1.56,0,53.07,93.51
+general,dahi,,5.3 oz container,13.50,5.97,7.50,0.00,0,150.00,145.50
+general,puri,,1 poori,2.26,12.34,9.77,1.83,0,43.62,140.88
+general,kachori,,1 piece,1.50,7.68,5.26,0.63,0,19.78,83.29
+general,chana,,1 cup,7.67,28.63,16.45,7.60,0,195.08,280.93
+general,papdi,,1 piece,0.60,4.41,2.10,0.18,0,11.55,38.98
+general,samosa chaat,,1 cup,10.86,42.31,22.83,8.10,0,233.26,403.43
+general,chole,,1 cup,7.67,28.63,16.45,7.60,0,195.08,280.93
+general,rasgulla,,1 piece,1.72,25.07,1.76,0.02,0,131.33,120.00
+general,gulab jamun,,1 piece,1.94,19.60,7.31,0.05,0,50.00,148.85
+general,jalebi,,1 piece,1.28,29.02,3.48,0.39,0,55.00,149.72
+general,rasmalai,,1 cup,6.02,33.22,7.70,0.74,0,183.12,220.13
+general,ladoo,,1 piece,4.17,23.54,11.44,2.04,0,41.64,211.38
+general,peda,,1 ball,1.44,4.95,1.69,0.03,0,10.74,40.07
+general,kaju katli,,1 piece,1.51,12.37,4.54,0.31,0,19.00,91.95
+general,kheer,,0.5 cup,4.16,17.29,5.34,0.38,0,112.50,131.29
+general,kalakand,,1 piece,4.99,16.78,6.32,0.07,0,44.22,141.64
+general,sohan papdi,,1 piece,2.23,34.46,13.06,0.88,0,70.67,259.38
+general,mysore pak,,1 piece,0.77,16.88,11.72,0.19,0,43.81,172.85
+general,cham cham,,1 medium piece,1.60,30.17,3.09,0.41,0,109.40,150.16

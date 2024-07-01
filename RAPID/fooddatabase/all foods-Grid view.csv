@@ -1,0 +1,971 @@
+﻿Cuisines,Food item,Session consumed,Quantity,Protiens (in g),Carbs (in g),Fats (in g),Fiber (in g),Calcium (in mg),Total (in g),Calories (in Cal)
+North Karnataka,jolada rotti,"[Lunch, Dinner]",1 roti,2.00,19.50,0.80,1.70,3.83,50.00,91.00
+North Karnataka,heerekai ennegayi,"[Lunch, Dinner]",1 piece,0.20,0.80,1.50,0.50,5.68,20.00,18.00
+North Karnataka,shenga holige,"[Breakfast, Snack]",1 poli,4.90,24.20,10.40,1.70,29.41,50.00,204.00
+North Karnataka,sajje rotti,"[Lunch, Dinner]",1 roti,3.70,20.90,6.80,3.10,11.94,50.00,158.00
+North Karnataka,mirchi bajji,"[Snack, Dinner]",1 bajji,2.40,7.10,9.90,1.50,18.79,80.00,127.00
+North Karnataka,badanekai yennegai,"[Lunch, Dinner]",1 cup,5.10,13.80,12.60,6.40,66.88,250.00,184.00
+North Karnataka,kadubu,"[Breakfast, Snack]",1 kadubu,1.40,16.90,0.70,0.70,9.3,45.00,81.00
+North Karnataka,mensinkai hasi huli,"[Lunch, Dinner]",1 cup,6.90,13.60,16.40,3.50,212,250.00,227.00
+North Karnataka,jhunka,"[Lunch, Dinner]",1 cup,12.00,34.60,8.50,6.30,51.1,166.00,264.00
+North Karnataka,kempu harive soppuna palya,"[Lunch, Dinner]",1 cup,4.70,10.10,9.90,1.20,309,166.00,139.00
+Coastal Karnataka,mangalore buns,"[Breakfast, Snack]",1 bun,2.60,23.50,4.90,1.00,15.4,50.00,150.00
+Coastal Karnataka,neer dosa,"[Breakfast, Dinner]",1 dosa,1.40,14.60,1.60,0.30,3.53,70.00,79.00
+Coastal Karnataka,chicken ghee roast,"[Lunch, Dinner]",1 bowl,48.90,8.40,12.80,1.40,114,233.00,343.00
+Coastal Karnataka,meen gassi,"[Lunch, Dinner]",1 bowl,36.00,10.30,18.10,2.30,54,350.00,341.00
+Coastal Karnataka,prawn gassi,"[Lunch, Dinner]",1 bowl,36.10,22.50,18.50,8.80,200,350.00,390.00
+Coastal Karnataka,crab sukka,"[Lunch, Dinner]",1 bowl,27.30,8.70,9.50,2.70,100,233.00,234.00
+Coastal Karnataka,sannas,"[Lunch, Dinner]",1 rice cake,1.60,15.00,0.60,0.20,3.2,50.00,72.00
+Coastal Karnataka,pathrode,"[Snack, Lunch, Dinner]",1 piece,1.70,6.80,3.00,1.70,19.81,30.00,60.00
+Coastal Karnataka,pomfret tawa fry,"[Lunch, Dinner]",1 piece,11.30,9.40,8.10,0.70,16.46,80.00,155.00
+Coastal Karnataka,goli baje,[Snack],1 piece,1.10,6.50,1.70,0.30,14.17,20.00,46.00
+Coastal Karnataka,squid garlic butter,"[Lunch, Dinner]",1 bowl,10.09,5.50,10.70,0.60,39,100.00,162.00
+Coastal Karnataka,bangude pulu munchi,"[Lunch, Dinner]",1 bowl,45.40,9.00,9.00,1.60,107,337.00,293.00
+South Karnataka,ragi mudde,"[Lunch, Dinner]",2 balls,4.30,42.80,0.80,6.80,212.83,300.00,195.00
+South Karnataka,ragi roti,"[Breakfast, Dinner]",1 roti,2.00,19.20,0.40,3.10,92.14,40.00,87.00
+South Karnataka,benne dosa,"[Breakfast, Dinner]",1 dosa,2.90,19.70,2.50,0.90,5.95,60.00,113.00
+South Karnataka,akki roti,"[Breakfast, Dinner]",1 roti,2.20,26.70,4.90,1.40,14.48,80.00,162.00
+South Karnataka,bsi bele bath,"[Lunch, Dinner]",1 cup,7.60,30.80,8.90,5.00,37.36,206.00,233.00
+South Karnataka,vangi bath,[Lunch],1 cup,5.00,20.60,11.00,7.60,120.22,166.00,197.00
+South Karnataka,kesari bhath,"[Breakfast, Dessert]",1/2 cup (katori),2.80,32.50,6.30,1.00,11.34,130.00,195.00
+South Karnataka,coorgi pandi curry,"[Lunch, Dinner]",1 cup,21.10,4.50,28.40,1.60,46.13,216.00,362.00
+South Karnataka,kodava kuutu curry,"[Lunch, Dinner]",1 cup,7.30,35.10,12.50,13.80,82.56,250.00,279.00
+South Karnataka,kadambuttu ,"[Lunch, Dinner]",1 piece,1.40,13.00,1.40,0.60,4.66,40.00,70.00
+South Karnataka,sambar,"[Breakfast, Lunch, Dinner]",1 cup,9.20,27.00,5.00,6.10,58.14,250.00,189.00
+South Karnataka,medu vadda ,"[Breakfast, Snack]",1 vada,5.80,14.30,8.20,2.90,16.22,60.00,154.00
+South Karnataka,Besan utappam,"[Breakfast, Dinner]",1 uttapam,5.30,15.90,6.60,3.30,25.29,123.00,143.00
+South Karnataka,curd rice,"[Lunch, Dinner]",1 cup,5.80,26.30,9.20,0.70,166.51,216.00,211.00
+South Karnataka,koli saaru,"[Lunch, Dinner]",1 cup,27.10,9.10,11.60,3.00,91.83,250.00,246.00
+South Karnataka,Mysore pak,"[Dessert, Snack]",11 piece,2.30,25.90,14.60,1.10,4.71,50.00,242.00
+South Karnataka,Menthe soppu huli,"[Lunch, Dinner]",1 cup,8.70,23.60,4.00,5.30,115.32,250.00,164.00
+South Karnataka,Balekai palya,"[Lunch, Dinner]",1 cup,3.30,33.80,12.10,5.40,28.76,166.00,245.00
+South Karnataka,Chitranna,"[Breakfast, Lunch]",1 cup ,6.20,43.60,5.10,1.90,23.3,206.00,244.00
+South Karnataka,Obbattu (Holige),"[Dessert, Snack]",1 poli,4.90,24.20,10.40,1.70,29.41,50.00,204.00
+South Karnataka,Saagu,"[Breakfast, Lunch, Dinner]",1 cup,4.00,20.80,9.40,5.60,56.15,216.00,181.00
+South Karnataka,Kosambari,"[Lunch, Dinner]",1 cup,8.40,24.00,6.00,5.30,35.78,166.00,181.00
+South Karnataka,Uppittu (Upma),"[Breakfast, Dinner]",1 cup,5.20,34.30,3.00,2.50,32.46,216.00,184.00
+South Karnataka,Kayi Holige,"[Dessert, Snack]",1 poli,3.70,36.00,10.40,4.50,28.76,75.00,252.00
+South Karnataka,Gojju,"[Lunch, Dinner]",1 cup ,1.00,23.60,4.50,1.00,40.66,250.00,136.00
+South Karnataka,Shavige Bath,[Breakfast],1 cup ,4.20,33.40,3.90,4.50,30.38,166.00,184.00
+South Karnataka,Huli,"[Lunch, Dinner]",1 cup,17.50,54.10,11.60,13.60,118.26,350.00,386.00
+South Karnataka,Nuchinunde,"[Breakfast, Snack]",1 unde ,3.60,9.20,0.90,1.70,11.5,50.00,59.00
+South Karnataka,Thili Saaru,"[Lunch, Dinner]",1 cup ,2.50,9.60,1.30,1.70,33.04,250.00,60.00
+South Karnataka,Haalu Payasa (Kheer),[Dessert],1 cup,12.40,75.10,18.90,0.70,365.22,250.00,508.00
+South Karnataka ,Bassaru,,,,,,,,,
+South Karnataka,Kadlekalu Usli,"[Breakfast, Snack]",1 cup,9.20,31.80,10.70,14.70,88.61,166.00,260.00
+South Karnataka,Majjige Huli,"[Lunch, Dinner]",1 cup,3.90,8.70,9.30,4.40,121.8,250.00,133.00
+South Karnataka,Badanekai Yennegai,"[Lunch, Dinner]",1 cup,5.10,13.80,12.60,6.40,66.88,250.00,184.00
+Malnad,akki roti,"[Breakfast, Dinner]",1 roti,2.20,26.70,4.90,1.40,14.48,80.00,162.00
+Malnad,kadubu,"[Breakfast, Snack]",1 kadubu,1.40,16.90,0.70,0.70,9.3,45.00,81.00
+Malnad,Pathrode,"[Snack, Lunch, Dinner]",1 Pathrode,1.70,6.80,3.00,1.70,19.81,30.00,60.00
+Malnad,Bamboo Shoot Curry,"[Lunch, Dinner] ​",1 katori,3.40,10.10,8.30,4.10,38.09,150.00,125.00
+Malnad,Koli Curry,Lunch/Dinner,1 cup,26.10,8.70,13.80,3.00,64.13,250.00,267.00
+Malnad,Nellikai Chitranna,Lunch/Dinner,1 bowl,4.40,43.40,3.20,2.40,43.75,220.00,219.00
+Malnad,Mushroom Curry,Lunch/Dinner,1 cup,5.10,11.60,7.50,3.60,41.11,250.00,124.00
+Malnad,Tuppa Dosa,Breakfast,1 dosa,3.40,21.30,9.00,1.20,7.2,80.00,180.00
+Malnad,Menasinakai Bajji,Lunch/Dinner,1 bajji,2.40,7.10,9.90,1.50,18.79,80.00,127.00
+Malnad,Shavige Uppittu,Breakfast,1 cup,4.20,33.40,3.90,4.50,30.38,166.00,184.00
+Malnad,Kayi Holige,Lunch/Dinner,1 poli,3.70,36.00,10.40,4.50,28.76,75.00,252.00
+Malnad,Puli Koddel,Lunch/Dinner,1 cup,1.90,16.10,19.30,5.30,79.39,250.00,244.00
+Malnad,ragi mudde,Lunch/Dinner,2 balls,4.30,42.80,0.80,6.80,212.83,300.00,195.00
+Malnad,kesari bhath,Breakfast/Dessert,1/2 cup (katori),2.80,32.50,6.30,1.00,11.34,130.00,195.00
+Malnad,Kokum ,Snack/Dessert,1 cup,1.10,30.90,0.20,3.90,10.13,216.00,130.00
+Malnad,Ellu Bella,Snack/Dessert,1 table spoon,1.40,3.30,4.50,1.10,40.56,10.00,57.00
+Malnad,Pumpkin Curry,Lunch/Dinner,1 cup,3.10,16.70,7.70,2.80,52.1,250.00,146.00
+Malnad,neer dosa,Breakfast,1 dosa,1.40,14.60,1.60,0.30,3.53,70.00,79.00
+Malnad,Maddur vada,Lunch/Dinner,1 vada,1.50,11.60,5.20,0.70,6.25,28.00,100.00
+naadu naadu,Kongunadu Chicken Curry,Lunch/Dinner,1 cup,3.50,18.20,15.10,5.80,69,250.00,215.00
+naadu naadu,pongal,Breakfast/Lunch/Dinner,1 cup,6.00,39.00,5.00,1.80,27,216.00,223.00
+naadu naadu,ambu Koozh,Lunch/Dinner,1 cup,3.10,14.50,1.90,1.80,44,250.00,86.00
+naadu naadu,rasam,Lunch/Dinner,1 cup,2.50,9.60,1.30,1.70,33,250.00,60.00
+naadu naadu,reode Turmeric Rice,Lunch/Dinner,1 cup,4.00,40.00,4.50,2.00,28,206.00,216.00
+naadu naadu,athal Kuzhambu,Lunch/Dinner,1 bowl,3.70,37.00,1.70,6.50,155,350.00,170.00
+naadu naadu,Tirunelveli Halwa,Dessert,1 cup,2.10,80.00,15.00,1.20,9.62,216.00,452.00
+naadu naadu,Salem Sambhar,Lunch/Dinner,1 cup,9.20,27.00,5.00,6.00,60,250.00,189.00
+naadu naadu,annapurna milk,"Breakfast/Lunch/Dinner (as a beverage, it can be consumed anytime)",1 cup,8.00,12.00,8.80,0.00,275,250.00,158.00
+naadu naadu,Karur Parotta,Lunch/Dinner,1 piece,4.90,35.00,15.00,1.10,34.21,80.00,295.00
+naadu naadu,Madurai Mutton Kari Dosai*,Lunch/Dinner,1 piece,9.70,16.90,15.40,1.80,10.76,131.00,247.00
+naadu naadu,Thanjavur Thalicha Idli,Breakfast,1 piece,2.90,14.90,2.60,1.30,4.21,50.00,95.00
+naadu naadu,Dindigul Biriyani,Lunch/Dinner,1 cup,12.20,31.00,12.00,1.40,118.9,206.00,283.00
+naadu naadu,Namakkal Egg Parotta,Lunch/Dinner,1 piece,7.40,17.60,8.30,2.70,40,80.00,172.00
+naadu naadu,Kanchipuram Idli*,Breakfast,1 piece,2.90,14.30,1.10,1.30,9.18,50.00,78.00
+chola nadu ,Kathirikai Gothsu,Lunch/Dinner,1 cup,3.00,15.30,9.00,4.30,64,250.00,154.00
+chola nadu,Kumbakonam Kadappa,Lunch/Dinner,1 bowl,11.00,48.00,11.30,9.00,123,350.00,331.00
+chola nadu,Manaparai Murukku,Snack,1 piece,1.30,5.70,3.00,0.60,3.68,15.00,57.00
+chola nadu,Thanjavur Thavala Adai,Lunch/Dinner,1 piece,6.60,30.00,7.90,2.80,40,100.00,215.00
+chola nadu,Vathal Kuzhambu,Lunch/Dinner,1 bowl,3.70,37.00,1.70,6.50,155,350.00,170.00
+chola nadu,Thiruvaiyaru Ashoka Halwa,Dessert,1 bowl,19.20,138.00,46.00,8.50,50,350.00,1039.00
+chola nadu,Pudukkottai Fish Curry,Lunch/Dinner,1 cup,28.60,14.00,8.70,4.20,542,250.00,246.00
+chola nadu,Nagapattinam Nei Meen Fry*,Lunch/Dinner,1 fillet,80.00,0.00,7.90,0.00,122,396.00,416.00
+chola nadu,Karuvadu Kuzhambu,Lunch/Dinner,1 cup,11.30,17.00,17.40,6.00,116,250.00,265.00
+chola nadu,Karaikudi Meen Varuval,Lunch/Dinner,1 piece,14.50,2.00,5.20,0.40,7.82,80.00,111.00
+chola nadu,Seeraga Samba Rice Biriyani,Lunch/Dinner,1 cup,4.00,35.00,7.10,2.80,32,206.00,223.00
+chola nadu,Mayiladuthurai Mutton Soup,Lunch/Dinner,1 bowl,12.10,7.30,9.70,2.90,128,350.00,165.00
+chola nadu,Koil Paniyaram*,Breakfast,1 piece,0.70,3.60,2.00,0.10,3.5,20.00,35.00
+chola nadu,Ariyamangalam Atho,Lunch/Dinner,1 cup,5.50,33.00,17.50,3.10,44,166.00,306.00
+thondai nadu,Kanchipuram Idli*,Breakfast,1 piece,2.90,14.30,1.10,1.30,9.18,50.00,78.00
+thondai nadu,Vadacurry,Lunch/Dinner,1 cup,8.60,27.00,21.50,7.50,39,250.00,326.00
+thondai nadu,Chettinad Pepper Chicken,Lunch/Dinner,1 bowl,42.60,8.80,16.00,5.00,90,291.00,347.00
+thondai nadu,Puliyodarai,Lunch/Dinner,1 bowl,8.70,66.00,10.70,3.10,62,290.00,391.00
+thondai nadu,Thayir Vadai,Breakfast/Lunch/Dinner,1 piece,8.30,18.30,12.00,3.50,120,134.00,214.00
+thondai nadu,bsi bele bath,Lunch/Dinner,1 cup,7.60,30.80,8.90,5.00,37.36,206.00,233.00
+thondai nadu,pongal,Breakfast,1 cup,6.00,39.00,5.00,1.80,27,216.00,223.00
+thondai nadu,Kothamalli Thogayal,Lunch/Dinner,1 tablespon,0.40,1.20,2.70,1.00,6,15.00,30.00
+thondai nadu,madras chicken curry,Lunch/Dinner,1 bowl,40.00,9.80,10.50,2.20,70,350.00,283.00
+thondai nadu,rasam,Lunch/Dinner,1 cup,2.50,9.60,1.30,1.70,33,250.00,60.00
+thondai nadu,Arcot Biryani,Lunch/Dinner,1 cup,4.20,33.80,9.40,2.40,62,206.00,238.00
+thondai nadu,Pallipalayam Chicken*,Lunch/Dinner,1 cup,20.50,9.80,22.20,3.60,28.57,250.00,316.00
+thondai nadu,murukku,Snack,1 piece,1.30,5.00,3.00,0.60,3.68,15.00,57.00
+thondai nadu,Ellu Sadam,Lunch/Dinner,1 cup,11.40,48.00,14.50,6.00,218,206.00,366.00
+thondai nadu,Athirasam,Dessert,1 piece,1.60,18.00,4.00,0.50,17.28,30.00,113.00
+kongu naadu,Kongunadu Chicken Curry,Lunch/Dinner,1 cup,27.80,19.80,13.40,5.50,58,250.00,313.00
+kongu naadu,Ellu Sadam,Lunch/Dinner,1 cup,11.40,48.00,14.50,6.00,218,206.00,366.00
+kongu naadu,Ragi Roti,Breakfast/Dinner,1 piece,2.00,19.20,0.40,3.00,92,40.00,87.00
+kongu naadu,Kambu Koozh,Breakfast/Lunch,1 cup,3.10,14.50,1.90,1.90,43,250.00,86.00
+kongu naadu,Paniyaram,Breakfast/Snack,1 piece,0.80,4.00,1.40,0.40,3.08,20.00,32.00
+kongu naadu,Pallipalayam Chicken,Lunch/Dinner,1 cup,20.50,9.80,22.20,3.60,38.57,250.00,316.00
+kongu naadu,Kongunadu Mutton Kuzhambu*,Lunch/Dinner,1 cup,20.30,13.20,20.50,4.90,236,250.00,314.00
+kongu naadu,Vazhaipoo Vadai,Snack,1 piece,2.40,7.60,6.00,2.40,18.66,40.00,94.00
+kongu naadu,undakkai Vathal Kuzhambu,Lunch/Dinner,1 tablespoon,0.80,5.00,3.00,0.00,35.1,11.70,49.00
+kongu naadu,Murungai Keerai Poriyal,Lunch/Dinner,1 cup,1.40,2.60,0.40,1.90,65,21.00,19.00
+kongu naadu,Thengai Paal Kozhi,Lunch/Dinner,1 cup,24.50,11.70,20.70,3.70,42.5,250.00,324.00
+kongu naadu,Avarakkai Poriyal,Lunch/Dinner,1 cup,6.40,11.40,11.50,11.10,92,166.00,175.00
+kongu naadu,Kongunadu Urundai Kuzhambu,Lunch/Dinner,1 cup,7.80,25.50,11.50,5.70,69,250.00,234.00
+kongu naadu,Seeraga Samba Rice Biriyani,Lunch/Dinner,1 cup,4.00,35.00,7.10,2.80,32,206.00,223.00
+kongu naadu,Nethili Fry,Snack/Lunch/Dinner,1 cup,26.70,9.20,31.50,1.90,72,166.00,424.00
+kongu naadu,Kootu,Lunch/Dinner,1 cup,17.50,110.70,4.10,17.00,108,170.00,549.00
+pandya naadu,Madurai Jigarthanda,Dessert,1 glass,9.60,34.60,16.30,0.00,344,250.00,319.00
+pandya naadu,Chettinad Pepper Chicken,Lunch/Dinner,1 bowl,42.60,8.80,16.00,5.00,90,291.00,347.00
+pandya naadu,Tuticorin Macaroon,Dessert,1 piece,3.20,10.90,5.50,0.30,4,30.00,105.00
+pandya naadu,ennai parotta,Breakfast/Lunch/Dinner,1 piece,4.90,34.90,14.90,1.10,34.21,80.00,295.00
+pandya naadu,Nagercoil Mutton Kuzhambu*,Lunch/Dinner,1 cup,3.70,16.50,20.00,7.40,61,250.00,255.00
+pandya naadu,Tirunelveli Halwa,Dessert,1 cup,2.10,80.00,15.00,1.20,9.62,216.00,452.00
+pandya naadu,Pazham Pori with Nendram Pazham,Snack,1 piece,0.70,7.90,3.90,0.40,3.63,30.00,69.00
+pandya naadu,Alagar Kovil Dosai,Breakfast/Dinner,1 piece,4.60,24.10,4.70,3.00,26.7,80.00,157.00
+pandya naadu,Palayamkottai Mutton Biriyani*,Lunch/Dinner,1 bowl,16.60,41.30,22.50,1.40,181.66,289.00,437.00
+pandya naadu,Srivilliputhur Palkova,Dessert,1 cup,24.20,63.60,42.80,0.00,1158,166.00,732.00
+pandya naadu,Meen Kuzhambu,Lunch/Dinner,1 cup,22.80,11.00,23.00,3.60,51.11,250.00,280.00
+pandya naadu,Chettinadu Idiyappam with Coconut Milk,Breakfast,1 piece,1.20,15.70,0.80,0.50,2.94,50.00,77.00
+pandya naadu,Kovilpatti Kadalai Mitta,Snack,1 piece,1.00,5.00,2.00,0.30,7,8.30,40.00
+pandya naadu,Madurai Mutton Balls,Lunch/Dinner,1 piece,4.00,0.50,9.00,0.10,2.39,30.00,100.00
+north kerala,Thalassery Biriyani,Lunch/Dinner,1 cup,12.60,29.50,10.70,1.40,41,206.00,269.00
+north kerala,Kallummakkaya (Mussels) Curry,Lunch/Dinner,1 bowl,11.20,10.20,16.00,3.60,379,200.00,218.00
+north kerala,pathiri,Breakfast/Dinner,1 piece,0.70,9.40,0.80,0.30,1.73,30.00,49.00
+north kerala,Arikkadukka,Snack,1 piece,3.60,14.30,6.90,1.60,15.31,50.00,135.00
+north kerala,unnakaya,Snack,1 piece,1.10,13.20,12.10,2.00,4.48,50.00,163.00
+north kerala,malabar parotta,Breakfast/Lunch/Dinner,1 piece,4.90,34.90,14.90,1.10,34.21,80.00,295.00
+north kerala,Kozhi Pidi,Lunch/Dinner,1 cup,19.20,27.30,14.30,4.60,39,216.00,318.00
+north kerala,Chatti Pathiri,Dessert/Snack,1 slice,18.70,17.70,10.10,1.30,67,160.00,238.00
+north kerala,Fish Mango Curry,Lunch/Dinner,1 cup,28.00,15.20,8.00,0.90,71,250.00,242.00
+north kerala,Kadukka (Mussels) Fry,Snack,1 cup,19.00,3.00,11.40,0.50,775,166.00,191.00
+north kerala,Kozhikode Biryani,Lunch/Dinner,1 cup,13.30,29.40,11.40,1.00,60.6,206.00,277.00
+north kerala,Kannur Meen Curry,Lunch/Dinner,1 bowl,19.50,5.90,8.60,2.00,58.19,150.00,181.00
+north kerala,Payyoli Chicken Fry,Lunch/Dinner,1 cup,29.80,2.80,18.20,1.50,34.81,166.00,302.00
+south kerala,Karimeen Pollichathu,Lunch/Dinner,1 piece,10.30,3.20,13.80,0.60,18.52,80.00,179.00
+south kerala,Puttu and Kadala Curry,Breakfast,1 cup,14.40,124.10,23.00,17.50,95.57,450.00,771.00
+south kerala,appam,Breakfast/Dinner,1 piece,2.40,22.50,1.90,0.90,4.21,60.00,116.00
+south kerala,cocunut stew,Breakfast/Lunch/Dinner,1 cup,7.30,25.40,16.70,6.90,61.92,250.00,269.00
+south kerala,idiyappam,Breakfast,1 piece,1.20,15.70,0.80,0.50,2.94,50.00,77.00
+south kerala,Pazham Pori,Snack,1 piece,0.70,7.90,3.90,0.40,3.63,30.00,69.00
+south kerala,Nadan Kozhi Curry,Lunch/Dinner,1 cup,25.00,10.00,16.60,2.40,29.38,250.00,291.00
+south kerala,Fish Moilee,Lunch/Dinner,1 bowl,29.80,16.20,3.70,4.70,68.92,350.00,449.00
+south kerala,Kappa (Tapioca) with Meen Curry,Lunch/Dinner,1 bowl,11.30,42.90,6.90,3.60,50.91,350.00,271.00
+south kerala,Kanava Thoran,Lunch/Dinner,1 cup,19.00,12.60,11.60,3.00,72.14,166.00,233.00
+south kerala,Palada Pradhaman,Dessert,1 cup,9.40,63.80,12.40,0.50,255,250.00,398.00
+south kerala,avial,Lunch/Dinner,1 cup,3.20,20.00,10.90,6.50,80,250.00,190.00
+south kerala,Vellayappam,Breakfast,1 piece,2.40,20.10,4.10,1.70,4.51,65.00,127.00
+central kerala,erissery,Lunch/Dinner,1 cup,8.00,19.60,16.20,4.20,50,250.00,256.00
+central kerala,koottu curry,Lunch/Dinner,1 cup,7.30,35.10,12.50,13.80,82.56,250.00,279.00
+central kerala,olan,Lunch/Dinner,1 cup,7.00,16.60,11.50,3.20,38.75,250.00,195.00
+central kerala,yam theeyal,Lunch/Dinner,1 bowl,3.10,28.40,22.10,7.90,66.46,350.00,322.00
+central kerala,thoran,Lunch/Dinner,1 cup,4.20,18.00,7.30,6.00,54,166.00,152.00
+central kerala,vattayappam,Breakfast/Snack,1 piece,0.90,11.30,1.90,0.50,2.13,30.00,65.00
+central kerala,meen peera,Lunch/Dinner,1 cup,16.80,9.00,17.40,3.00,60,166.00,256.00
+central kerala,kappa vevichathu,Breakfast/Lunch/Dinner,1 cup,1.30,38.00,3.80,1.90,34,166.00,191.00
+central kerala,Kozhi Pidi,Lunch/Dinner,1 cup,19.20,27.30,14.30,4.60,39,216.00,318.00
+central kerala,palappam,Breakfast/Dinner,1 piece,1.90,14.40,9.00,2.80,3.78,50.00,146.00
+konkan ,Sol Kadhi,Drink,1 cup,1.60,7.20,14.80,1.90,6.06,250.00,158.00
+konkan,Amboli,Breakfast,1 amboli,4.00,20.90,3.20,1.50,8.83,60.00,128.00
+konkan ,Modak,Dessert,1 modak,1.30,19.40,5.70,1.90,10.51,50.00,135.00
+konkan,Malvani Fish Curry,Lunch/Dinner,1 cup,21.10,8.30,14.60,3.30,119.71,250.00,248.00
+konkan ,Phanasachi Bhaji,Lunch/Dinner,1 cup,2.40,23.60,7.80,2.60,37.78,166.00,165.00
+konkan,Kombdi Vade,Lunch/Dinner,3 vade 1 kartori curry,26.20,43.60,25.30,6.50,81.95,270.00,508.00
+konkan ,Solachi Kadhi,Drink,1 cup,1.60,7.20,14.80,1.90,6.06,250.00,158.00
+konkan,Ukadiche Modak,Dessert,1 modak,1.30,19.40,5.70,1.90,10.51,50.00,135.00
+konkan ,Tandalachi Bhakri,Breakfast/Lunch,1 bhakri,1.70,22.80,0.40,0.70,3.55,50.00,104.00
+konkan,Bombil duck Fry,Lunch/Dinner,1 bombil,6.00,0.80,4.90,0.10,71.33,50.00,73.00
+konkan ,Ambapoli,Snack,1 sqare,0.10,8.60,0.00,0.00,1.47,10.00,35.00
+konkan,Valache Birdhe,Lunch/Dinner,1 cup,10.90,28.70,5.60,11.70,49.37,250.00,207.00
+konkan ,Kaju Usal,Lunch/Dinner,1 cup,7.80,16.40,20.70,1.80,29.25,250.00,263.00
+konkan,Tisryanche Suke,Lunch/Dinner,1 cup,19.00,8.10,10.20,1.50,59.42,166.00,205.00
+konkan ,Poha Chivda,Snack,1 cup,3.10,21.90,3.90,0.70,12.58,35.00,133.00
+konkan,Konkani coconut Curry,Lunch/Dinner,1 bowl,4.40,13.30,29.40,9.60,61.67,350.00,335.00
+konkan ,Batata Song,Lunch/Dinner,1 cup,2.60,30.80,8.10,3.40,30.35,216.00,203.00
+konkan,Shevayachi Kheer,Dessert,1 cup,14.40,65.00,25.40,3.60,405.42,250.00,535.00
+konkan ,Karanji,Dessert,1 karanji,2.10,20.10,8.60,1.60,15.27,40.00,165.00
+konkan,Gajbaje,Lunch/Dinner,1 cup,3.00,14.80,16.70,4.70,28.47,250.00,221.00
+Nashik Division,Khandeshi Mutton curry,Lunch/Dinner,1 bowl,24.70,12.50,27.50,3.10,242.89,350.00,395.00
+Nashik Division,Misal Pav (Nashik Style),Breakfast/Lunch,2 pavs,9.80,57.00,10.80,2.30,50.98,230.00,364.00
+Nashik Division,Soya Chunks Bhaji,Lunch/Dinner,1 cup,14.10,18.30,6.90,6.50,108.54,250.00,190.00
+Nashik Division,Thalipeeth (Nashik Style),Breakfast/Lunch/Dinner,1 thalipeeth,4.50,21.30,5.70,4.00,33.06,80.00,151.00
+Nashik Division,Bharli Vangi,Lunch/Dinner,1 cup,4.80,14.70,17.60,6.80,51.94,216.00,230.00
+Nashik Division,Sabudana Thalipeeth,Breakfast/Lunch/Dinner,1 thalipeeth,2.60,28.70,8.00,1.60,14.24,80.00,197.00
+Nashik Division,Bhajani Chakli,Snack,1 chakli,1.00,6.30,2.60,0.10,3.81,15.00,51.00
+Nashik Division,Zunka Bhakri,Lunch/Dinner,1 piece,2.10,6.50,1.60,1.30,9.98,40.00,48.00
+Nashik Division,Nashik Kala Masoor,Lunch/Dinner,1 cup,13.20,33.50,3.10,9.50,72.01,250.00,213.00
+Nashik Division,Tomato Saar,Lunch,1 cup,1.80,6.40,7.40,3.70,30.03,250.00,100.00
+Nashik Division,Danyachi Amti,Lunch/Dinner,1 cup,10.90,10.90,35.80,8.40,48.83,250.00,394.00
+Nashik Division,Kombdi Vade (Nashik Style),Lunch/Dinner,3 vade 1 katori curry,26.20,43.60,25.30,6.50,81.95,270.00,508.00
+Nashik Division,Papdi Bhaji,Breakfast/Lunch/Dinner,1 bowl,5.10,16.30,12.50,11.10,79.59,233.00,197.00
+Nashik Division,Batatyacha Kees,Snack,1 bowl ,7.20,36.10,11.60,4.20,40.1,233.00,268.00
+Nashik Division,Masale Bhaat,Lunch/Dinner,1 cup,4.30,35.50,6.70,2.20,23.67,206.00,219.00
+Nashik Division,Bhadang Bhel,Snack,1 cup,3.20,13.20,9.60,1.30,16.54,31.00,147.00
+pune Division,Mastani,Dessert,1 glass,6.50,52.90,30.30,2.30,129.51,250.00,501.00
+pune Division,Misal Pav (pune Style),Breakfast/Lunch,2 pav,9.80,57.00,10.80,2.30,50.98,230.00,364.00
+pune Division,Bhakarwadi,Snack,1 serve,2.30,16.20,7.70,2.70,-,28.00,143.00
+pune Division,Pune's Special Poha,Breakfast,1 cup,3.80,40.10,6.00,1.70,18.93,166.00,228.00
+pune Division,Bakar Bhaji,Lunch/Dinner,1 cup,4.50,14.70,13.60,3.60,139.17,250.00,197.00
+pune Division,Sabudana Khichdi,Breakfast/Lunch,1 cup,4.00,46.10,7.60,2.50,30.33,166.00,267.00
+pune Division,Puran Poli,Dessert,1 poli,3.80,29.00,4.50,2.20,20.16,75.00,172.00
+pune Division,Batata Vada,Snack,1 wada,1.80,14.40,9.40,1.40,14.96,80.00,149.00
+pune Division,Thalipeeth (pune Style),Breakfast/Lunch/Dinner,1 thalipeeth,4.50,21.30,5.70,4.00,33.06,80.00,151.00
+pune Division,Shrewsbury Biscuits,Snack,1 biscuit,0.80,7.10,2.20,0.20,2.96,13.00,51.00
+pune Division,Kaanda Bhajiya,Snack,1 pakoda,0.70,2.80,3.00,0.40,2.88,15.00,41.00
+pune Division,Puneri Misal,Breakfast/Lunch,1 cup,7.70,31.10,13.50,2.70,34.21,250.00,269.00
+pune Division,Pohe Chivda,Snack,1 cup,3.10,21.90,3.90,0.70,12.58,35.00,133.00
+pune Division,Tambdi Bhaji,Lunch/Dinner,1 cup,5.40,11.20,5.60,5.60,493.41,166.00,116.00
+pune Division,Dadpe Pohe,Breakfast/Snack,1 cup,5.30,40.10,9.00,3.90,21.32,93.00,262.00
+pune Division,Pune Tambda Rassa,Lunch/Dinner,1 cup,21.50,10.70,23.00,3.10,71.13,250.00,351.00
+aurangabad division ,Naan Khaliya,Lunch/Dinner,1 bowl,33.60,17.90,50.90,3.60,377.25,350.00,664.00
+aurangabad division,Pune Tambda Rassa,Lunch/Dinner,1 cup,21.50,10.70,23.00,3.10,71.13,250.00,351.00
+aurangabad division,Mawa Jalebi,Dessert,1 small,1.60,9.00,5.20,0.00,70.22,25.00,88.00
+aurangabad division,Himayati Sheer Khurma,Dessert,1 cup,17.60,72.70,28.00,2.40,469.87,250.00,602.00
+aurangabad division,Khichda,Lunch/Dinner,1 bowl,24.40,58.00,11.50,10.90,74.45,350.00,431.00
+aurangabad division ,Naan Qalia,Lunch/Dinner,1 bowl,33.60,17.90,50.90,3.60,377.25,350.00,664.00
+aurangabad division,Shev Bhaji,Lunch/Dinner,1 cup,4.10,14.30,18.80,3.90,43.43,216.00,242.00
+aurangabad division,Baingan Bharta,Lunch/Dinner,1 cup,3.10,12.10,7.00,5.20,56.57,216.00,121.00
+aurangabad division,Pithla Bhakri,Lunch/Dinner,1 cup,11.30,31.40,8.20,6.30,43.21,216.00,245.00
+aurangabad division,Mutton Paya Soup without oil,Lunch/Dinner,1 cup,9.80,7.20,2.70,3.30,63.34,250.00,93.00
+aurangabad division ,Dal Khichdi,Breakfast/Lunch/Dinner,1 cup,5.30,18.10,3.30,4.20,21.27,166.00,120.00
+aurangabad division,Baadam Pista Milk,Drink,1 glass,8.60,23.00,13.00,0.80,286.6,250.00,240.00
+aurangabad division,Bharli Mirchi,Lunch/Dinner,1 piece,1.20,3.40,3.00,1.00,9.51,11.00,46.00
+aurangabad division,Aurangabad Kebab Paratha,Lunch/Dinner,1 paratha,8.00,19.80,13.10,3.30,34.21,80.00,290.00
+aurangabad division,Shahi Tukda,Dessert,1 piece,5.10,23.00,7.60,0.70,158.4,80.00,177.00
+amaravati division,paneer varhadi curry,Lunch/Dinner,1 bowl,19.00,17.60,26.00,5.80,278.9,350.00,376.00
+amaravati division,Dal Khichdi,Breakfast/Lunch/Dinner,1 cup,5.30,18.10,3.30,4.20,21.27,166.00,120.00
+amaravati division,Patodi Rassa,Lunch/Dinner,1 cup ,8.20,24.50,11.80,5.20,76.5,250.00,236.00
+amaravati division,Shev Bhaji,Lunch/Dinner,1 cup,4.10,14.30,18.80,3.90,43.43,216.00,242.00
+amaravati division,Puran Poli,Dessert,1 piece,0.60,64.00,2.60,7.00,55,166.00,318.00
+amaravati division,Shengdana Chatni,Lunch/Dinner,1 tablespoon ,2.00,1.80,3.60,0.90,11,9.00,44.00
+amaravati division,Danyachi Amti,Lunch/Dinner,1 cup,10.90,10.90,35.80,8.40,48.83,250.00,394.00
+amaravati division,Sabudana Thalipeeth,Breakfast/Lunch/Dinner,1 thalipeeth,2.60,28.70,8.00,1.60,14.24,80.00,197.00
+amaravati division,Varhadi Alu Vadi,Lunch/Dinner,1 piece,1.20,7.40,5.00,0.90,26.7,25.00,79.00
+amaravati division,Bhalla,Snack,1 piece ,5.80,14.30,8.20,2.90,16.22,60.00,154.00
+amaravati division,Kharda,Snack,1 table spoon,1.40,1.50,2.60,0.50,9.6,14.00,32.00
+amaravati division,Anarsa,Dessert,1 piece,1.40,18.10,3.70,0.20,6.95,30.00,111.00
+amaravati division,Zunka Bhakri,Lunch/Dinner,1 piece,2.10,6.50,1.60,1.30,9.98,40.00,48.00
+amaravati division,taak,Drink,1 glass,2.30,2.30,3.00,0.00,117.8,250.00,45.00
+amaravati division,Chakli,Snack,1 chakli,1.00,6.30,2.60,0.10,3.81,15.00,51.00
+Nagpur division,chicken saoji,Lunch/Dinner,1 bowl,58.00,5.60,6.50,1.60,79,291.00,313.00
+Nagpur division,Tarri Poha,Breakfast,1 cup,6.90,45.00,12.00,7.60,75.25,250.00,313.00
+Nagpur division,Masala Bhat,Lunch/Dinner,1 cup,4.30,35.50,6.70,2.20,23.67,206.00,219.00
+Nagpur division,Nagpur Orange Barfi ,Dessert,1 piece,2.50,15.60,3.60,0.10,115.9,30.00,103.00
+Nagpur division,Sabudana poha,Breakfast,1 cup,4.00,46.00,7.60,2.50,30.33,166.00,267.00
+Nagpur division,Tarri Pattice,Snack,1 piece,1.60,10.00,4.80,1.30,20.3,50.00,90.00
+Nagpur division,Patodi Rassa,Lunch/Dinner,1 cup,8.20,24.50,11.80,5.20,76.5,250.00,236.00
+Nagpur division,Sabudana vada ,Snack,1 piece,1.10,10.80,7.70,0.80,6.88,50.00,116.00
+Nagpur division,Zunka Bhakri,Lunch/Dinner,1 piece,2.10,6.50,1.60,1.30,9.98,40.00,48.00
+Nagpur division,Nagpuri Bhel,Snack,1 cup,5.10,27.00,8.90,2.90,31.87,93.00,207.00
+Nagpur division,Bhakarwadi,Snack,1 serve,2.30,16.20,7.70,2.70,0,28.00,143.00
+Nagpur division,Pithla Bhakri,Lunch/Dinner,1 cup,11.30,31.40,8.20,6.30,43.21,216.00,245.00
+Nagpur division,Kharda,Snack,1 table spoon,1.40,1.50,2.60,0.50,9.6,14.00,32.00
+Nagpur division,Anarsa,Dessert,1 piece,1.40,18.10,3.70,0.20,6.95,30.00,111.00
+Nagpur division,pani puri (golgappa),Snack,1 serve (6 puris),5.10,43.10,6.50,3.40,56.3,237.00,249.00
+Nagpur division,Batata Bhaji,Snack/Lunch/Dinner,1 cup,2.60,31.40,6.80,2.80,30,166.00,196.00
+Nagpur division,Jalebi,Dessert,1 large,1.10,15.30,7.40,0.30,13.4,50.00,131.00
+Nagpur division,Kadhi Pakoda,Lunch/Dinner,1 cup,7.40,18.70,16.60,3.80,114,250.00,253.00
+South Indian,dosa,breakfast/dinner,1 medium dosa,3.88,29.20,3.72,0.86,0,96.78,167.67
+South Indian,dosai,breakfast/dinner,1 medium dosa,3.88,29.20,3.72,0.86,0,96.78,167.67
+South Indian,dosas,breakfast/dinner,1 medium dosa,3.88,29.20,3.72,0.86,0,96.78,167.67
+South Indian,egg dosa,breakfast/dinner,1 dosa,9.01,20.68,9.57,1.51,0,232.26,205.15
+South Indian,egg dosas,breakfast/dinner,1 dosa,9.01,20.68,9.57,1.51,0,232.26,205.15
+South Indian,ragi dosa,breakfast/dinner,1 medium dosa,1.95,14.58,7.77,0.74,0,80.00,134.79
+South Indian,ragi dosas,breakfast/dinner,1 medium dosa,1.95,14.58,7.77,0.74,0,80.00,134.79
+South Indian,onion dosa,breakfast/dinner,1 medium dosa,4.62,34.50,3.90,1.83,0,150.44,190.96
+South Indian,wheat dosa,breakfast/dinner,1 medium dosa,3.88,29.20,3.72,0.86,0,96.78,167.67
+South Indian,mutta dosa,breakfast/dinner,1 dosa,9.01,20.68,9.57,1.51,0,232.26,205.15
+South Indian,carrot dosa,breakfast/dinner,1 Serving,4.55,36.36,14.43,3.29,0,330.68,291.53
+South Indian,dosa batter,breakfast/dinner,1 cup,3.88,29.20,0.26,0.86,0,229.93,137.07
+South Indian,butter dosa,breakfast/dinner,1 medium dosa,4.01,29.21,11.77,0.86,0,107.50,238.88
+South Indian,onion dosas,breakfast/dinner,1 medium dosa,4.62,34.50,3.90,1.83,0,150.44,190.96
+South Indian,masala dosa,breakfast/dinner,1 medium dosa,3.88,29.20,3.72,0.86,0,96.78,167.67
+South Indian,mutta dosai,breakfast/dinner,1 dosa,9.01,20.68,9.57,1.51,0,232.26,205.15
+South Indian,wheat dosas,breakfast/dinner,1 medium dosa,3.88,29.20,3.72,0.86,0,96.78,167.67
+South Indian,masala dosas,breakfast/dinner,1 medium dosa,3.88,29.20,3.72,0.86,0,96.78,167.67
+South Indian,carrot and ginger dosa,breakfast/dinner,1 Serving,4.55,36.36,14.43,3.29,0,330.68,291.53
+South Indian,idli,breakfast/dinner,1 idli,1.65,11.62,0.44,0.54,0,38.50,58.01
+South Indian,idlis,breakfast/dinner,1 idli,1.65,11.62,0.44,0.54,0,38.50,58.01
+South Indian,idli vada,breakfast,1 idli,1.65,11.62,0.44,0.54,0,38.50,58.01
+South Indian,idli sambar,breakfast/dinner,1 cup sambar with 3 idli,12.00,61.27,1.99,8.93,0,368.54,303.95
+South Indian,sambar,breakfast/lunch/dinner,1 bowl (2 cups),14.12,52.83,1.34,14.62,0,506.00,259.80
+South Indian,sambar rice,Lunch/Dinner,1 cup,6.53,38.54,4.50,5.45,0,207.00,213.92
+South Indian,sambar soup,Lunch/Dinner,1 bowl (2 cups),14.12,52.83,1.34,14.62,0,506.00,259.80
+South Indian,rice sambar,Lunch/Dinner,1 cup,6.53,38.54,4.50,5.45,0,207.00,213.92
+South Indian,sambar sadam,Lunch/Dinner,1 cup,6.53,38.54,4.50,5.45,0,207.00,213.92
+South Indian,sambar powder,Ingredient,1 tsp,0.29,1.12,0.28,1.06,0,2.00,6.50
+South Indian,lentil sambar,Lunch/Dinner,1 bowl (2 cups),14.12,52.83,1.34,14.62,0,506.00,259.80
+South Indian,homemade sambar,Lunch/Dinner,1 bowl (2 cups),14.12,52.83,1.34,14.62,0,506.00,259.80
+South Indian,sambar homemade,Lunch/Dinner,1 bowl (2 cups),14.12,52.83,1.34,14.62,0,506.00,259.80
+South Indian,vada,Snack,1 piece,4.36,11.35,8.39,2.02,0,70.86,134.88
+South Indian,vadas,Snack,1 piece,4.36,11.35,8.39,2.02,0,70.86,134.88
+South Indian,vada pao,Snack,1 sandwich,7.46,37.08,9.48,3.77,0,126.65,262.94
+South Indian,vada pav,Snack,1 sandwich,7.46,37.08,9.48,3.77,0,126.65,262.94
+South Indian,dahi vada,Snack,1 piece with sauce,3.78,7.79,5.01,2.41,0,70.90,88.66
+South Indian,medu vada,Snack,1 piece,4.36,11.35,8.39,2.02,0,70.86,134.88
+South Indian,mumbai vada,Snack,1 piece,1.71,13.02,5.96,0.89,0,50.42,111.54
+South Indian,batata vada,Snack,1 piece,1.71,13.02,5.96,0.89,0,50.42,111.54
+South Indian,potato vada,Snack,1 piece,1.71,13.02,5.96,0.89,0,50.42,111.54
+South Indian,vada sambhar,Snack,1 piece,4.36,11.35,8.39,2.02,0,70.86,134.88
+South Indian,upma,Breakfast,1 cup,3.45,21.12,3.96,1.98,0,155.06,132.38
+South Indian,poha upma,Breakfast,1 cup,4.03,35.41,6.92,1.91,0,163.40,219.18
+South Indian,vegetable upma,Breakfast,1 cup,3.45,21.12,3.96,1.98,0,155.06,132.38
+South Indian,veggie poha upma,Breakfast,1 cup,4.03,35.41,6.92,1.91,0,163.40,219.18
+South Indian,vegetable poha upma,Breakfast,1 cup,4.03,35.41,6.92,1.91,0,163.40,219.18
+South Indian,rasam,Lunch/Dinner,1 serving,2.21,8.67,3.14,2.75,0,249.53,64.00
+South Indian,rasam soup,Lunch/Dinner,1 serving,2.21,8.67,3.14,2.75,0,249.53,64.00
+South Indian,indian rasam,Lunch/Dinner,1 serving,2.21,8.67,3.14,2.75,0,249.53,64.00
+South Indian,pongal,Breakfast,1 cup,7.32,53.98,8.07,3.79,0,207.00,318.62
+South Indian,ven pongal,Breakfast,1 cup,7.32,53.98,8.07,3.79,0,207.00,318.62
+South Indian,belekoy,Snack/Dessert,1 piece,0.53,12.89,0.33,0.68,0,16.42,55.19
+South Indian,belecoy,Snack/Dessert,1 piece,0.53,12.89,0.33,0.68,0,16.42,55.19
+South Indian,filipino belekoy,Snack/Dessert,1 piece,0.53,12.89,0.33,0.68,0,16.42,55.19
+South Indian,filipino belecoy,Snack/Dessert,1 piece,0.53,12.89,0.33,0.68,0,16.42,55.19
+South Indian,coconut chutney,Condiment,2 tbsp,1.27,4.92,4.38,1.67,0,37.20,59.96
+South Indian,coconut chutneys,Condiment,2 tbsp,1.27,4.92,4.38,1.67,0,37.20,59.96
+South Indian,onion chutney,Condiment,2 tbsp,0.37,2.17,2.44,0.35,0,34.60,30.87
+South Indian,tomato chutney,Condiment,1 tbsp,0.33,7.68,0.13,0.45,0,46.00,33.68
+South Indian,mango chutney,Condiment,1 tbsp,0.14,8.34,0.10,0.20,0,17.00,33.35
+South Indian,green chutney,Condiment,1 tablespoon,0.85,1.67,1.41,0.47,0,17.00,20.67
+South Indian,garlic chutney,Condiment,1 cup,1.26,4.76,19.28,1.11,0,155.85,192.32
+South Indian,date chutney,Condiment,1 tbsp,0.10,4.87,0.03,0.25,0,17.85,18.77
+South Indian,apple chutney,Condiment,0.25 cup,0.46,26.34,0.12,0.84,0,60.80,104.18
+South Indian,tamarind chutney,Condiment,1 tbsp,0.10,4.87,0.03,0.25,0,17.85,18.77
+South Indian,coconut milk,Ingredient,1 cup,4.57,6.35,48.21,,0,226.00,445.22
+South Indian,chutney,Condiment,1 tablespoon,0.85,1.67,1.41,0.47,0,17.00,20.67
+South Indian,coconut oil,Ingredient,1 tbsp,0.00,0.00,13.47,0.00,0,13.60,121.31
+South Indian,spiced mango chutney,Condiment,1 tbsp,0.14,8.34,0.10,0.20,0,17.00,33.35
+South Indian,tamarind date chutney,Condiment,1 tbsp,0.10,4.87,0.03,0.25,0,17.85,18.77
+South Indian,chutney coconut,Condiment,2 tbsp,1.27,4.92,4.38,1.67,0,37.20,59.96
+South Indian,apple raisin chutney,Condiment,0.25 cup,0.46,26.34,0.12,0.84,0,60.80,104.18
+South Indian,date tamarind chutney,Condiment,1 tbsp,0.10,4.87,0.03,0.25,0,17.85,18.77
+South Indian,chutney tomato,Condiment,1 tbsp,0.33,7.68,0.13,0.45,0,46.00,33.68
+South Indian,british style mango chutney,Condiment,1 tbsp,0.14,8.34,0.10,0.20,0,17.00,33.35
+South Indian,biryani,Lunch/Dinner,1 cup,19.65,30.95,9.44,1.36,0,205.18,291.95
+South Indian,egg biryani,Lunch/Dinner,1 cup,6.74,30.75,7.86,1.65,0,169.41,221.62
+South Indian,biryani veg,Lunch/Dinner,1 cup,4.18,36.82,3.88,1.97,0,168.81,198.41
+South Indian,biryani egg,Lunch/Dinner,1 cup,6.74,30.75,7.86,1.65,0,169.41,221.62
+South Indian,fish biryani,Lunch/Dinner,1 cup,19.36,31.09,10.01,1.31,0,205.18,295.74
+South Indian,egg biryanis,Lunch/Dinner,1 cup,6.74,30.75,7.86,1.65,0,169.41,221.62
+South Indian,nasi biryani,Lunch/Dinner,1 cup,4.29,42.72,14.81,1.76,0,170.80,321.02
+South Indian,beef biryani,Lunch/Dinner,1 cup,19.89,19.00,16.96,1.54,0,201.15,310.84
+South Indian,palak biryani,Lunch/Dinner,1 Serving,10.02,82.48,12.24,5.71,0,400.57,472.69
+South Indian,steak biryani,Lunch/Dinner,1 cup,19.89,19.00,16.96,1.54,0,201.15,310.84
+South Indian,mutton biryani,Lunch/Dinner,1 serving (about 2 cups),37.65,37.99,37.14,3.08,0,402.20,642.24
+South Indian,chicken biryani,Lunch/Dinner,1 cup,19.65,30.95,9.44,1.36,0,205.18,291.95
+South Indian,biryani with egg,Lunch/Dinner,1 cup,6.74,30.75,7.86,1.65,0,169.41,221.62
+South Indian,chicken biryanis,Lunch/Dinner,1 cup,19.65,30.95,9.44,1.36,0,205.18,291.95
+South Indian,vegetable biryani,Lunch/Dinner,1 cup,4.18,36.82,3.88,1.97,0,168.81,198.41
+South Indian,fish biryani spice,Lunch/Dinner,0.25 tsp,0.02,0.14,0.02,0.08,0,1.20,0.62
+South Indian,biryani fish spice,Ingredient,0.25 tsp,0.02,0.14,0.02,0.08,0,1.20,0.62
+South Indian,vegetable biryanis,lunch/dinner,1 cup,4.18,36.82,3.88,1.97,0,168.81,198.41
+South Indian,fish biryani spice mix,Ingredient,0.25 tsp,0.02,0.14,0.02,0.08,0,1.20,0.62
+South Indian,biryani fish spice mix,Ingredient,0.25 tsp,0.02,0.14,0.02,0.08,0,1.20,0.62
+South Indian,appam,Breakfast,1 piece,1.47,16.68,2.39,0.61,0,45.94,94.29
+South Indian,appams,Breakfast,1 piece,1.47,16.68,2.39,0.61,0,45.94,94.29
+South Indian,kerala appam,Breakfast,1 piece,1.47,16.68,2.39,0.61,0,45.94,94.29
+South Indian,payasam,Dessert,0.5 cup,4.16,17.29,5.34,0.38,0,112.50,131.29
+North Indian,paratha,Breakfast/Lunch/Dinner,1 piece,5.02,35.83,10.43,7.58,0,79.00,257.54
+North Indian,egg paratha,Breakfast/Lunch/Dinner,1 piece,11.32,45.13,7.46,6.80,0,106.14,278.62
+North Indian,dal paratha,Breakfast/Lunch/Dinner,1 Paratha,4.16,20.68,5.47,1.91,0,64.02,148.43
+North Indian,aloo paratha,Breakfast/Lunch/Dinner,1 piece,6.13,45.53,10.61,8.72,0,130.65,300.10
+North Indian,roti paratha,Breakfast/Lunch/Dinner,1 piece,5.02,35.83,10.43,7.58,0,79.00,257.54
+North Indian,aloo parathas,Breakfast/Lunch/Dinner,1 piece,6.13,45.53,10.61,8.72,0,130.65,300.10
+North Indian,palak paratha,Breakfast/Lunch/Dinner,1 Piece,4.12,22.83,6.03,1.79,0,83.48,160.23
+North Indian,onion paratha,Breakfast/Lunch/Dinner,1 piece,5.67,39.94,10.70,8.47,0,115.76,276.55
+North Indian,paratha paneer,Breakfast/Lunch/Dinner,1 piece,7.70,20.62,7.78,3.03,0,77.75,176.11
+North Indian,paneer paratha,Breakfast/Lunch/Dinner,1 piece,7.70,20.62,7.78,3.03,0,77.75,176.11
+North Indian,potato paratha,Breakfast/Lunch/Dinner,1 piece,6.13,45.53,10.61,8.72,0,130.65,300.10
+North Indian,potato parathas,Breakfast/Lunch/Dinner,1 piece,6.13,45.53,10.61,8.72,0,130.65,300.10
+North Indian,paneer parathas,Breakfast/Lunch/Dinner,1 piece,7.70,20.62,7.78,3.03,0,77.75,176.11
+North Indian,chana dal paratha,Breakfast/Lunch/Dinner,1 Paratha,4.16,20.68,5.47,1.91,0,64.02,148.43
+North Indian,aloo stuffed paratha,Breakfast/Lunch/Dinner,1 piece,6.13,45.53,10.61,8.72,0,130.65,300.10
+North Indian,potato stuffed paratha,Breakfast/Lunch/Dinner,1 piece,6.13,45.53,10.61,8.72,0,130.65,300.10
+North Indian,potato stuffed parathas,Breakfast/Lunch/Dinner,1 piece,6.13,45.53,10.61,8.72,0,130.65,300.10
+North Indian,poha,Breakfast/Lunch/Dinner,1 cup,2.86,34.83,0.23,0.00,0,138.72,157.52
+North Indian,pohas,Breakfast/Lunch/Dinner,1 cup,2.86,34.83,0.23,0.00,0,138.72,157.52
+North Indian,poha dry,Breakfast/Lunch/Dinner,1 cup,7.15,87.07,0.57,,0,110.00,393.80
+North Indian,raw poha,Breakfast/Lunch/Dinner,1 cup,7.15,87.07,0.57,,0,110.00,393.80
+North Indian,dry poha,Breakfast/Lunch/Dinner,1 cup,7.15,87.07,0.57,,0,110.00,393.80
+North Indian,poha upma,Breakfast/Lunch/Dinner,1 cup,4.03,35.41,6.92,1.91,0,163.40,219.18
+North Indian,poha raw,Breakfast/Lunch/Dinner,1 cup,7.15,87.07,0.57,,0,110.00,393.80
+North Indian,dry pohas,Breakfast/Lunch/Dinner,1 cup,7.15,87.07,0.57,,0,110.00,393.80
+North Indian,raw pohas,Breakfast/Lunch/Dinner,1 cup,7.15,87.07,0.57,,0,110.00,393.80
+North Indian,poha fruit,Breakfast/Lunch/Dinner,1 cup,2.66,15.68,0.98,,0,140.00,74.20
+North Indian,poha plain,Breakfast/Lunch/Dinner,1 cup,2.86,34.83,0.23,0.00,0,138.72,157.52
+North Indian,plain poha,Breakfast/Lunch/Dinner,1 cup,2.86,34.83,0.23,0.00,0,138.72,157.52
+North Indian,cooked poha,Breakfast/Lunch/Dinner,1 cup,2.86,34.83,0.23,0.00,0,138.72,157.52
+North Indian,uncooked poha,Breakfast/Lunch/Dinner,1 cup,7.15,87.07,0.57,,0,110.00,393.80
+North Indian,poha uncooked,Snack,1 cup,7.15,87.07,0.57,,0,110.00,393.80
+North Indian,veggie poha upma,Snack,1 cup,4.03,35.41,6.92,1.91,0,163.40,219.18
+North Indian,vegetable poha upma,Snack,1 cup,4.03,35.41,6.92,1.91,0,163.40,219.18
+North Indian,samosa,Snack,1 samosa,3.49,23.91,17.24,2.08,0,100.00,261.50
+North Indian,samosas,Snack,1 samosa,3.49,23.91,17.24,2.08,0,100.00,261.50
+North Indian,meat samosa,Snack,1 samosa,7.44,20.00,11.07,1.67,0,93.30,209.63
+North Indian,samosa beef,Snack,1 samosa,7.44,20.00,11.07,1.67,0,93.30,209.63
+North Indian,samosa chaat,Snack,1 cup,10.86,42.31,22.83,8.10,0,233.26,403.43
+North Indian,meat samosas,Snack,1 samosa,7.44,20.00,11.07,1.67,0,93.30,209.63
+North Indian,coconut samosa,Snack,1 piece,1.91,19.36,6.07,1.03,0,38.37,139.08
+North Indian,chicken samosa,Snack,1 samosa,7.66,24.02,9.31,2.16,0,111.47,209.86
+North Indian,coconut samosas,Snack,1 piece,1.91,19.36,6.07,1.03,0,38.37,139.08
+North Indian,chicken samosas,Snack,1 samosa,7.66,24.02,9.31,2.16,0,111.47,209.86
+North Indian,vegetable samosa,Snack,1 samosa,3.49,23.91,17.24,2.08,0,100.00,261.50
+North Indian,vegetarian samosa,Snack,1 samosa,3.49,23.91,17.24,2.08,0,100.00,261.50
+North Indian,vegetable samosas,Snack,1 samosa,3.49,23.91,17.24,2.08,0,100.00,261.50
+North Indian,vegetarian samosas,Snack,1 samosa,3.49,23.91,17.24,2.08,0,100.00,261.50
+North Indian,indian samosa chaat,Snack,1 cup,10.86,42.31,22.83,8.10,0,233.26,403.43
+North Indian,beef and potato samosa,Snack,1 samosa,7.44,20.00,11.07,1.67,0,93.30,209.63
+North Indian,meat and potato samosa,Snack,1 samosa,7.44,20.00,11.07,1.67,0,93.30,209.63
+North Indian,aloo tikki,Snack,1 cup,3.54,18.25,16.50,2.37,0,121.29,228.58
+North Indian,aloo tikka,Snack,1 cup,3.54,18.25,16.50,2.37,0,121.29,228.58
+North Indian,aloo pie,Snack,1 pie,9.55,74.10,11.31,5.06,0,226.61,434.24
+North Indian,aloo papri,Snack,1 cup,6.78,31.53,10.03,2.21,0,128.89,242.11
+North Indian,aloo sabzi,Lunch/Dinner,1 cup,3.52,27.19,2.67,3.76,0,159.52,140.80
+North Indian,aloo gobi,Lunch/Dinner,1 cup,2.48,14.51,5.46,2.83,0,154.98,110.82
+North Indian,aloo naan,Lunch/Dinner,1 piece,6.13,45.53,10.61,8.72,0,130.65,300.10
+North Indian,aloo pakora,Snack,1 piece,0.88,3.54,0.23,0.49,0,15.51,19.77
+North Indian,aloo jeera,Lunch/Dinner,1 cup,3.45,28.32,5.61,3.15,0,143.29,172.06
+North Indian,aloo curry,Lunch/Dinner,1 cup,2.94,20.53,13.23,3.60,0,237.69,204.18
+North Indian,aloo masala,Lunch/Dinner,1 cup,3.83,27.46,14.22,4.06,0,195.08,242.14
+North Indian,aloo pakoras,Lunch/Dinner,1 piece,0.88,3.54,0.23,0.49,0,15.51,19.77
+North Indian,saag aloo,Lunch/Dinner,1 cup,4.93,22.62,6.66,4.26,0,194.83,159.73
+North Indian,jeera aloo,Lunch/Dinner,1 cup,3.45,28.32,5.61,3.15,0,143.29,172.06
+North Indian,aloo papri chaat,Snack,1 cup,6.78,31.53,10.03,2.21,0,128.89,242.11
+North Indian,tandoori aloo,Lunch/Dinner,1 cup,3.54,18.25,16.50,2.37,0,121.29,228.58
+North Indian,aloo gajar matar,Lunch/Dinner,1 cup,3.83,22.94,5.86,4.55,0,158.02,154.54
+North Indian,chole bhature,Lunch/Dinner,1 bhatura with chole,13.24,58.91,26.96,11.07,0,281.08,510.88
+North Indian,chole bhatura,Lunch/Dinner,1 bhatura with chole,13.24,58.91,26.96,11.07,0,281.08,510.88
+North Indian,channa bhature,Breakfast/Lunch,1 bhatura with chole,13.24,58.91,26.96,11.07,0,281.08,510.88
+North Indian,chole puri,Breakfast/Lunch,1 serving,15.11,54.05,14.28,13.33,0,226.02,392.59
+North Indian,chole rice,Breakfast/Lunch,1 cup,5.96,36.58,8.45,4.13,0,176.55,243.21
+North Indian,bhature,Breakfast/Lunch,1 piece,5.57,30.29,10.51,3.46,0,86.04,230.05
+North Indian,chole masala,Breakfast/Lunch,1 cup,7.67,28.63,16.45,7.60,0,195.08,280.93
+North Indian,chole,Breakfast/Lunch,1 cup,7.67,28.63,16.45,7.60,0,195.08,280.93
+North Indian,choles,Breakfast/Lunch,1 cup,5.96,36.58,8.45,4.13,0,176.55,243.21
+North Indian,chole masala with rice,Breakfast/Lunch,1 cup,5.96,36.58,8.45,4.13,0,176.55,243.21
+North Indian,no cholesterol mayo,Breakfast/Lunch,1 tbsp,0.13,0.98,4.86,0.00,0,14.60,48.62
+North Indian,cholesterol free mayo,Ingredient,1 tbsp,0.13,0.98,4.86,0.00,0,14.60,48.62
+North Indian,cholesterol free mayonnaise,Ingredient,1 tbsp,0.13,0.98,4.86,0.00,0,14.60,48.62
+North Indian,kachori,Snack,1 piece,1.50,7.68,5.26,0.63,0,19.78,83.29
+North Indian,kachoris,Snack,1 piece,1.50,7.68,5.26,0.63,0,19.78,83.29
+North Indian,dal kachori,Snack,1 piece,1.50,7.68,5.26,0.63,0,19.78,83.29
+North Indian,dal kachoris,Snack,1 piece,1.50,7.68,5.26,0.63,0,19.78,83.29
+North Indian,khasta kachori,Snack,1 piece,1.50,7.68,5.26,0.63,0,19.78,83.29
+North Indian,chana masala,Lunch/Dinner,1 cup,7.67,28.63,16.45,7.60,0,195.08,280.93
+North Indian,channa masala,Lunch/Dinner,1 cup,7.67,28.63,16.45,7.60,0,195.08,280.93
+North Indian,chana daal,Lunch/Dinner,"1 cup, cooked",12.84,41.71,4.51,11.49,0,182.40,251.71
+North Indian,chana dal,Lunch/Dinner,"1 cup, cooked",12.84,41.71,4.51,11.49,0,182.40,251.71
+North Indian,tikka masala,Lunch/Dinner,2 cups,55.61,21.70,47.79,4.33,0,472.00,729.73
+North Indian,matar masala,Lunch/Dinner,1 cup,4.71,19.06,7.01,4.66,0,241.29,149.32
+North Indian,garam masala,Lunch/Dinner,1 serving,0.16,0.85,0.19,0.36,0,1.47,4.64
+North Indian,chana poori,Breakfast/Lunch,1 serving,15.11,54.05,14.28,13.33,0,226.02,392.59
+North Indian,masala,Ingredient,1 serving,0.16,0.85,0.19,0.36,0,1.47,4.64
+North Indian,chana puri,Breakfast/Lunch,1 serving,15.11,54.05,14.28,13.33,0,226.02,392.59
+North Indian,chanas,Ingredient,1 cup,7.67,28.63,16.45,7.60,0,195.08,280.93
+North Indian,masala dosa,Breakfast,1 medium dosa,3.88,29.20,3.72,0.86,0,96.78,167.67
+North Indian,chana,Lunch/Dinner,1 cup,7.67,28.63,16.45,7.60,0,195.08,280.93
+North Indian,puri chana,Breakfast/Lunch,1 serving,15.11,54.05,14.28,13.33,0,226.02,392.59
+North Indian,daal chanas,Breakfast,"1 cup, cooked",12.84,41.71,4.51,11.49,0,182.40,251.71
+North Indian,chana dal poori,Breakfast/Lunch,1 serving,15.11,54.05,14.28,13.33,0,226.02,392.59
+North Indian,plain chana dal,Ingredient,"1 cup, cooked",12.84,41.71,4.51,11.49,0,182.40,251.71
+North Indian,chicken tikka masala,Lunch/Dinner,2 cups,55.61,21.70,47.79,4.33,0,472.00,729.73
+North Indian,misal pav,Snack,1 serving (1 pav + 1 cup curry),10.07,41.66,7.37,8.38,0,225.90,263.80
+North Indian,vada pav,Snack,1 sandwich,7.46,37.08,9.48,3.77,0,126.65,262.94
+North Indian,wada pav,Snack,1 sandwich,7.46,37.08,9.48,3.77,0,126.65,262.94
+North Indian,pavlova,Dessert,1 piece,3.40,39.86,10.87,2.08,0,151.72,263.43
+North Indian,pavlovas,Dessert,1 piece,3.40,39.86,10.87,2.08,0,151.72,263.43
+North Indian,pav bhaji,Lunch/Dinner,1 serving,11.75,62.58,11.44,9.44,0,404.33,389.75
+North Indian,fruit pavlova,Dessert,1 piece,3.40,39.86,10.87,2.08,0,151.72,263.43
+North Indian,pavlova cake,Dessert,1 piece,3.40,39.86,10.87,2.08,0,151.72,263.43
+North Indian,berry pavlova,Dessert,1 piece,3.40,39.86,10.87,2.08,0,151.72,263.43
+North Indian,salvadoreno pavo,Lunch/Dinner,1 cup,38.46,10.39,10.53,1.83,0,245.09,298.05
+North Indian,pavo salvadoreno,Lunch/Dinner,1 cup,38.46,10.39,10.53,1.83,0,245.09,298.05
+North Indian,mixed berry pavlova,Dessert,1 piece,3.40,39.86,10.87,2.08,0,151.72,263.43
+North Indian,pavlova with berries,Dessert,1 piece,3.40,39.86,10.87,2.08,0,151.72,263.43
+North Indian,dhokla,Snack,1 piece,5.70,15.88,7.36,2.54,0,57.86,151.72
+North Indian,khaman dhokla,Snack,1 piece,5.70,15.88,7.36,2.54,0,57.86,151.72
+North Indian,paneer curry,Lunch/Dinner,1 cup,17.48,10.13,29.09,1.48,0,236.00,367.39
+North Indian,paneer cheese,Ingredient,"1 cup, crumbled",22.07,3.64,29.06,0.00,0,122.00,364.78
+North Indian,paneer korma,Lunch/Dinner,1 cup,17.48,10.13,29.09,1.48,0,236.00,367.39
+North Indian,paneer kabab,Lunch/Dinner,1 skewer,12.75,12.04,20.54,1.24,0,177.92,280.30
+North Indian,paneer kebab,Lunch/Dinner,1 skewer,12.75,12.04,20.54,1.24,0,177.92,280.30
+North Indian,paneer tikka,Lunch/Dinner,1 cup,8.24,6.90,16.27,1.50,0,198.14,201.27
+North Indian,paneer butter,Lunch/Dinner,1 cup,8.24,6.90,16.27,1.50,0,198.14,201.27
+North Indian,paneer masala,Lunch/Dinner,1 cup,8.24,6.90,16.27,1.50,0,198.14,201.27
+North Indian,paneer,Lunch/Dinner,"1 cup, crumbled",22.07,3.64,29.06,0.00,0,122.00,364.78
+North Indian,matter paneer,Lunch/Dinner,1 serving,23.31,24.93,46.18,6.41,0,440.46,598.54
+North Indian,mutter paneer,Lunch/Dinner,1 serving,23.31,24.93,46.18,6.41,0,440.46,598.54
+North Indian,matar paneer,Lunch/Dinner,1 serving,23.31,24.93,46.18,6.41,0,440.46,598.54
+North Indian,palak paneer,Lunch/Dinner,1 cup,15.06,10.01,30.48,2.64,0,200.00,365.53
+North Indian,saag paneer,Lunch/Dinner,1 cup,15.06,10.01,30.48,2.64,0,200.00,365.53
+North Indian,chilli paneer,Lunch/Dinner,1 cup,15.03,17.45,27.01,2.09,0,232.71,366.48
+North Indian,shahi paneer,Lunch/Dinner,1 cup,11.72,12.39,24.58,2.44,0,242.29,309.87
+North Indian,chili paneer,Lunch/Dinner,1 cup,15.03,17.45,27.01,2.09,0,232.71,366.48
+North Indian,paneer tikka masala,Lunch/Dinner,1 cup,8.24,6.90,16.27,1.50,0,198.14,201.27
+Northeast and Coastal Indian,paratha paneer,Lunch/dinner,1 piece,7.70,20.62,7.78,3.03,0,77.75,176.11
+Northeast and Coastal Indian,paneer paratha,Breakfast/Lunch/dinner,1 piece,7.70,20.62,7.78,3.03,0,77.75,176.11
+Northeast and Coastal Indian,potato paratha,Breakfast/Lunch/dinner,1 piece,6.13,45.53,10.61,8.72,0,130.65,300.10
+Northeast and Coastal Indian,potato parathas,Breakfast/Lunch/dinner,1 piece,6.13,45.53,10.61,8.72,0,130.65,300.10
+Northeast and Coastal Indian,paneer parathas,Breakfast/Lunch/dinner,1 piece,7.70,20.62,7.78,3.03,0,77.75,176.11
+Northeast and Coastal Indian,momos,Snack,1 dumpling,3.37,7.19,2.16,0.44,0,36.43,61.48
+Northeast and Coastal Indian,nepali momos,Snack,1 dumpling,3.37,7.19,2.16,0.44,0,36.43,61.48
+Northeast and Coastal Indian,chicken momos,Snack,1 dumpling,3.37,7.19,2.16,0.44,0,36.43,61.48
+Northeast and Coastal Indian,lauki sabzi,Lunch/Dinner,1 cup,1.89,11.16,2.67,3.30,0,239.30,69.08
+Northeast and Coastal Indian,aloo sabzi,Lunch/Dinner,1 cup,3.52,27.19,2.67,3.76,0,159.52,140.80
+Northeast and Coastal Indian,ghormeh sabzi,Lunch/Dinner,1 bowl (2 cups),44.62,32.84,24.80,8.05,0,503.40,523.27
+Northeast and Coastal Indian,qormeh sabzi,Lunch/Dinner,1 bowl (2 cups),44.62,32.84,24.80,8.05,0,503.40,523.27
+Northeast and Coastal Indian,lauki ki sabzi,Lunch/Dinner,1 cup,1.89,11.16,2.67,3.30,0,239.30,69.08
+Northeast and Coastal Indian,chocolate rice pudding,Dessert,1 cup,2.51,49.79,0.20,0.00,0,172.00,212.86
+Northeast and Coastal Indian,pakistani style rice pudding,Dessert,1 cup,11.56,47.74,13.20,1.34,0,290.21,351.79
+Northeast and Coastal Indian,pakistani rice pudding,Dessert,1 cup,11.56,47.74,13.20,1.34,0,290.21,351.79
+Northeast and Coastal Indian,thai steamed rice and pork pudding,Dessert,1 cup,7.12,45.33,17.35,0.71,0,194.94,368.68
+Northeast and Coastal Indian,black pudding,Dessert,1 sausage,16.56,1.46,39.12,0.00,0,113.40,429.79
+Northeast and Coastal Indian,rice pudding,Dessert,0.5 cup,2.97,16.92,1.98,0.28,0,92.00,99.36
+Northeast and Coastal Indian,banana pudding,Dessert,1 cup,3.98,46.64,10.11,1.17,0,175.44,287.63
+Northeast and Coastal Indian,black eye peas and rice,Lunch/Dinner,1 cup,12.27,51.81,1.99,6.21,0,224.00,276.25
+Northeast and Coastal Indian,black rice,Lunch/Dinner,1 cup,4.25,44.51,0.44,0.63,0,158.00,205.40
+Northeast and Coastal Indian,blackeye peas and rice,Lunch/Dinner,1 cup,12.27,51.81,1.99,6.21,0,224.00,276.25
+Northeast and Coastal Indian,black beans with rice,Lunch/Dinner,1 cup,5.75,42.86,5.46,4.16,0,239.00,244.13
+Northeast and Coastal Indian,black beans and rice,Lunch/Dinner,1 cup,5.75,42.86,5.46,4.16,0,239.00,244.13
+Northeast and Coastal Indian,black eyed peas and rice,Lunch/Dinner,1 cup,12.27,51.81,1.99,6.21,0,224.00,276.25
+Northeast and Coastal Indian,thai steamed rice pudding with pork,Lunch/Dinner,1 cup,7.12,45.33,17.35,0.71,0,194.94,368.68
+Northeast and Coastal Indian,thai steamed pudding with rice and pork,Lunch/Dinner,1 cup,7.12,45.33,17.35,0.71,0,194.94,368.68
+Northeast and Coastal Indian,black beans with rice and tomatoes,Lunch/Dinner,1 cup,5.75,42.86,5.46,4.16,0,239.00,244.13
+Northeast and Coastal Indian,black beans and rice with tomatoes,Lunch/Dinner,1 cup,5.75,42.86,5.46,4.16,0,239.00,244.13
+Northeast and Coastal Indian,rice kheer,Dessert,0.5 cup,4.16,17.29,5.34,0.38,0,112.50,131.29
+Northeast and Coastal Indian,kheer,Dessert,0.5 cup,4.16,17.29,5.34,0.38,0,112.50,131.29
+Rajastani,dal kachori,Snack,1 piece,1.50,7.68,5.26,0.63,0,19.78,83.29
+Rajastani,khasta kachori,Snack,1 piece,1.50,7.68,5.26,0.63,0,19.78,83.29
+Rajastani,dal kachoris,Snack,1 piece,1.50,7.68,5.26,0.63,0,19.78,83.29
+Rajastani,kachori,Snack,1 piece,1.50,7.68,5.26,0.63,0,19.78,83.29
+Rajastani,kachoris,Snack,1 piece,1.50,7.68,5.26,0.63,0,19.78,83.29
+Rajastani,kimchi,Snack,1 cup,1.65,3.60,0.75,2.40,0,150.00,22.50
+Rajastani,kit kat,Snack,1 bar (1.5 oz),2.73,27.13,10.92,0.42,0,42.00,217.56
+Rajastani,kiwi,Snack,"1 fruit (2"" dia)",0.79,10.12,0.36,2.07,0,69.00,42.09
+Rajastani,sungold kiwi,Snack,1 fruit,0.83,12.79,0.23,1.13,0,81.00,51.03
+Rajastani,kiwi smoothie,Snack,12 fl oz,6.85,52.01,2.73,3.55,0,308.52,245.00
+Rajastani,kipper snacks,Snack,"2 oz, boneless",13.94,0.00,7.01,0.00,0,56.70,123.04
+Rajastani,kiwifruit,Snack,"1 fruit (2"" dia)",0.79,10.12,0.36,2.07,0,69.00,42.09
+Rajastani,kielbasa,Snack,1 link,45.69,18.46,108.93,0.00,0,367.00,1236.79
+Rajastani,kidney beans,Snack,3 oz,23.18,0.00,3.95,0.00,0,85.00,134.30
+Rajastani,kiwis,Snack,"1 fruit (2"" dia)",0.79,10.12,0.36,2.07,0,69.00,42.09
+Rajastani,turkey kielbasa,Lunch/Dinner,1 link,45.69,18.46,108.93,0.00,0,367.00,1236.79
+Rajastani,kidney beans,Lunch/Dinner,1 cup,15.35,40.36,0.89,11.33,0,177.00,224.79
+Rajastani,burger king french fries,Snack,1 medium serving,3.78,45.28,14.60,3.39,0,117.00,327.60
+Rajastani,strawberry kiwi smoothie,Breakfast/Drink,12 fl oz,6.85,52.01,2.73,3.55,0,308.52,245.00
+Rajastani,dry white kidney beans,Lunch/Dinner,1 cup,47.19,121.75,1.72,30.70,0,202.00,672.66
+Rajastani,baati chokha,Lunch/Dinner,1 piece,5.18,25.09,3.35,4.18,0,104.81,144.08
+Rajastani,dal baati,Lunch/Dinner,1 Baati with dal,11.59,36.15,13.49,9.53,0,165.25,301.48
+Rajastani,dal paratha,Lunch/Dinner,1 Paratha,4.16,20.68,5.47,1.91,0,64.02,148.43
+Rajastani,dal chawal,Lunch/Dinner,1 cup,12.78,48.22,5.84,9.53,0,207.00,293.42
+Rajastani,baati,Lunch/Dinner,1 piece,4.44,19.19,2.91,3.09,0,49.58,115.75
+Rajastani,dal makhani,Lunch/Dinner,1 serving,16.28,39.48,24.21,13.21,0,253.46,426.89
+Rajastani,dal rice,Lunch/Dinner,1 cup,12.78,48.22,5.84,9.53,0,207.00,293.42
+Rajastani,palak dal,Lunch/Dinner,1 servings,12.80,29.07,8.77,11.46,0,184.68,236.84
+Rajastani,daleem,Lunch/Dinner,1 bowl (2 cups),7.54,7.80,5.52,2.12,0,151.80,109.22
+Rajastani,drumstick dal,Lunch/Dinner,1 serving,4.96,16.78,8.50,4.88,0,385.54,155.20
+Rajastani,chokha baati,Lunch/Dinner,1 piece,5.18,25.09,3.35,4.18,0,104.81,144.08
+Rajastani,plain chana dal,Lunch/Dinner,"1 cup, cooked",12.84,41.71,4.51,11.49,0,182.40,251.71
+Rajastani,roti dal,Lunch/Dinner,1 roti,4.60,20.67,2.42,3.86,0,46.98,116.17
+Rajastani,lentil dal,Lunch/Dinner,1 cup,14.25,33.94,4.18,12.89,0,214.26,221.88
+Rajastani,coconut dal,Lunch/Dinner,1 cup,6.75,15.86,16.28,5.00,0,140.55,224.74
+Rajastani,chana dal paratha,Lunch/Dinner,1 Paratha,4.16,20.68,5.47,1.91,0,64.02,148.43
+Rajastani,rice dal,Lunch/Dinner,1 cup,12.78,48.22,5.84,9.53,0,207.00,293.42
+Rajastani,dal,Lunch/Dinner,1 cup,14.25,33.94,4.18,12.89,0,214.26,221.88
+Rajastani,chana dal,Lunch/Dinner,"1 cup, cooked",12.84,41.71,4.51,11.49,0,182.40,251.71
+Rajastani,moong dal,Lunch/Dinner,1 cup,15.71,40.52,2.05,15.90,0,206.46,235.67
+Rajastani,lauki ki sabzi,Lunch/Dinner,1 cup,1.89,11.16,2.67,3.30,0,239.30,69.08
+Rajastani,lauki sabzi,Lunch/Dinner,1 cup,1.89,11.16,2.67,3.30,0,239.30,69.08
+Rajastani,qormeh sabzi,Lunch/Dinner,1 bowl (2 cups),44.62,32.84,24.80,8.05,0,503.40,523.27
+Rajastani,aloo sabzi,Lunch/Dinner,1 cup,3.52,27.19,2.67,3.76,0,159.52,140.80
+Rajastani,ghormeh sabzi,Lunch/Dinner,1 bowl (2 cups),44.62,32.84,24.80,8.05,0,503.40,523.27
+Rajastani,mawa paneer,Snack,1 cup,13.40,16.72,19.49,1.93,0,198.29,288.76
+Rajastani,mawa,Snack,1 cup,20.36,29.77,24.31,0.00,0,111.66,416.09
+Rajastani,mawas,Snack,1 cup,20.36,29.77,24.31,0.00,0,111.66,416.09
+Rajastani,mawa paneer curry,Lunch/Dinner,1 cup,13.40,16.72,19.49,1.93,0,198.29,288.76
+Rajastani,paneer mawa,Lunch/Dinner,1 cup,13.40,16.72,19.49,1.93,0,198.29,288.76
+Rajastani,poha,breakfast/lunch/Dinner,1 cup,2.86,34.83,0.23,0.00,0,138.72,157.52
+Rajastani,dry poha,Snack,1 cup,7.15,87.07,0.57,,0,110.00,393.80
+Rajastani,poha dry,Snack,1 cup,7.15,87.07,0.57,,0,110.00,393.80
+Rajastani,raw poha,snack,1 cup,7.15,87.07,0.57,,0,110.00,393.80
+Rajastani,poha raw,snack,1 cup,7.15,87.07,0.57,,0,110.00,393.80
+Rajastani,raw pohas,snack,1 cup,7.15,87.07,0.57,,0,110.00,393.80
+Rajastani,dry pohas,Snack,1 cup,7.15,87.07,0.57,,0,110.00,393.80
+Rajastani,poha plain,Snack,1 cup,2.86,34.83,0.23,0.00,0,138.72,157.52
+Rajastani,poha fruit,Snack,1 cup,2.66,15.68,0.98,,0,140.00,74.20
+Rajastani,plain poha,Snack,1 cup,2.86,34.83,0.23,0.00,0,138.72,157.52
+Rajastani,cooked poha,Snack,1 cup,2.86,34.83,0.23,0.00,0,138.72,157.52
+Rajastani,uncooked poha,Snack,1 cup,7.15,87.07,0.57,,0,110.00,393.80
+Rajastani,poha uncooked,Snack,1 cup,7.15,87.07,0.57,,0,110.00,393.80
+Rajastani,veggie poha upma,Breakfast/Lunch,1 cup,4.03,35.41,6.92,1.91,0,163.40,219.18
+Rajastani,vegetable poha upma,Breakfast/Lunch,1 cup,4.03,35.41,6.92,1.91,0,163.40,219.18
+Rajastani,aloo paratha,Breakfast/Lunch,1 piece,6.13,45.53,10.61,8.72,0,130.65,300.10
+Rajastani,aloo parathas,Breakfast/Lunch,1 piece,6.13,45.53,10.61,8.72,0,130.65,300.10
+Rajastani,egg paratha,Breakfast/Lunch,1 piece,11.32,45.13,7.46,6.80,0,106.14,278.62
+Rajastani,roti paratha,Breakfast/Lunch,1 piece,5.02,35.83,10.43,7.58,0,79.00,257.54
+Rajastani,palak paratha,Breakfast/Lunch,1 Piece,4.12,22.83,6.03,1.79,0,83.48,160.23
+Rajastani,paratha,Breakfast/Lunch,1 piece,5.02,35.83,10.43,7.58,0,79.00,257.54
+Rajastani,potato parathas,Breakfast/Lunch,1 piece,6.13,45.53,10.61,8.72,0,130.65,300.10
+Rajastani,paneer paratha,Breakfast/Lunch,1 piece,7.70,20.62,7.78,3.03,0,77.75,176.11
+Rajastani,aloo tikka,Lunch/Dinner,1 cup,3.54,18.25,16.50,2.37,0,121.29,228.58
+Rajastani,aloo jeera,Lunch/Dinner,1 cup,3.45,28.32,5.61,3.15,0,143.29,172.06
+Rajastani,aloo gobi,Lunch/Dinner,1 cup,2.48,14.51,5.46,2.83,0,154.98,110.82
+Rajastani,aloo stuffed paratha,Breakfast/Lunch,1 piece,6.13,45.53,10.61,8.72,0,130.65,300.10
+Rajastani,saag aloo,Lunch/Dinner,1 cup,4.93,22.62,6.66,4.26,0,194.83,159.73
+Rajastani,jeera aloo,Lunch/Dinner,1 cup,3.45,28.32,5.61,3.15,0,143.29,172.06
+Rajastani,tandoori aloo,Lunch/Dinner,1 cup,3.54,18.25,16.50,2.37,0,121.29,228.58
+Rajastani,paratha paneer,Lunch/Dinner,1 piece,7.70,20.62,7.78,3.03,0,77.75,176.11
+Rajastani,potato stuffed paratha,Breakfast/Lunch/dinner,1 piece,6.13,45.53,10.61,8.72,0,130.65,300.10
+Rajastani,idli vada,Breakfast,1 idli,1.65,11.62,0.44,0.54,0,38.50,58.01
+Rajastani,dahi vada,Breakfast/Lunch/dinner,1 piece with sauce,3.78,7.79,5.01,2.41,0,70.90,88.66
+Rajastani,mumbai vada,Snack,1 piece,1.71,13.02,5.96,0.89,0,50.42,111.54
+Rajastani,potato vada,Snack,1 piece,1.71,13.02,5.96,0.89,0,50.42,111.54
+Rajastani,batata vada,Snack,1 piece,1.71,13.02,5.96,0.89,0,50.42,111.54
+Rajastani,medu vada,Snack,1 piece,4.36,11.35,8.39,2.02,0,70.86,134.88
+Rajastani,vada,breakfast/snack,1 piece,4.36,11.35,8.39,2.02,0,70.86,134.88
+Rajastani,vadas,breakfast/snack,1 piece,4.36,11.35,8.39,2.02,0,70.86,134.88
+Rajastani,vada pav,Snack,1 sandwich,7.46,37.08,9.48,3.77,0,126.65,262.94
+Rajastani,vada pao,Snack,1 sandwich,7.46,37.08,9.48,3.77,0,126.65,262.94
+Rajastani,vada sambhar,breakfast/Snack,1 piece,4.36,11.35,8.39,2.02,0,70.86,134.88
+Rajastani,dahl roti,Lunch/Dinner,1 roti,4.60,20.67,2.42,3.86,0,46.98,116.17
+Rajastani,fulka roti,Lunch/Dinner,1 piece,7.65,31.52,5.07,3.33,0,68.00,201.96
+Rajastani,daal roti,Lunch/Dinner,1 roti,4.60,20.67,2.42,3.86,0,46.98,116.17
+Rajastani,ragi roti,Lunch/Dinner,1 large,2.78,19.52,5.71,1.14,0,67.98,139.24
+Rajastani,dal roti,Lunch/Dinner,1 roti,4.60,20.67,2.42,3.86,0,46.98,116.17
+Rajastani,wheat roti,Lunch/Dinner,1 medium,3.14,18.45,3.68,3.88,0,40.00,119.60
+Rajastani,roti,Lunch/Dinner,1 medium,3.14,18.45,3.68,3.88,0,40.00,119.60
+Rajastani,chicken roti,Lunch/Dinner,1 wrap,36.07,39.09,15.99,4.83,0,304.00,446.70
+Rajastani,rotini,Lunch/Dinner,1 cup rotini,6.21,33.02,1.00,1.93,0,107.00,169.06
+Rajastani,black bean rotini,Lunch/Dinner,2 oz,15.07,28.48,4.50,7.44,0,56.00,211.96
+Rajastani,roti chicken,Lunch/Dinner,1 wrap,36.07,39.09,15.99,4.83,0,304.00,446.70
+Rajastani,whole wheat rotini,Lunch/Dinner,1 cup rotini,6.41,32.17,1.83,4.17,0,107.00,159.43
+Rajastani,curry chicken roti,Lunch/Dinner,1 wrap,36.07,39.09,15.99,4.83,0,304.00,446.70
+Rajastani,chicken rotisserie,Lunch/Dinner,1 serving (3 oz),21.93,0.02,10.30,0.00,0,85.00,180.51
+Rajastani,rotisserie drumstick,Lunch/Dinner,1 drumstick,14.24,0.01,6.35,0.00,0,53.00,113.95
+Rajastani,rotisserie chicken,Lunch/Dinner,1 serving (3 oz),21.93,0.02,10.30,0.00,0,85.00,180.51
+Rajastani,rotisserie chicken thigh,Lunch/Dinner,1 thigh,20.41,0.02,13.97,0.00,0,89.00,207.37
+Rajastani,rotisserie chicken breast,Lunch/Dinner,1 serving (3 oz),23.36,0.02,6.95,0.00,0,85.00,156.40
+Rajastani,chicken drumstick rotisserie,Lunch/Dinner,1 drumstick,14.24,0.01,6.35,0.00,0,53.00,113.95
+Rajastani,indian ladoo,Dessert,1 piece,4.17,23.54,11.44,2.04,0,41.64,211.38
+Rajastani,besan ladoo,Dessert,1 piece,4.17,23.54,11.44,2.04,0,41.64,211.38
+Rajastani,chickpea ladoo,Dessert,1 piece,4.17,23.54,11.44,2.04,0,41.64,211.38
+Rajastani,ladoo,Dessert,1 piece,4.17,23.54,11.44,2.04,0,41.64,211.38
+Rajastani,aloo tikki,Snack,1 cup,3.54,18.25,16.50,2.37,0,121.29,228.58
+Rajastani,aloo pie,Snack,1 pie,9.55,74.10,11.31,5.06,0,226.61,434.24
+general,paneer tikka,Snack,1 cup,8.24,6.90,16.27,1.50,0,198.14,201.27
+general,masala dosa,Lunch/Dinner,1 medium dosa,3.88,29.20,3.72,0.86,0,96.78,167.67
+general,chole bhature,Lunch/Dinner,1 bhatura with chole,13.24,58.91,26.96,11.07,0,281.08,510.88
+general,palak paneer,Lunch/Dinner,1 cup,15.06,10.01,30.48,2.64,0,200.00,365.53
+general,aloo gobi,Lunch/Dinner,1 cup,2.48,14.51,5.46,2.83,0,154.98,110.82
+general,rajma masala,Lunch/Dinner,1 cup,13.20,37.98,6.51,9.26,0,250.00,252.36
+general,baingan bharta,Lunch/Dinner,1 cup,2.14,17.47,5.64,4.82,0,233.92,117.41
+general,pav bhaji,Lunch/Dinner,1 serving,11.75,62.58,11.44,9.44,0,404.33,389.75
+general,vegetable biryani,Lunch/Dinner,1 cup,4.18,36.82,3.88,1.97,0,168.81,198.41
+general,dal,Lunch/Dinner,1 cup,14.25,33.94,4.18,12.89,0,214.26,221.88
+general,kofta,Lunch/Dinner,1 piece,6.10,1.32,4.80,0.47,0,30.05,73.17
+general,paneer butter masala,Lunch/Dinner,1 cup,8.24,6.90,16.27,1.50,0,198.14,201.27
+general,aloo paratha,Breakfast/Lunch,1 piece,6.13,45.53,10.61,8.72,0,130.65,300.10
+general,veg pulao,Lunch/Dinner,1 cup,5.39,53.93,4.39,1.01,0,244.07,280.64
+general,paneer,ingredient,"1 cup, crumbled",22.07,3.64,29.06,0.00,0,122.00,364.78
+general,masala,Lunch/Dinner,1 serving,0.16,0.85,0.19,0.36,0,1.47,4.64
+general,dal makhani,Lunch/Dinner,1 serving,16.28,39.48,24.21,13.21,0,253.46,426.89
+general,gobi manchurian,Lunch/Dinner,1 cup,3.11,22.16,15.71,2.57,0,136.67,235.92
+general,hakka noodles,Lunch/Dinner,2 cups,18.43,52.26,17.16,5.77,0,400.00,424.13
+general,spring rolls,snack/dinner,1 roll,3.75,19.28,6.22,0.87,0,64.47,148.30
+general,roti,Lunch/Dinner,1 medium,3.14,18.45,3.68,3.88,0,40.00,119.60
+general,korma,Breakfast/Lunch,1 serving (about 2 cups),27.99,14.89,32.91,2.34,0,318.60,460.98
+general,vegetable upma,breakfast/dinner/Snack,1 cup,3.45,21.12,3.96,1.98,0,155.06,132.38
+general,pani puri,Snack,1 piece,2.45,14.89,9.86,2.15,0,70.69,151.70
+general,dahi vada,Lunch/Dinner/snack,1 piece with sauce,3.78,7.79,5.01,2.41,0,70.90,88.66
+general,chana masala,Lunch/Dinner,1 cup,7.67,28.63,16.45,7.60,0,195.08,280.93
+general,rajma chawal,Lunch/Dinner,1 cup,9.47,42.59,3.44,6.54,0,250.45,235.08
+general,momos,Snack,1 dumpling,3.37,7.19,2.16,0.44,0,36.43,61.48
+general,seekh kebab,Snack,1 piece,28.02,8.53,19.73,2.04,0,155.38,324.91
+general,curry,Lunch/Dinner,1 cup,28.25,7.52,10.86,1.49,0,234.57,243.26
+general,aloo tikki,Snack,1 cup,3.54,18.25,16.50,2.37,0,121.29,228.58
+general,cutlet,Snack,1 cutlet,30.57,15.83,8.43,0.82,0,126.68,270.60
+general,dosa,Breakfast/Lunch,1 medium dosa,3.88,29.20,3.72,0.86,0,96.78,167.67
+general,veg fried rice,Lunch/Dinner,1 cup,8.01,29.71,14.28,2.11,0,166.99,278.80
+general,mixed vegetable,Lunch/Dinner,1 cup,2.38,9.73,0.46,4.16,0,140.05,45.30
+general,veggie pizza,Lunch/Dinner,1 medium slice,10.95,32.70,9.91,2.48,0,108.00,262.80
+general,vegetable soup,Appetizer,1 bowl (2 cups),5.83,25.79,3.76,3.37,0,482.00,159.06
+general,vegetable pakora,Appetizer,1 piece,0.43,3.23,1.25,0.32,0,13.11,25.36
+general,veggie burger,Lunch/Dinner,1 veggie burger on bun,17.69,36.28,16.69,6.52,0,192.75,364.75
+general,mushroom masala,Lunch/Dinner,1 cup,5.02,16.76,9.35,4.72,0,230.25,156.44
+general,mushroom,Lunch/Dinner,1 mushroom,0.26,0.63,0.06,0.26,0,12.00,3.36
+general,pulao,Lunch/Dinner,1 cup,4.06,41.92,8.12,0.75,0,164.30,261.22
+general,tikka,Lunch/Dinner,1 cup,33.31,11.19,12.21,2.21,0,253.22,291.15
+general,mushroom soup,Appetizer,1 can,14.87,36.29,22.55,1.89,0,630.00,409.50
+general,biryani,Lunch/Dinner,1 cup,19.65,30.95,9.44,1.36,0,205.18,291.95
+general,roll,Snack,1 roll (1 oz),2.41,12.88,1.76,1.06,0,28.00,76.44
+general,halwa,Dessert,1 cup,5.61,35.18,13.49,2.21,0,228.00,275.44
+general,matar paneer,Lunch/Dinner,1 serving,23.31,24.93,46.18,6.41,0,440.46,598.54
+general,vegetable salad,Appetizer/Salad,1 cup,3.72,10.90,6.78,2.66,0,163.00,114.21
+general,palak,Lunch/Dinner,1 cup,5.35,6.75,0.47,4.32,0,180.00,41.40
+general,paratha,Breakfast/Lunch,1 piece,5.02,35.83,10.43,7.58,0,79.00,257.54
+general,paneer curry,Lunch/Dinner,1 cup,17.48,10.13,29.09,1.48,0,236.00,367.39
+general,bhindi fry,Lunch/Dinner,1 cup,2.86,11.60,16.69,3.94,0,186.45,195.93
+general,veggie stir fry,Lunch/Dinner,1 cup,6.03,15.39,10.89,5.01,0,237.82,170.55
+general,veg stew,Lunch/Dinner,1 bowl (2 cups),5.83,25.79,3.76,3.37,0,482.00,159.06
+general,veggie,Lunch/Dinner,0.5 cup,2.60,11.91,0.14,4.00,0,91.00,59.15
+general,veggie kebabs,Appetizer/Soup,1 kabob,2.64,8.37,4.99,2.43,0,188.42,81.84
+general,soup,Snack,1 serving 1 cup,2.88,7.37,1.88,1.24,0,248.00,59.52
+general,papdi chaat,Snack,1 cup,6.78,31.53,10.03,2.21,0,128.89,242.11
+general,bhel puri,Snack,1 cup,5.86,21.86,9.24,2.84,0,92.92,187.98
+general,sev puri,Snack,1 piece,1.85,11.27,5.10,1.56,0,53.07,93.51
+general,dahi,Dessert,5.3 oz container,13.50,5.97,7.50,0.00,0,150.00,145.50
+general,puri,Snack,1 poori,2.26,12.34,9.77,1.83,0,43.62,140.88
+general,kachori,Snack,1 piece,1.50,7.68,5.26,0.63,0,19.78,83.29
+general,chana,snack,1 cup,7.67,28.63,16.45,7.60,0,195.08,280.93
+general,papdi,snack,1 piece,0.60,4.41,2.10,0.18,0,11.55,38.98
+general,samosa chaat,snack,1 cup,10.86,42.31,22.83,8.10,0,233.26,403.43
+general,chole,lunch/dinner/snack,1 cup,7.67,28.63,16.45,7.60,0,195.08,280.93
+general,rasgulla,Dessert,1 piece,1.72,25.07,1.76,0.02,0,131.33,120.00
+general,gulab jamun,dessert/Snack,1 piece,1.94,19.60,7.31,0.05,0,50.00,148.85
+general,jalebi,Snack,1 piece,1.28,29.02,3.48,0.39,0,55.00,149.72
+general,rasmalai,Dessert,1 cup,6.02,33.22,7.70,0.74,0,183.12,220.13
+general,ladoo,Dessert,1 piece,4.17,23.54,11.44,2.04,0,41.64,211.38
+general,peda,Dessert,1 ball,1.44,4.95,1.69,0.03,0,10.74,40.07
+general,kaju katli,Dessert,1 piece,1.51,12.37,4.54,0.31,0,19.00,91.95
+general,kheer,Dessert,0.5 cup,4.16,17.29,5.34,0.38,0,112.50,131.29
+general,kalakand,Dessert,1 piece,4.99,16.78,6.32,0.07,0,44.22,141.64
+general,sohan papdi,Dessert,1 piece,2.23,34.46,13.06,0.88,0,70.67,259.38
+general,mysore pak,Dessert,1 piece,0.77,16.88,11.72,0.19,0,43.81,172.85
+general,cham cham,Dessert,1 medium piece,1.60,30.17,3.09,0.41,0,109.40,150.16
+malwa nimar,bhutte ka kees,Snack/Breakfast,1 cup,5.30,24.30,10.50,3.00,54.3,166.00,196.00
+malwa nimar,poha,Breakfast/Lunch,1 bowl,5.00,53.00,7.90,2.20,25,220.00,302.00
+malwa nimar,dal bafla,Lunch/Dinner,1 serve,15.30,61.80,24.30,11.30,110.06,240.00,526.00
+malwa nimar,khasta kachori,Snack/Breakfast,1 piece,5.00,23.00,12.00,1.70,15.91,50.00,224.00
+malwa nimar,kadhi,Lunch/Dinner,1 cup,4.80,8.60,8.50,1.50,138.8,250.00,129.00
+malwa nimar,achari gosht,Lunch/Dinner,1 cup,15.00,8.70,19.80,2.50,171.61,166.00,273.00
+malwa nimar,palak puri ,Breakfast/Lunch,1 piece,3.40,18.70,8.00,3.00,16.9,50.00,162.00
+malwa nimar,moong dal halwa,Dessert,1 cup,9.60,47.00,15.40,3.20,72,216.00,361.00
+Central MP,seekh kebab,Lunch/Dinner,1 piece,7.00,2.00,14.00,0.40,7.94,66.00,160.00
+Central MP,mawa bati,Dessert,1 piece,1.80,14.80,9.70,0.20,74,40.00,152.00
+Central MP,malpua rabdi,Dessert,1 piece,5.00,22.00,9.50,0.50,108,83.00,193.00
+Central MP,puri and aloo sabji,Breakfast/Lunch,1 serve,9.60,58.60,16.00,8.70,47.4,175.00,416.00
+Central MP,bharli bhindi,Lunch/Dinner,1 cup,4.20,18.00,7.80,8.30,172,166.00,152.00
+Narmada,puri and aloo sabji,Breakfast/Lunch,1 serve,9.60,58.60,16.00,8.70,47.4,175.00,416.00
+Narmada,poha,Snack/Breakfast,1 bowl,5.00,53.00,7.90,2.20,25,220.00,302.00
+Narmada,papad ki sabji,Lunch/Dinner,1 bowl,8.00,18.00,22.00,5.00,168.8,350.00,295.00
+Narmada,chakali,Snack/Breakfast,1 piece,0.40,2.00,0.90,0.20,1.28,5.00,18.00
+Narmada,jowar ki roti,Breakfast/Lunch,1 roti,2.00,19.50,0.80,1.70,3.83,50.00,91.00
+Narmada,khandvi,Snack/Breakfast,1 piece,1.30,2.70,1.60,0.50,19.7,20.00,30.00
+Narmada,bharwa baingan,Lunch/Dinner,1 piece,0.90,3.70,8.40,1.90,22.7,50.00,92.00
+mahakoshal,kadhi pakora,Lunch/Dinner,1 cup,7.40,18.70,16.60,3.80,114,250.00,253.00
+mahakoshal,rogan josh,Lunch/Dinner,1 bowl,24.10,11.20,40.00,3.80,119,350.00,505.00
+mahakoshal,aloo tikki,Snack/Lunch,1 piece,0.70,10.20,4.60,0.80,6.59,50.00,84.00
+mahakoshal,gakhar ,Breakfast/Lunch,1 piece,3.80,23.20,16.20,2.80,14.83,80.00,253.00
+mahakoshal,litti chokha,Lunch/Dinner,1 serve,10.70,49.00,19.00,5.80,41.16,210.00,416.00
+Vindhya,Bati,Lunch/Dinner,1 piece,1.80,10.40,5.00,1.60,7.58,30.00,94.00
+Vindhya,tikadia,Snack,1 piece,2.00,11.00,2.60,2.10,17.32,35.00,74.00
+Vindhya,mungodi,Snack,1 cup,8.50,20.50,0.50,2.90,18.26,83.00,120.00
+Vindhya,sarson ka saag,Lunch/Dinner,1 cup,4.00,12.80,8.20,4.00,148,250.00,136.00
+Vindhya,lapsi,Dessert,1 bowl,4.70,63.00,17.60,4.20,35.62,350.00,424.00
+Vindhya,dahi vada,Snack,1 piece,8.00,22.00,11.00,3.80,59,155.00,215.00
+Gwalior,gajak,Dessert,1 piece,0.70,5.10,1.80,0.60,51,8.30,39.00
+Gwalior,bedai,Breakfast,1 piece,5.00,20.60,9.70,4.50,39.69,50.00,188.00
+Gwalior,shikanji,Beverage,1 glass,0.20,14.20,0.20,0.10,13.28,250.00,55.00
+Gwalior,matar kachori,Snack,1 piece,3.80,20.20,11.40,1.00,13.17,65.00,200.00
+Gwalior,navratan korma,Lunch/Dinner,1 cup,12.00,22.30,22.00,5.70,151,250.00,330.00
+Gwalior,besan gatte ki sabji,Lunch/Dinner,1 cup,13.40,36.90,9.40,8.70,69,250.00,285.00
+rayalaseema,Rayalaseema Chicken Curry,Lunch/Dinner,1 cup,35.40,14.10,10.10,4.80,250,281.00,
+rayalaseema,Ragi Sangati,Lunch/Dinner,1 piece,2.20,21.40,0.40,3.40,150,97.00,
+rayalaseema,Gutti Vankaya Koora,Lunch/Dinner,1 cup,5.40,27.50,26.20,7.50,166,362.00,
+rayalaseema,Royyala Iguru:,Lunch/Dinner,1 bowl,35.00,13.70,11.80,2.50,303,297.00,
+rayalaseema,Mutton Korma,Lunch/Dinner,1 cup,23.20,7.30,22.00,1.90,250,320.00,
+rayalaseema,Ulavacharu,Lunch/Dinner,1 cup,7.40,21.00,3.40,4.60,250,154.00,
+rayalaseema,kandi podi,Lunch/Dinner,1 tablespoon,3.30,8.70,0.50,1.60,15,52.00,
+rayalaseema,pachi pulusu,Lunch/Dinner,1 cup,0.70,5.00,4.00,1.00,250,58.00,
+rayalaseema,jonna rotte,"Breakfast, Lunch, Dinner",1 piece,2.00,19.40,0.80,1.70,50,91.00,
+rayalaseema,chepala pulusu,"Lunch, Dinner",1 cup,23.00,13.00,13.00,4.70,250,258.00,
+rayalaseema,allam pachadi,"Lunch, Dinner",1 tablespoon,0.50,5.00,1.10,0.60,15,31.00,
+Coastal andhra,Pesarattu,"Breakfast, Lunch, Dinner",1 piece,6.20,14.60,3.70,4.30,60,116.00,
+Coastal andhra,Gongura Mamsam:,"Lunch, Dinner",1 cup,28.00,10.00,25.00,3.80,250,378.00,
+Coastal andhra,Ulavacharu,"Lunch, Dinner",1 cup,7.40,21.00,3.40,4.60,250,154.00,
+Coastal andhra,Gutti Vankaya Kura,"Lunch, Dinner",1 cup,5.00,13.70,12.60,6.40,250,184.00,
+Coastal andhra,andhra kodi biryani,"Lunch, Dinner",1 bowl,21.30,40.00,5.00,2.00,289,283.00,
+Coastal andhra,pulihora,"Lunch, Dinner",1 bowl,8.70,66.00,10.70,3.00,289,391.00,
+Coastal andhra,Bommidayila Pulusu:,"Lunch, Dinner",1 cup,24.00,8.00,16.00,1.80,250,274.00,
+Coastal andhra,avikaya rice,Dinner,1 bowl,6.20,58.00,13.00,2.70,289,373.00,
+Coastal andhra,Dondakaya Fry,"Lunch, Dinner",1 cup,2.70,6.00,16.70,5.60,166,185.00,
+Coastal andhra,Panasa Puttu Koora,"Breakfast, Lunch, Dinner",1 bowl,6.60,61.00,10.00,5.00,350,337.00,
+telengana,Hyderabadi Biryani:,"Lunch, Dinner",1 bowl,25.60,46.20,4.60,0.90,289,328.00,
+telengana,sakinalu,Snack,1 piece,0.70,3.50,2.50,0.60,10,39.00,
+telengana,haleem,Dinner,1 bowl,27.00,19.20,30.70,3.50,303,458.00,
+telengana,Bagara Baingan,Dinner,1 cup,6.00,15.50,22.70,7.30,250,283.00,
+telengana,pachi pulusu,"Lunch, Dinner",1 cup,0.70,5.00,4.00,1.00,250,58.00,
+telengana,Telangana Chepa Pulusu,"Lunch, Dinner",1 cup,23.00,13.30,12.80,4.70,250,258.00,
+telengana,Talakaya Kura,"Lunch, Dinner",1 cup,22.40,10.00,18.00,4.00,250,292.00,
+telengana,Palakura Pappu,"Lunch, Dinner",1 cup,10.30,25.60,6.00,4.60,250,197.00,
+telengana,pulihora,"Lunch, Dinner",1 bowl,8.70,66.00,10.70,3.00,289,391.00,
+telengana,kandi podi,"Breakfast, Lunch, Dinner",1 tablespoon,3.30,8.70,0.50,1.60,15,52.00,
+north gujrat,Bajra no Rotlo,"Breakfast, Lunch, Dinner",1 piece,3.00,17.00,1.30,2.20,50,90.00,
+north gujrat,Dhokla,Snack,1 piece,2.40,5.60,2.40,1.00,35,54.00,
+north gujrat,Methi na Gota,Snack,1 piece,1.50,4.30,3.30,0.90,20,53.00,
+north gujrat,Gujarati Dal,"Lunch, Dinner",1 cup,9.50,27.30,7.60,5.00,250,213.00,
+north gujrat,Handvo,"Breakfast, Lunch, Dinner",1 piece,8.50,32.20,3.00,4.00,104,190.00,
+north gujrat,Khaman,Snack,1 piece,2.40,5.60,2.40,1.00,35,54.00,
+north gujrat,Fafda,Snack,1 piece,1.20,3.00,2.70,0.60,10,42.00,
+north gujrat,Thepla,"Breakfast, Lunch, Dinner",1 piece,3.00,16.60,5.40,2.60,40,126.00,
+north gujrat,Ringan no Olo,Dinner,1 cup,2.40,13.00,7.20,5.00,166,122.00,
+north gujrat,Dal Dhokli,Lunch,1 cup,11.70,40.70,9.00,7.00,250,287.00,
+central gujrat,Khichu,Snack,1 cup,4.00,49.00,15.00,2.00,216,350.00,
+central gujrat,sev usal,"Lunch, Dinner",1 bowl,6.70,22.50,6.00,7.70,350,168.00,
+central gujrat,Pav Bhaji,"Lunch, Dinner",1 serve,8.30,61.30,11.70,3.30,240,383.00,
+central gujrat,farsan,"Snack, Lunch",1 serve,4.00,11.40,11.50,3.00,28,164.00,
+central gujrat,Batata Vada,"Snack, Lunch",1 piece,1.80,14.40,9.40,1.40,80,150.00,
+central gujrat,Undhiyu,"Lunch, Dinner",1 cup,11.20,31.20,24.40,10.70,216,387.00,
+central gujrat,Gota,"Snack, Lunch",1 piece,1.50,4.30,3.30,1.00,20,53.00,
+central gujrat,Chorafali,Snack,1 piece,0.50,1.70,1.00,0.30,5,18.00,
+central gujrat,Shrikhand,"Snack, Dessert",1 cup,8.40,82.00,14.00,0.10,216,478.00,
+south gujrat,Surati Undhiyu:,"Lunch, Dinner",1 cup,11.20,31.20,24.40,10.70,216,387.00,
+south gujrat,ghari,Dessert,1 piece,0.50,10.00,0.40,2.20,30,46.00,
+south gujrat,Ponk Vada,Snack,1 piece,2.30,12.60,3.30,1.80,40,89.00,
+south gujrat,patra,Snack,1 piece,1.30,7.80,2.30,1.10,25,57.00,
+south gujrat,1 locho,Snack,1 cup,11.50,34.40,11.90,7.90,166,288.00,
+south gujrat,dabeli,Snack,1 serve,5.00,44.00,12.00,2.40,125,303.00,
+south gujrat,Kolmi no Patio,"Lunch, Dinner",1 cup,15.50,11.20,7.00,2.50,250,169.00,
+south gujrat,kokam sherbet,Beverage,1 glass,0.20,21.40,0.20,3.40,150,97.00,
+south gujrat,Umbariyu:,"Lunch, Dinner",1 cup,4.50,26.00,5.40,11.10,166,167.00,
+marwar,Dal Baati Churma,"Lunch, Dinner",2 bati + 1/2 cup dal,15.30,61.70,14.80,11.20,230,440.00,
+marwar,Gatte Ki Sabzi,"Lunch, Dinner",1 bowl,10.60,29.80,20.20,6.50,350,343.00,
+marwar,Ker Sangri,"Lunch, Dinner",1 cup,7.20,18.70,15.30,8.40,166,261.00,
+marwar,Bajra Roti,"Lunch, Dinner",1 roti,3.00,17.20,1.30,2.20,40,91.00,
+marwar,Laal Maas,"Lunch, Dinner",1 cup,27.00,5.90,24.50,1.80,250,348.00,
+marwar,Panchmel Dal,"Lunch, Dinner",1 cup,13.60,36.40,3.60,9.80,250,230.00,
+marwar,Raj Kachori,Snack,1 piece,6.70,29.60,27.00,3.40,120,388.00,
+marwar,Rabri,Dinner,1 cup ,15.00,90.20,22.00,2.30,250,600.00,
+marwar,Aam Ki Launji,Lunch,1 tablespoon ,0.10,3.70,0.70,0.20,15,20.00,
+marwar,Kadhi Pakora,Lunch,1 cup,7.40,18.70,16.60,3.80,250,253.00,
+marwar,Kalmi Vada,Breakfast,1 vada,3.00,9.40,6.00,2.30,40,102.00,
+marwar,Haldi Ki Sabzi,Dinner,1 katori,3.80,26.00,6.40,6.70,100,177.00,
+marwar,Mirchi Tipore,"Lunch, Dinner",1 piece,0.60,1.30,1.60,0.70,10,21.00,
+marwar,Besan Chakki,Dinner,1 chakki,1.60,14.60,7.10,0.80,30,127.00,
+marwar,Malai Ghevar,"Breakfast, Dinner",1 ghevar,2.10,15.70,15.00,0.30,60,205.00,
+marwar,Methi Bajra Poori,Breakfast,1 puri,2.60,14.60,6.90,2.20,40,130.00,
+marwar,Govind Gatte,lunch/dinner,1 cup,15.10,29.00,26.80,5.60,250,419.00,
+seven sisters,thupka,"Lunch, Dinner",1 cup,14.70,16.40,13.30,1.60,250,242.00,
+seven sisters,momos,"Breakfast, Lunch, Dinner",1 piece,1.30,8.40,1.10,0.80,36,49.00,
+seven sisters,apong,Dinner,1 piece,2.50,24.20,4.60,1.40,80,146.00,
+seven sisters,masor tenga,"Lunch, Dinner",1 bowl,13.00,7.80,19.30,4.00,350,260.00,
+seven sisters,eromba,"Lunch, Dinner",1 bowl,11.00,30.00,4.70,4.00,350,203.00,
+seven sisters,jadoh,"Lunch, Dinner",1 bowl,12.40,35.30,5.50,0.60,233,240.00,
+seven sisters,muya awandru,"Lunch, Dinner",1 bowl,5.00,14.00,0.70,2.70,350,82.00,
+seven sisters,pitha,"Breakfast, Lunch, Dinner",1 piece,2.00,10.90,4.60,1.20,30,93.00,
+seven sisters,dohneihong,"Lunch, Dinner",1 bowl,26.30,11.00,6.90,2.60,350,210.00,
+seven sisters,chack hao kheer,"Breakfast, Dinner",1 cup,10.00,100.00,11.00,2.10,250,529.00,
+seven sisters,gulho,Dinner,1 bowl,11.20,48.40,8.00,3.80,350,312.00,
+himachal pradesh,dham,"Lunch, Dinner",1 piece,18.00,117.50,26.70,11.40,800,776.00,
+himachal pradesh,chana madra,"Lunch, Dinner",1 bowl,18.00,52.00,14.00,15.00,350,395.00,
+himachal pradesh,siddu,"Breakfast, Lunch, Dinner",1 piece,5.70,23.30,1.30,4.20,59,127.00,
+himachal pradesh,babru,"Breakfast, Lunch",1 piece,8.70,36.00,8.80,6.00,80,257.00,
+himachal pradesh,ghost,"Lunch, Dinner",1 piece,84.00,0.00,60.30,0.00,453,880.00,
+himachal pradesh,trout fish,"Lunch, Dinner",1 piece,16.40,0.00,5.20,0.00,80,117.00,
+himachal pradesh,patande,"Breakfast, Lunch, Dinner",1 piece,1.50,9.20,3.20,0.80,40,70.00,
+himachal pradesh,bhey mutter,"Breakfast, Lunch, Dinner",1 bowl,7.10,49.30,8.80,7.60,233,296.00,
+"Jalandar, punjab",amritsari kulcha,"Breakfast, Lunch, Dinner",1 poiece,3.70,6.00,24.30,1.10,70,168.00,
+"Jalandar, punjab",makki ki roti,"Breakfast, Lunch, Dinner",1 piece,2.30,6.50,24.30,2.60,71,162.00,
+"Jalandar, punjab",butter chicken,"Lunch, Dinner",1 cup,26.10,18.40,7.60,2.10,250,316.00,
+"Jalandar, punjab",paneer tikka,"Lunch, Dinner",1 piece,4.30,6.00,0.70,0.10,27,75.00,
+"Jalandar, punjab",chole bature,"Breakfast, Lunch",1 serve,8.90,25.00,47.00,6.90,250,445.00,
+"Jalandar, punjab",lassi,"Breakfast, Lunch, Dinner",1 glass,6.40,8.20,26.40,0.10,250,202.00,
+"Jalandar, punjab",dal makhani,"Lunch, Dinner",1 cup,10.20,13.90,27.40,9.80,250,274.00,
+"Jalandar, punjab",aloo paratha,"Breakfast, Lunch",1 piece,4.70,6.70,31.20,4.40,100,203.00,
+"Jalandar, punjab",jalebi,"Breakfast, Lunch, Dinner",1 piece,0.50,3.70,7.60,0.20,25,66.00,
+"Patiala and Firozpur, punjab",patiyala paneer,"Lunch, Dinner",1 bowl,19.80,21.60,21.90,3.40,350,386.00,
+"Patiala and Firozpur, punjab",murgh makhani biryani,"Lunch, Dinner",1 cup,40.00,16.00,3.00,0.80,206,324.00,
+"Patiala and Firozpur, punjab",tandoori chicken,"Lunch, Dinner",1 piece,19.50,6.30,1.30,0.40,100,145.00,
+"Patiala and Firozpur, punjab",amritsari fish,"Lunch, Dinner",1 piece,4.00,3.20,2.40,0.50,25,55.00,
+"Patiala and Firozpur, punjab",lassi,"Breakfast, Lunch, Dinner",1 glass,6.40,8.20,26.40,0.10,250,202.00,
+"Patiala and Firozpur, punjab",chole bature,"Breakfast, Lunch",1 serve,8.90,25.00,47.00,6.90,250,445.00,
+"Patiala and Firozpur, punjab",jalebi,Snacks,1 piece,0.50,3.70,7.60,0.20,25,66.00,
+"Northern Hills, Chattisgarh",dahi bada,,1 serve,7.90,18.00,10.70,3.50,147,195.00,
+"Northern Hills, Chattisgarh",pej,,1 cup,0.60,4.30,0.30,0.20,250,35.00,
+"Northern Hills, Chattisgarh",khichdi,,1 cup,7.60,40.30,2.00,2.00,250,208.00,
+"Northern Hills, Chattisgarh",Myna Muthia,,1 piece,2.00,6.60,2.00,1.40,20,53.00,
+"Northern Hills, Chattisgarh",Rikwach,,1 piece,2.50,7.00,3.10,1.70,25,66.00,
+"Northern Hills, Chattisgarh",Tikhur Halwa,,1 katori,0.80,60.00,4.30,0.90,150,282.00,
+"Northern Hills, Chattisgarh",Wild Mushroom Curry,,1 cup,5.00,11.60,7.50,3.50,250,124.00,
+"Northern Hills, Chattisgarh",Bamboo Shoot Fry,,1 cup,6.20,12.30,9.40,3.20,166,155.00,
+"Northern Hills, Chattisgarh",Ragi Laddu,,1 piece,1.20,21.70,3.50,1.80,30,123.00,
+"Northern Hills, Chattisgarh",Pakhala,,1 cup,2.20,15.70,2.60,0.50,250,95.00,
+"Northern Hills, Chattisgarh",angakar roti,,1 piece,3.40,38.40,9.40,1.40,100,255.00,
+"Northern Hills, Chattisgarh",Gulgula,,1 piece,0.50,6.50,2.70,0.30,20,52.00,
+chattisgarh plains zone,Bafauri,,1 piece,1.50,4.80,0.40,1.20,20,29.00,
+chattisgarh plains zone,Muthia,,1 piece,2.20,6.60,2.00,1.40,20,53.00,
+chattisgarh plains zone,Rakhia Badi,,1 piece,0.20,0.40,0.00,0.10,3,2.00,
+chattisgarh plains zone,khurmi,,1 piece,0.70,9.80,2.30,0.70,20,62.00,
+chattisgarh plains zone,jalebi,,1 piece,0.50,7.60,3.70,0.20,25,66.00,
+chattisgarh plains zone,chousela,,1 piece,1.50,15.00,7.00,0.90,50,128.00,
+chattisgarh plains zone,Dubki Kadhi,,1 cup,15.00,41.00,6.50,8.80,250,278.00,
+chattisgarh plains zone,Bhajia,,1 piece,1.30,3.50,2.70,0.80,15,44.00,
+chattisgarh plains zone,Kanda Poha,,1 cup,3.60,37.40,6.50,1.80,166,221.00,
+chattisgarh plains zone,Rikwach,,1 piece,2.50,3.10,7.00,1.70,25,66.00,
+chattisgarh plains zone,surti khaja,,1 piece,1.30,19.00,7.00,0.40,40,145.00,
+"Bastar plateau, Chattisgarh",madiya,,1 bowl,3.70,2.40,35.60,1.40,350,179.00,
+"Bastar plateau, Chattisgarh",Wild Mushroom Curry,,1 cup,5.00,11.60,7.50,3.50,250,124.00,
+"Bastar plateau, Chattisgarh",Tikhur Halwa,,1 katori,0.80,4.30,60.00,0.90,150,282.00,
+"Bastar plateau, Chattisgarh",red rice,,1 cup,16.00,0.00,148.00,8.00,180,641.00,
+"Bastar plateau, Chattisgarh",angakar roti,,1 piece,3.40,38.40,9.40,1.40,100,255.00,
+"Bastar plateau, Chattisgarh",kusli,,1 picee,2.50,8.00,20.60,1.30,40,164.00,
+"Bastar plateau, Chattisgarh",Bamboo Shoot Fry,,1 cup,6.20,12.30,9.40,3.20,166,155.00,
+northern india odisha,chhena poda,,1 piece,9.40,16.40,15.30,0.40,80,240.00,
+northern india odisha,Kakharu Phula Bhaja,,1 piece,0.60,5.00,2.00,0.30,15,41.00,
+northern india odisha,macha mahura,,1 cup,17.20,31.30,11.00,4.80,250,288.00,
+northern india odisha,dalma,,1 cup,9.00,29.00,5.70,5.60,250,198.00,
+northern india odisha,arisha pitha,,1 piece,1.40,24.10,8.30,0.60,50,177.00,
+northern india odisha,badi chura,,1 bowl,13.00,33.00,30.00,7.50,233,439.00,
+northern india odisha,janhi posta,,1 cup,2.00,11.50,1.00,4.70,250,63.00,
+northern india odisha,santula,,1 bowl,4.70,22.70,16.00,6.00,303,247.00,
+northern india odisha,pakhala bhata,,1 bowl,3.90,19.50,6.40,0.90,350,151.00,
+northern india odisha,aloo patola rasa,,1 bowl,3.80,26.80,13.30,3.40,350,239.00,
+northern india odisha,Bamboo Shoot Fry,,1 cup,6.20,9.40,12.30,3.20,166,155.00,
+southern interior odisha,mandia jau,,1 cup,4.80,22.00,5.00,1.70,250,150.00,
+southern interior odisha,dalma,,1 cup,9.00,29.00,5.70,5.60,250,198.00,
+southern interior odisha,Kakharu Phula Bhaja,,1 piece,0.60,5.00,2.00,0.30,15,41.00,
+southern interior odisha,Dahi Baigana,,1 cup,4.10,16.00,9.00,5.30,250,194.00,
+southern interior odisha,podo pitha,,1 piece,2.50,19.30,2.50,1.30,55,108.00,
+southern interior odisha,arisa pitha,,1 piece,1.40,24.00,8.30,0.60,50,177.00,
+southern interior odisha,macha mahura,,1 cup,17.20,31.30,10.90,5.00,250,288.00,
+southern interior odisha,ghanta tarkari,,1 cup,7.00,30.60,5.50,6.00,250,195.00,
+southern interior odisha,enduri pitha,,1 piece,5.50,31.00,3.70,2.70,80,180.00,
+southern interior odisha,badi chura,,1 bowl,13.00,33.00,30.00,7.50,233,439.00,
+South coastal odisha,chingudi malai curry,,1 bowl,34.00,38.00,13.00,4.00,350,508.00,
+South coastal odisha,kanika rice,,1 cup,5.20,70.00,8.00,2.50,290,375.00,
+South coastal odisha,dalma,,1 cup,9.00,29.00,5.70,5.60,250,198.00,
+South coastal odisha,pakhala bhata,,1 bowl,3.90,19.50,6.40,0.90,350,151.00,
+South coastal odisha,mudhi,,1 cup,1.00,10.30,0.00,0.20,14,46.00,
+South coastal odisha,badi chura,,1 bowl,13.00,33.00,30.00,7.50,233,439.00,
+South coastal odisha,khichdi,,1 cup,7.60,40.30,2.00,2.00,250,208.00,
+South coastal odisha,ambila,,1 bowl,3.50,17.40,7.80,3.60,350,152.00,
+South coastal odisha,prawn balchao,,1 tablespoon,1.50,2.00,1.20,0.10,15,29.00,
+South coastal odisha,besara,,1 bowl,6.70,19.20,8.50,6.40,350,165.00,
+South coastal odisha,dahi machhi,,1 bowl,49.00,16.00,7.20,1.60,350,380.00,
+north coastal odisha,badi chura,,1 bowl,13.00,33.00,30.00,7.50,233,439.00,
+north coastal odisha,dalma,,1 cup,9.00,29.00,5.70,5.60,250,198.00,
+north coastal odisha,dahi machhi,,1 bowl,49.00,16.00,7.20,1.60,350,380.00,
+north coastal odisha,rasabali,,1 piece,3.20,7.60,8.50,0.10,40,113.00,
+north coastal odisha,kora khai,,1 cup,7.00,123.00,12.60,4.00,166,634.00,
+north coastal odisha,khichdi,,1 cup,7.60,40.30,2.00,2.00,250,208.00,
+north coastal odisha,prawn balchao,,1 tablespoon,1.50,2.00,1.20,0.10,15,29.00,
+north coastal odisha,arisa pitha,,1 piece,1.40,24.00,8.30,0.60,50,177.00,
