@@ -1,0 +1,131 @@
+Cuisines,Food item,Type,MealTimings,Quantity,Protiens (in g),Carbs (in g),Fats (in g),Fiber (in g),Calcium (in mg),Total (in g),Calories (in Cal),GI,Side,Needside
+South Indian,dosa,veg,b,1 medium dosa,3.88,29.2,3.72,0.86,0,96.78,167.67,,0,1
+South Indian,ragi dosa,veg,b,1 medium dosa,1.95,14.58,7.77,0.74,0,80,134.79,,0,1
+South Indian,onion dosa,veg,b,1 medium dosa,4.62,34.5,3.9,1.83,0,150.44,190.96,,0,1
+South Indian,wheat dosa,veg,b,1 medium dosa,3.88,29.2,3.72,0.86,0,96.78,167.67,,0,1
+South Indian,mutta dosa,egg,b,1 dosa,9.01,20.68,9.57,1.51,0,232.26,205.15,,0,1
+South Indian,carrot dosa,veg,b,1 Serving,4.55,36.36,14.43,3.29,0,330.68,291.53,,0,1
+South Indian,butter dosa,veg,b,1 medium dosa,4.01,29.21,11.77,0.86,0,107.5,238.88,,0,1
+South Indian,mutta dosai,veg,b,1 dosa,9.01,20.68,9.57,1.51,0,232.26,205.15,,0,1
+South Indian,carrot and ginger dosa,veg,b,1 Serving,4.55,36.36,14.43,3.29,0,330.68,291.53,,0,1
+South Indian,idli,veg,b,1 idli,1.65,11.62,0.44,0.54,0,38.5,58.01,,0,1
+South Indian,idli vada,veg,b,1 idli,1.65,11.62,0.44,0.54,0,38.5,58.01,,0,1
+South Indian,idli sambar,veg,b,1 cup sambar with 3 idli,12,61.27,1.99,8.93,0,368.54,303.95,,0,1
+South Indian,sambar,veg,"b,l",1 bowl (2 cups),14.12,52.83,1.34,14.62,0,506,259.8,,1,0
+South Indian,sambar rice,veg,l,1 cup,6.53,38.54,4.5,5.45,0,207,213.92,,0,1
+South Indian,BisiBeleBath,veg,l,1 cup,6.53,38.54,4.5,5.45,0,207,213.92,,0,0
+South Indian,lentil sambar,veg,l,1 bowl (2 cups),14.12,52.83,1.34,14.62,0,506,259.8,,1,0
+South Indian,poha upma,veg,b,1 cup,4.03,35.41,6.92,1.91,0,163.4,219.18,,0,0
+South Indian,vegetable upma,veg,b,1 cup,3.45,21.12,3.96,1.98,0,155.06,132.38,,0,0
+South Indian,vegetable poha upma,veg,b,1 cup,4.03,35.41,6.92,1.91,0,163.4,219.18,,0,0
+South Indian,indian rasam,veg,l,1 serving,2.21,8.67,3.14,2.75,0,249.53,64,,1,0
+South Indian,pongal,veg,b,1 cup,7.32,53.98,8.07,3.79,0,207,318.62,,0,0
+South Indian,belecoy,veg,s,1 piece,0.53,12.89,0.33,0.68,0,16.42,55.19,,0,0
+South Indian,coconut chutneys,veg,b,2 tbsp,1.27,4.92,4.38,1.67,0,37.2,59.96,,1,0
+South Indian,onion chutney,veg,b,2 tbsp,0.37,2.17,2.44,0.35,0,34.6,30.87,,1,0
+South Indian,tomato chutney,veg,b,1 tbsp,0.33,7.68,0.13,0.45,0,46,33.68,,1,0
+South Indian,mango chutney,veg,b,1 tbsp,0.14,8.34,0.1,0.2,0,17,33.35,,1,0
+South Indian,green chutney,veg,b,1 tablespoon,0.85,1.67,1.41,0.47,0,17,20.67,,1,0
+South Indian,garlic chutney,veg,b,1 cup,1.26,4.76,19.28,1.11,0,155.85,192.32,,1,0
+South Indian,tamarind chutney,veg,b,1 tbsp,0.1,4.87,0.03,0.25,0,17.85,18.77,,1,0
+South Indian,biryani veg,veg,"l,d",1 cup,4.18,36.82,3.88,1.97,0,168.81,198.41,,1,1
+South Indian,biryani egg,egg,l,1 cup,6.74,30.75,7.86,1.65,0,169.41,221.62,,0,0
+South Indian,fish biryani,non veg,l,1 cup,19.36,31.09,10.01,1.31,0,205.18,295.74,,0,0
+South Indian,egg biryanis,veg,l,1 cup,6.74,30.75,7.86,1.65,0,169.41,221.62,,0,0
+South Indian,nasi biryani,non veg,l,1 cup,4.29,42.72,14.81,1.76,0,170.8,321.02,,0,0
+South Indian,palak biryani,veg,l,1 Serving,10.02,82.48,12.24,5.71,0,400.57,472.69,,0,0
+South Indian,mutton biryani,non veg,l,1 serving (about 2 cups),37.65,37.99,37.14,3.08,0,402.2,642.24,,0,0
+South Indian,chicken biryani,non veg,l,1 cup,19.65,30.95,9.44,1.36,0,205.18,291.95,,0,0
+South Indian,appam,veg,b,1 piece,1.47,16.68,2.39,0.61,0,45.94,94.29,,0,1
+North Indian,egg paratha,egg,b,1 piece,11.32,45.13,7.46,6.8,0,106.14,278.62,,0,1
+North Indian,dal paratha,veg,b,1 Paratha,4.16,20.68,5.47,1.91,0,64.02,148.43,,0,1
+North Indian,roti paratha,veg,b,1 piece,5.02,35.83,10.43,7.58,0,79,257.54,,0,1
+North Indian,palak paratha,veg,b,1 Piece,4.12,22.83,6.03,1.79,0,83.48,160.23,,0,1
+North Indian,onion paratha,veg,b,1 piece,5.67,39.94,10.7,8.47,0,115.76,276.55,,0,1
+North Indian,paneer paratha,veg,b,1 piece,7.7,20.62,7.78,3.03,0,77.75,176.11,,0,1
+North Indian,chana dal paratha,veg,b,1 Paratha,4.16,20.68,5.47,1.91,0,64.02,148.43,,0,1
+North Indian,plain poha,veg,b,1 cup,2.86,34.83,0.23,0,0,138.72,157.52,,0,0
+North Indian,meat samosa,non veg,s,1 samosa,7.44,20,11.07,1.67,0,93.3,209.63,,0,0
+North Indian,samosa chaat,veg,s,1 cup,10.86,42.31,22.83,8.1,0,233.26,403.43,,0,0
+North Indian,coconut samosas,veg,s,1 piece,1.91,19.36,6.07,1.03,0,38.37,139.08,,0,0
+North Indian,vegetarian samosas,veg,s,1 samosa,3.49,23.91,17.24,2.08,0,100,261.5,,0,0
+North Indian,channa bhature,veg,"b,l,d",1 bhatura with chole,13.24,58.91,26.96,11.07,0,281.08,510.88,,0,0
+North Indian,chole puri,veg,"b,l,d",1 serving,15.11,54.05,14.28,13.33,0,226.02,392.59,,0,0
+North Indian,chole rice,veg,l,1 cup,5.96,36.58,8.45,4.13,0,176.55,243.21,,0,0
+North Indian,chole,veg,"b,l,d",1 cup,7.67,28.63,16.45,7.6,0,195.08,280.93,,1,0
+North Indian,dal kachoris,veg,s,1 piece,1.5,7.68,5.26,0.63,0,19.78,83.29,,0,0
+North Indian,khasta kachori,veg,s,1 piece,1.5,7.68,5.26,0.63,0,19.78,83.29,,0,0
+North Indian,channa masala,veg,"b,l,d",1 cup,7.67,28.63,16.45,7.6,0,195.08,280.93,,1,0
+North Indian,matar masala,veg,"l,d",1 cup,4.71,19.06,7.01,4.66,0,241.29,149.32,,1,0
+North Indian,chana poori,veg,"b,l,d",1 serving,15.11,54.05,14.28,13.33,0,226.02,392.59,,0,0
+North Indian,chicken tikka masala,non veg,"l,d",2 cups,55.61,21.7,47.79,4.33,0,472,729.73,,1,0
+North Indian,dhokla,veg,"b,s",1 piece,5.7,15.88,7.36,2.54,0,57.86,151.72,,0,0
+North Indian,paneer cheese,veg,"l,d","1 cup, crumbled",22.07,3.64,29.06,0,0,122,364.78,,1,0
+North Indian,paneer korma,veg,"l,d",1 cup,17.48,10.13,29.09,1.48,0,236,367.39,,1,0
+North Indian,paneer kabab,veg,s,1 skewer,12.75,12.04,20.54,1.24,0,177.92,280.3,,0,0
+North Indian,paneer butter masala,veg,"l,d",1 cup,8.24,6.9,16.27,1.5,0,198.14,201.27,,1,0
+North Indian,mutter paneer,veg,"l,d",1 serving,23.31,24.93,46.18,6.41,0,440.46,598.54,,1,0
+North Indian,palak paneer,veg,"l,d",1 cup,15.06,10.01,30.48,2.64,0,200,365.53,,1,0
+North Indian,saag paneer,veg,"l,d",1 cup,15.06,10.01,30.48,2.64,0,200,365.53,,1,0
+North Indian,shahi paneer,veg,"l,d",1 cup,11.72,12.39,24.58,2.44,0,242.29,309.87,,1,0
+North Indian,chili paneer,veg,"l,d",1 cup,15.03,17.45,27.01,2.09,0,232.71,366.48,,1,0
+North Indian,paneer tikka masala,veg,"l,d",1 cup,8.24,6.9,16.27,1.5,0,198.14,201.27,,1,0
+General,momos,veg,s,1 dumpling,3.37,7.19,2.16,0.44,0,36.43,61.48,,0,0
+General,chicken momos,non veg,s,1 dumpling,3.37,7.19,2.16,0.44,0,36.43,61.48,,0,0
+Northeast and Coastal Indian,lauki sabzi,veg,"l,d",1 cup,1.89,11.16,2.67,3.3,0,239.3,69.08,,1,0
+Northeast and Coastal Indian,thai steamed rice and pork pudding,veg,l,1 cup,7.12,45.33,17.35,0.71,0,194.94,368.68,,0,0
+North Indian,rajma and rice,veg,l,1 cup,5.75,42.86,5.46,4.16,0,239,244.13,,0,0
+Northeast and Coastal Indian,black eyed peas and rice,veg,"l,d",1 cup,12.27,51.81,1.99,6.21,0,224,276.25,,1,1
+Rajastani,sungold kiwi,veg,s,1 fruit,0.83,12.79,0.23,1.13,0,81,51.03,,0,0
+General,kiwi smoothie,veg,s,12 fl oz,6.85,52.01,2.73,3.55,0,308.52,245,,0,0
+General,kiwifruit,veg,s,"1 fruit (2"" dia)",0.79,10.12,0.36,2.07,0,69,42.09,,0,0
+North Indian,rajma,veg,"b,l,d",1 cup,15.35,40.36,0.89,11.33,0,177,224.79,,1,0
+General,strawberry kiwi smoothie,veg,s,12 fl oz,6.85,52.01,2.73,3.55,0,308.52,245,,0,0
+Rajastani,baati chokha,veg,s,1 piece,5.18,25.09,3.35,4.18,0,104.81,144.08,,0,0
+Rajastani,dal baati,veg,s,1 Baati with dal,11.59,36.15,13.49,9.53,0,165.25,301.48,,0,0
+North Indian,dal paratha,veg,b,1 Paratha,4.16,20.68,5.47,1.91,0,64.02,148.43,,0,1
+North Indian,dal makhani,veg,"l,d",1 serving,16.28,39.48,24.21,13.21,0,253.46,426.89,,1,0
+North Indian,dal rice,veg,l,1 cup,12.78,48.22,5.84,9.53,0,207,293.42,,0,0
+North Indian,palak dal,veg,"l,d",1 servings,12.8,29.07,8.77,11.46,0,184.68,236.84,,1,0
+North Indian,drumstick dal,veg,"l,d",1 serving,4.96,16.78,8.5,4.88,0,385.54,155.2,,1,0
+North Indian,plain chana dal,veg,"l,d","1 cup, cooked",12.84,41.71,4.51,11.49,0,182.4,251.71,,1,0
+North Indian,lentil dal,veg,"l,d",1 cup,14.25,33.94,4.18,12.89,0,214.26,221.88,,1,0
+North Indian,coconut dal,veg,"l,d",1 cup,6.75,15.86,16.28,5,0,140.55,224.74,,1,0
+North Indian,chana dal paratha,veg,b,1 Paratha,4.16,20.68,5.47,1.91,0,64.02,148.43,,0,1
+North Indian,dal,veg,"l,d",1 cup,14.25,33.94,4.18,12.89,0,214.26,221.88,,1,0
+North Indian,chana dal,veg,"l,d","1 cup, cooked",12.84,41.71,4.51,11.49,0,182.4,251.71,,1,0
+North Indian,moong dal,veg,"l,d",1 cup,15.71,40.52,2.05,15.9,0,206.46,235.67,,1,0
+North Indian,lauki sabzi,veg,"l,d",1 cup,1.89,11.16,2.67,3.3,0,239.3,69.08,,1,0
+North Indian,qormeh sabzi,non veg,"l,d",1 bowl (2 cups),44.62,32.84,24.8,8.05,0,503.4,523.27,,1,0
+North Indian,mawa paneer curry,veg,"l,d",1 cup,13.4,16.72,19.49,1.93,0,198.29,288.76,,1,0
+North Indian,fulka roti,veg,"l,d",1 piece,7.65,31.52,5.07,3.33,0,68,201.96,,0,1
+North Indian,ragi roti,veg,"l,d",1 large,2.78,19.52,5.71,1.14,0,67.98,139.24,,0,1
+North Indian,wheat roti,veg,"l,d",1 medium,3.14,18.45,3.68,3.88,0,40,119.6,,0,1
+North Indian,roti,veg,"l,d",1 medium,3.14,18.45,3.68,3.88,0,40,119.6,,0,1
+North Indian,chicken rotisserie,non veg,"l,d",1 serving (3 oz),21.93,0.02,10.3,0,0,85,180.51,,0,0
+North Indian,rotisserie drumstick,non veg,"l,d",1 drumstick,14.24,0.01,6.35,0,0,53,113.95,,0,0
+North Indian,rotisserie chicken thigh,non veg,"l,d",1 thigh,20.41,0.02,13.97,0,0,89,207.37,,0,0
+North Indian,rotisserie chicken breast,non veg,"l,d",1 serving (3 oz),23.36,0.02,6.95,0,0,85,156.4,,0,0
+North Indian,palak paneer,veg,"l,d",1 cup,15.06,10.01,30.48,2.64,0,200,365.53,,1,0
+North Indian,baingan bharta,veg,"l,d",1 cup,2.14,17.47,5.64,4.82,0,233.92,117.41,,1,0
+general,veg pulao,veg,l,1 cup,5.39,53.93,4.39,1.01,0,244.07,280.64,,0,0
+general,dal makhani,veg,"l,d",1 serving,16.28,39.48,24.21,13.21,0,253.46,426.89,,1,0
+general,gobi manchurian,veg,s,1 cup,3.11,22.16,15.71,2.57,0,136.67,235.92,,0,0
+general,hakka noodles,veg,"l,d",2 cups,18.43,52.26,17.16,5.77,0,400,424.13,,0,0
+general,spring rolls,veg,s,1 roll,3.75,19.28,6.22,0.87,0,64.47,148.3,,0,0
+general,rajma chawal,veg,l,1 cup,9.47,42.59,3.44,6.54,0,250.45,235.08,,0,0
+general,vegetable cutlet,veg,s,1 cutlet,30.57,15.83,8.43,0.82,0,126.68,270.6,,0,0
+general,veg fried rice,veg,"l,d",1 cup,8.01,29.71,14.28,2.11,0,166.99,278.8,,0,0
+general,mixed vegetable,veg,"l,d",1 cup,2.38,9.73,0.46,4.16,0,140.05,45.3,,0,1
+general,veggie pizza,veg,"l,d",1 medium slice,10.95,32.7,9.91,2.48,0,108,262.8,,0,0
+general,vegetable pakora,veg,s,1 piece,0.43,3.23,1.25,0.32,0,13.11,25.36,,0,0
+general,mushroom masala,veg,"l,d",1 cup,5.02,16.76,9.35,4.72,0,230.25,156.44,,0,1
+general,pulao,veg,"l,d",1 cup,4.06,41.92,8.12,0.75,0,164.3,261.22,,0,1
+general,mushroom soup,veg,"s,d",1 can,14.87,36.29,22.55,1.89,0,630,409.5,,0,0
+general,vegetable salad,veg,s,1 cup,3.72,10.9,6.78,2.66,0,163,114.21,,0,0
+general,bhindi fry,veg,"l,d",1 cup,2.86,11.6,16.69,3.94,0,186.45,195.93,,1,0
+general,veggie stir fry,veg,"l,d",1 cup,6.03,15.39,10.89,5.01,0,237.82,170.55,,1,0
+general,veg stew,veg,"l,d",1 bowl (2 cups),5.83,25.79,3.76,3.37,0,482,159.06,,0,0
+general,veggie kebabs,veg,s,1 kabob,2.64,8.37,4.99,2.43,0,188.42,81.84,,0,0
+general,dahi,veg,"b,l,d",5.3 oz container,13.5,5.97,7.5,0,0,150,145.5,,1,0
+South Indian,chapati,veg,"l,d",1 medium,3.14,18.45,3.68,3.88,0,40,119.6,,0,1
