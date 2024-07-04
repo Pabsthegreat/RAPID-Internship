@@ -2,7 +2,7 @@ import pandas as pd
 from itertools import product
 
 # Load the food database
-food_db = pd.read_csv('RAPID/generalfoods.csv')
+food_db = pd.read_csv('RAPID\Karnataka.csv')
 
 # Filter for main dishes that need side dishes, side dishes, and independent dishes
 main_dishes = food_db[food_db['Needside'] == True]
@@ -78,14 +78,14 @@ def save_ranked_combos(ranked_combos):
         for timing in ['b', 'l', 'd', 's']:
             timing_df = ranked_df[ranked_df['MealTimings'] == timing]
             if not timing_df.empty:
-                timing_df.to_csv(f'ranked_combinations_{timing}.csv', mode='a', header=False, index=False)
+                timing_df.to_csv(f'southkarnatake_{timing}.csv', mode='a', header=False, index=False)
 
 # Save independent dishes directly to the respective CSV files
 def save_independent_dishes(dishes):
     for timing in ['b', 'l', 'd', 's']:
         timing_df = dishes[dishes['MealTimings'].str.contains(timing)]
         if not timing_df.empty:
-            timing_df.to_csv(f'ranked_combinations_{timing}.csv', mode='a', header=False, index=False)
+            timing_df.to_csv(f'southkarnataka_{timing}.csv', mode='a', header=False, index=False)
 
 # Save independent dishes
 save_independent_dishes(independent_dishes)
