@@ -1,111 +1,111 @@
 Cuisines,Food item,Type,MealTimings,Quantity,Protiens (in g),Carbs (in g),Fats (in g),Fiber (in g),Calcium (in mg),Total (in g),Calories (in Cal),GI,Side,Needside,meat_type
-South Indian,biryani veg + dahi,veg,d,1 cup + 5.3 oz container,17.68,42.79,11.379999999999999,1.97,0,318.81,343.90999999999997,,1,1,5.0
-North Indian,fulka roti + chole,veg,d,1 piece + 1 cup,15.32,60.15,21.52,10.93,0,263.08000000000004,482.89,,1,1,5.0
-North Indian,fulka roti + channa masala,veg,d,1 piece + 1 cup,15.32,60.15,21.52,10.93,0,263.08000000000004,482.89,,1,1,5.0
-North Indian,fulka roti + matar masala,veg,d,1 piece + 1 cup,12.36,50.58,12.08,7.99,0,309.28999999999996,351.28,,1,1,5.0
-North Indian,fulka roti + chicken tikka masala,veg,d,1 piece + 2 cups,63.26,53.22,52.86,7.66,0,540.0,931.69,,1,1,5.0
-North Indian,fulka roti + paneer cheese,veg,d,"1 piece + 1 cup, crumbled",29.72,35.16,34.129999999999995,3.33,0,190.0,566.74,,1,1,5.0
-North Indian,fulka roti + paneer korma,veg,d,1 piece + 1 cup,25.130000000000003,41.65,34.16,4.8100000000000005,0,304.0,569.35,,1,1,5.0
-North Indian,fulka roti + paneer butter masala,veg,d,1 piece + 1 cup,15.89,38.42,21.34,4.83,0,266.14,403.23,,1,1,5.0
-North Indian,fulka roti + mutter paneer,veg,d,1 piece + 1 serving,30.96,56.45,51.25,9.74,0,508.46,800.5,,1,1,5.0
-North Indian,fulka roti + palak paneer,veg,d,1 piece + 1 cup,22.71,41.53,35.55,5.970000000000001,0,268.0,567.49,,1,1,5.0
-North Indian,fulka roti + saag paneer,veg,d,1 piece + 1 cup,22.71,41.53,35.55,5.970000000000001,0,268.0,567.49,,1,1,5.0
-North Indian,fulka roti + shahi paneer,veg,d,1 piece + 1 cup,19.37,43.91,29.65,5.77,0,310.28999999999996,511.83000000000004,,1,1,5.0
-North Indian,fulka roti + chili paneer,veg,d,1 piece + 1 cup,22.68,48.97,32.08,5.42,0,300.71000000000004,568.44,,1,1,5.0
-North Indian,fulka roti + paneer tikka masala,veg,d,1 piece + 1 cup,15.89,38.42,21.34,4.83,0,266.14,403.23,,1,1,5.0
-North Indian,fulka roti + lauki sabzi,veg,d,1 piece + 1 cup,9.540000000000001,42.68,7.74,6.63,0,307.3,271.04,,1,1,5.0
-North Indian,fulka roti + rajma,veg,d,1 piece + 1 cup,23.0,71.88,5.96,14.66,0,245.0,426.75,,1,1,5.0
-North Indian,fulka roti + dal makhani,veg,d,1 piece + 1 serving,23.93,71.0,29.28,16.54,0,321.46000000000004,628.85,,1,1,5.0
-North Indian,fulka roti + palak dal,veg,d,1 piece + 1 servings,20.450000000000003,60.59,13.84,14.790000000000001,0,252.68,438.8,,1,1,5.0
-North Indian,fulka roti + drumstick dal,veg,d,1 piece + 1 serving,12.61,48.3,13.57,8.21,0,453.54,357.15999999999997,,1,1,5.0
-North Indian,fulka roti + plain chana dal,veg,d,"1 piece + 1 cup, cooked",20.490000000000002,73.23,9.58,14.82,0,250.4,453.67,,1,1,5.0
-North Indian,fulka roti + lentil dal,veg,d,1 piece + 1 cup,21.9,65.46,9.25,16.22,0,282.26,423.84000000000003,,1,1,5.0
-North Indian,fulka roti + coconut dal,veg,d,1 piece + 1 cup,14.4,47.379999999999995,21.35,8.33,0,208.55,426.70000000000005,,1,1,5.0
-North Indian,fulka roti + dal,veg,d,1 piece + 1 cup,21.9,65.46,9.25,16.22,0,282.26,423.84000000000003,,1,1,5.0
-North Indian,fulka roti + chana dal,veg,d,"1 piece + 1 cup, cooked",20.490000000000002,73.23,9.58,14.82,0,250.4,453.67,,1,1,5.0
-North Indian,fulka roti + moong dal,veg,d,1 piece + 1 cup,23.36,72.04,7.12,19.23,0,274.46000000000004,437.63,,1,1,5.0
-North Indian,fulka roti + lauki sabzi,veg,d,1 piece + 1 cup,9.540000000000001,42.68,7.74,6.63,0,307.3,271.04,,1,1,5.0
-North Indian,fulka roti + qormeh sabzi,veg,d,1 piece + 1 bowl (2 cups),52.269999999999996,64.36,29.87,11.38,0,571.4,725.23,,1,1,5.0
-North Indian,fulka roti + mawa paneer curry,veg,d,1 piece + 1 cup,21.05,48.239999999999995,24.56,5.26,0,266.28999999999996,490.72,,1,1,5.0
-North Indian,fulka roti + palak paneer,veg,d,1 piece + 1 cup,22.71,41.53,35.55,5.970000000000001,0,268.0,567.49,,1,1,5.0
-North Indian,fulka roti + baingan bharta,veg,d,1 piece + 1 cup,9.790000000000001,48.989999999999995,10.71,8.15,0,301.91999999999996,319.37,,1,1,5.0
-North Indian,fulka roti + dal makhani,veg,d,1 piece + 1 serving,23.93,71.0,29.28,16.54,0,321.46000000000004,628.85,,1,1,5.0
-North Indian,fulka roti + bhindi fry,veg,d,1 piece + 1 cup,10.51,43.12,21.76,7.27,0,254.45,397.89,,1,1,5.0
-North Indian,fulka roti + veggie stir fry,veg,d,1 piece + 1 cup,13.68,46.91,15.96,8.34,0,305.82,372.51,,1,1,5.0
-North Indian,ragi roti + chole,veg,d,1 large + 1 cup,10.45,48.15,22.16,8.74,0,263.06,420.17,,1,1,5.0
-North Indian,ragi roti + channa masala,veg,d,1 large + 1 cup,10.45,48.15,22.16,8.74,0,263.06,420.17,,1,1,5.0
-North Indian,ragi roti + matar masala,veg,d,1 large + 1 cup,7.49,38.58,12.719999999999999,5.8,0,309.27,288.56,,1,1,5.0
-North Indian,ragi roti + chicken tikka masala,veg,d,1 large + 2 cups,58.39,41.22,53.5,5.47,0,539.98,868.97,,1,1,5.0
-North Indian,ragi roti + paneer cheese,veg,d,"1 large + 1 cup, crumbled",24.85,23.16,34.769999999999996,1.14,0,189.98000000000002,504.02,,1,1,5.0
-North Indian,ragi roti + paneer korma,veg,d,1 large + 1 cup,20.26,29.65,34.8,2.62,0,303.98,506.63,,1,1,5.0
-North Indian,ragi roti + paneer butter masala,veg,d,1 large + 1 cup,11.02,26.42,21.98,2.6399999999999997,0,266.12,340.51,,1,1,5.0
-North Indian,ragi roti + mutter paneer,veg,d,1 large + 1 serving,26.09,44.45,51.89,7.55,0,508.44,737.78,,1,1,5.0
-North Indian,ragi roti + palak paneer,veg,d,1 large + 1 cup,17.84,29.53,36.19,3.7800000000000002,0,267.98,504.77,,1,1,5.0
-North Indian,ragi roti + saag paneer,veg,d,1 large + 1 cup,17.84,29.53,36.19,3.7800000000000002,0,267.98,504.77,,1,1,5.0
-North Indian,ragi roti + shahi paneer,veg,d,1 large + 1 cup,14.5,31.91,30.29,3.58,0,310.27,449.11,,1,1,5.0
-North Indian,ragi roti + chili paneer,veg,d,1 large + 1 cup,17.81,36.97,32.72,3.2299999999999995,0,300.69,505.72,,1,1,5.0
-North Indian,ragi roti + paneer tikka masala,veg,d,1 large + 1 cup,11.02,26.42,21.98,2.6399999999999997,0,266.12,340.51,,1,1,5.0
-North Indian,ragi roti + lauki sabzi,veg,d,1 large + 1 cup,4.67,30.68,8.379999999999999,4.4399999999999995,0,307.28000000000003,208.32,,1,1,5.0
-North Indian,ragi roti + rajma,veg,d,1 large + 1 cup,18.13,59.879999999999995,6.6,12.47,0,244.98000000000002,364.03,,1,1,5.0
-North Indian,ragi roti + dal makhani,veg,d,1 large + 1 serving,19.060000000000002,59.0,29.92,14.350000000000001,0,321.44,566.13,,1,1,5.0
-North Indian,ragi roti + palak dal,veg,d,1 large + 1 servings,15.58,48.59,14.48,12.600000000000001,0,252.66000000000003,376.08000000000004,,1,1,5.0
-North Indian,ragi roti + drumstick dal,veg,d,1 large + 1 serving,7.74,36.3,14.21,6.02,0,453.52000000000004,294.44,,1,1,5.0
-North Indian,ragi roti + plain chana dal,veg,d,"1 large + 1 cup, cooked",15.62,61.230000000000004,10.219999999999999,12.63,0,250.38,390.95000000000005,,1,1,5.0
-North Indian,ragi roti + lentil dal,veg,d,1 large + 1 cup,17.03,53.459999999999994,9.89,14.030000000000001,0,282.24,361.12,,1,1,5.0
-North Indian,ragi roti + coconut dal,veg,d,1 large + 1 cup,9.53,35.379999999999995,21.990000000000002,6.14,0,208.53000000000003,363.98,,1,1,5.0
-North Indian,ragi roti + dal,veg,d,1 large + 1 cup,17.03,53.459999999999994,9.89,14.030000000000001,0,282.24,361.12,,1,1,5.0
-North Indian,ragi roti + chana dal,veg,d,"1 large + 1 cup, cooked",15.62,61.230000000000004,10.219999999999999,12.63,0,250.38,390.95000000000005,,1,1,5.0
-North Indian,ragi roti + moong dal,veg,d,1 large + 1 cup,18.490000000000002,60.040000000000006,7.76,17.04,0,274.44,374.90999999999997,,1,1,5.0
-North Indian,ragi roti + lauki sabzi,veg,d,1 large + 1 cup,4.67,30.68,8.379999999999999,4.4399999999999995,0,307.28000000000003,208.32,,1,1,5.0
-North Indian,ragi roti + qormeh sabzi,veg,d,1 large + 1 bowl (2 cups),47.4,52.36,30.51,9.190000000000001,0,571.38,662.51,,1,1,5.0
-North Indian,ragi roti + mawa paneer curry,veg,d,1 large + 1 cup,16.18,36.239999999999995,25.2,3.07,0,266.27,428.0,,1,1,5.0
-North Indian,ragi roti + palak paneer,veg,d,1 large + 1 cup,17.84,29.53,36.19,3.7800000000000002,0,267.98,504.77,,1,1,5.0
-North Indian,ragi roti + baingan bharta,veg,d,1 large + 1 cup,4.92,36.989999999999995,11.35,5.96,0,301.9,256.65,,1,1,5.0
-North Indian,ragi roti + dal makhani,veg,d,1 large + 1 serving,19.060000000000002,59.0,29.92,14.350000000000001,0,321.44,566.13,,1,1,5.0
-North Indian,ragi roti + bhindi fry,veg,d,1 large + 1 cup,5.64,31.119999999999997,22.400000000000002,5.08,0,254.43,335.17,,1,1,5.0
-North Indian,ragi roti + veggie stir fry,veg,d,1 large + 1 cup,8.81,34.91,16.6,6.1499999999999995,0,305.8,309.79,,1,1,5.0
-North Indian,wheat roti + chole,veg,d,1 medium + 1 cup,10.81,47.08,20.13,11.48,0,235.08,400.53,,1,1,5.0
-North Indian,wheat roti + paneer butter masala,veg,d,1 medium + 1 cup,11.38,25.35,19.95,5.38,0,238.14,320.87,,1,1,5.0
-North Indian,wheat roti + mutter paneer,veg,d,1 medium + 1 serving,26.45,43.379999999999995,49.86,10.29,0,480.46,718.14,,1,1,5.0
-North Indian,wheat roti + palak paneer,veg,d,1 medium + 1 cup,18.2,28.46,34.160000000000004,6.52,0,240.0,485.13,,1,1,5.0
-North Indian,wheat roti + saag paneer,veg,d,1 medium + 1 cup,18.2,28.46,34.160000000000004,6.52,0,240.0,485.13,,1,1,5.0
-North Indian,wheat roti + shahi paneer,veg,d,1 medium + 1 cup,14.860000000000001,30.84,28.259999999999998,6.32,0,282.28999999999996,429.47,,1,1,5.0
-North Indian,wheat roti + chili paneer,veg,d,1 medium + 1 cup,18.169999999999998,35.9,30.69,5.97,0,272.71000000000004,486.08000000000004,,1,1,5.0
-North Indian,wheat roti + paneer tikka masala,veg,d,1 medium + 1 cup,11.38,25.35,19.95,5.38,0,238.14,320.87,,1,1,5.0
-North Indian,wheat roti + lauki sabzi,veg,d,1 medium + 1 cup,5.03,29.61,6.35,7.18,0,279.3,188.68,,1,1,5.0
-North Indian,wheat roti + rajma,veg,d,1 medium + 1 cup,18.49,58.81,4.57,15.21,0,217.0,344.39,,1,1,5.0
-North Indian,wheat roti + dal makhani,veg,d,1 medium + 1 serving,19.42,57.92999999999999,27.89,17.09,0,293.46000000000004,546.49,,1,1,5.0
-North Indian,wheat roti + palak dal,veg,d,1 medium + 1 servings,15.940000000000001,47.519999999999996,12.45,15.34,0,224.68,356.44,,1,1,5.0
-North Indian,wheat roti + drumstick dal,veg,d,1 medium + 1 serving,8.1,35.230000000000004,12.18,8.76,0,425.54,274.79999999999995,,1,1,5.0
-North Indian,wheat roti + plain chana dal,veg,d,"1 medium + 1 cup, cooked",15.98,60.16,8.19,15.370000000000001,0,222.4,371.31,,1,1,5.0
-North Indian,wheat roti + lentil dal,veg,d,1 medium + 1 cup,17.39,52.39,7.859999999999999,16.77,0,254.26,341.48,,1,1,5.0
-North Indian,wheat roti + coconut dal,veg,d,1 medium + 1 cup,9.89,34.31,19.96,8.879999999999999,0,180.55,344.34000000000003,,1,1,5.0
-North Indian,wheat roti + dal,veg,d,1 medium + 1 cup,17.39,52.39,7.859999999999999,16.77,0,254.26,341.48,,1,1,5.0
-North Indian,wheat roti + chana dal,veg,d,"1 medium + 1 cup, cooked",15.98,60.16,8.19,15.370000000000001,0,222.4,371.31,,1,1,5.0
-North Indian,channa bhature,veg,"b,l,d",1 bhatura with chole,13.24,58.91,26.96,11.07,0,281.08,510.88,,0,0
-North Indian,chole puri,veg,"b,l,d",1 serving,15.11,54.05,14.28,13.33,0,226.02,392.59,,0,0
-North Indian,chana poori,veg,"b,l,d",1 serving,15.11,54.05,14.28,13.33,0,226.02,392.59,,0,0
-North Indian,chicken rotisserie,non veg,"l,d",1 serving (3 oz),21.93,0.02,10.3,0.0,0,85.0,180.51,,0,0
-North Indian,rotisserie drumstick,non veg,"l,d",1 drumstick,14.24,0.01,6.35,0.0,0,53.0,113.95,,0,0
-North Indian,rotisserie chicken thigh,non veg,"l,d",1 thigh,20.41,0.02,13.97,0.0,0,89.0,207.37,,0,0
-North Indian,rotisserie chicken breast,non veg,"l,d",1 serving (3 oz),23.36,0.02,6.95,0.0,0,85.0,156.4,,0,0
-general,hakka noodles,veg,"l,d",2 cups,18.43,52.26,17.16,5.77,0,400.0,424.13,,0,0
-general,veg fried rice,veg,"l,d",1 cup,8.01,29.71,14.28,2.11,0,166.99,278.8,,0,0
-general,veggie pizza,veg,"l,d",1 medium slice,10.95,32.7,9.91,2.48,0,108.0,262.8,,0,0
-general,mushroom soup,veg,"s,d",1 can,14.87,36.29,22.55,1.89,0,630.0,409.5,,0,0
-general,veg stew,veg,"l,d",1 bowl (2 cups),5.83,25.79,3.76,3.37,0,482.0,159.06,,0,0
-South Indian,chapati + plain chana dal,veg,d,"1 medium + 1 cup, cooked",15.98,60.16,8.19,15.370000000000001,0,222.4,371.31,,1,1,5.0
-South Indian,chapati + lentil dal,veg,d,1 medium + 1 cup,17.39,52.39,7.859999999999999,16.77,0,254.26,341.48,,1,1,5.0
-South Indian,chapati + coconut dal,veg,d,1 medium + 1 cup,9.89,34.31,19.96,8.879999999999999,0,180.55,344.34000000000003,,1,1,5.0
-South Indian,chapati + dal,veg,d,1 medium + 1 cup,17.39,52.39,7.859999999999999,16.77,0,254.26,341.48,,1,1,5.0
-South Indian,chapati + chana dal,veg,d,"1 medium + 1 cup, cooked",15.98,60.16,8.19,15.370000000000001,0,222.4,371.31,,1,1,5.0
-South Indian,chapati + moong dal,veg,d,1 medium + 1 cup,18.85,58.97,5.73,19.78,0,246.46,355.27,,1,1,5.0
-South Indian,chapati + lauki sabzi,veg,d,1 medium + 1 cup,5.03,29.61,6.35,7.18,0,279.3,188.68,,1,1,5.0
-South Indian,chapati + qormeh sabzi,veg,d,1 medium + 1 bowl (2 cups),47.76,51.290000000000006,28.48,11.93,0,543.4,642.87,,1,1,5.0
-South Indian,chapati + mawa paneer curry,veg,d,1 medium + 1 cup,16.54,35.17,23.169999999999998,5.81,0,238.29,408.36,,1,1,5.0
-South Indian,chapati + palak paneer,veg,d,1 medium + 1 cup,18.2,28.46,34.160000000000004,6.52,0,240.0,485.13,,1,1,5.0
-South Indian,chapati + baingan bharta,veg,d,1 medium + 1 cup,5.28,35.92,9.32,8.7,0,273.91999999999996,237.01,,1,1,5.0
-South Indian,chapati + dal makhani,veg,d,1 medium + 1 serving,19.42,57.92999999999999,27.89,17.09,0,293.46000000000004,546.49,,1,1,5.0
-South Indian,chapati + bhindi fry,veg,d,1 medium + 1 cup,6.0,30.049999999999997,20.37,7.82,0,226.45,315.53,,1,1,5.0
-South Indian,chapati + veggie stir fry,veg,d,1 medium + 1 cup,9.17,33.84,14.57,8.89,0,277.82,290.15,,1,1,5.0
-South Indian,chapati + dahi,veg,d,1 medium + 5.3 oz container,16.64,24.419999999999998,11.18,3.88,0,190.0,265.1,,1,1,5.0
+South Indian,biryani veg + dahi,veg,d,1 cup + 5.3 oz container,17.68,42.79,11.379999999999999,1.97,0,318.81,343.90999999999997,,1,1,5.0,0
+North Indian,fulka roti + chole,veg,d,1 piece + 1 cup,15.32,60.15,21.52,10.93,0,263.08000000000004,482.89,,1,1,5.0,0
+North Indian,fulka roti + channa masala,veg,d,1 piece + 1 cup,15.32,60.15,21.52,10.93,0,263.08000000000004,482.89,,1,1,5.0,0
+North Indian,fulka roti + matar masala,veg,d,1 piece + 1 cup,12.36,50.58,12.08,7.99,0,309.28999999999996,351.28,,1,1,5.0,0
+North Indian,fulka roti + chicken tikka masala,non veg,d,1 piece + 2 cups,63.26,53.22,52.86,7.66,0,540.0,931.69,,1,1,5.0,chicken
+North Indian,fulka roti + paneer cheese,veg,d,"1 piece + 1 cup, crumbled",29.72,35.16,34.129999999999995,3.33,0,190.0,566.74,,1,1,5.0,0
+North Indian,fulka roti + paneer korma,veg,d,1 piece + 1 cup,25.130000000000003,41.65,34.16,4.8100000000000005,0,304.0,569.35,,1,1,5.0,0
+North Indian,fulka roti + paneer butter masala,veg,d,1 piece + 1 cup,15.89,38.42,21.34,4.83,0,266.14,403.23,,1,1,5.0,0
+North Indian,fulka roti + mutter paneer,veg,d,1 piece + 1 serving,30.96,56.45,51.25,9.74,0,508.46,800.5,,1,1,5.0,0
+North Indian,fulka roti + palak paneer,veg,d,1 piece + 1 cup,22.71,41.53,35.55,5.970000000000001,0,268.0,567.49,,1,1,5.0,0
+North Indian,fulka roti + saag paneer,veg,d,1 piece + 1 cup,22.71,41.53,35.55,5.970000000000001,0,268.0,567.49,,1,1,5.0,0
+North Indian,fulka roti + shahi paneer,veg,d,1 piece + 1 cup,19.37,43.91,29.65,5.77,0,310.28999999999996,511.83000000000004,,1,1,5.0,0
+North Indian,fulka roti + chili paneer,veg,d,1 piece + 1 cup,22.68,48.97,32.08,5.42,0,300.71000000000004,568.44,,1,1,5.0,0
+North Indian,fulka roti + paneer tikka masala,veg,d,1 piece + 1 cup,15.89,38.42,21.34,4.83,0,266.14,403.23,,1,1,5.0,0
+North Indian,fulka roti + lauki sabzi,veg,d,1 piece + 1 cup,9.540000000000001,42.68,7.74,6.63,0,307.3,271.04,,1,1,5.0,0
+North Indian,fulka roti + rajma,veg,d,1 piece + 1 cup,23.0,71.88,5.96,14.66,0,245.0,426.75,,1,1,5.0,0
+North Indian,fulka roti + dal makhani,veg,d,1 piece + 1 serving,23.93,71.0,29.28,16.54,0,321.46000000000004,628.85,,1,1,5.0,0
+North Indian,fulka roti + palak dal,veg,d,1 piece + 1 servings,20.450000000000003,60.59,13.84,14.790000000000001,0,252.68,438.8,,1,1,5.0,0
+North Indian,fulka roti + drumstick dal,veg,d,1 piece + 1 serving,12.61,48.3,13.57,8.21,0,453.54,357.15999999999997,,1,1,5.0,0
+North Indian,fulka roti + plain chana dal,veg,d,"1 piece + 1 cup, cooked",20.490000000000002,73.23,9.58,14.82,0,250.4,453.67,,1,1,5.0,0
+North Indian,fulka roti + lentil dal,veg,d,1 piece + 1 cup,21.9,65.46,9.25,16.22,0,282.26,423.84000000000003,,1,1,5.0,0
+North Indian,fulka roti + coconut dal,veg,d,1 piece + 1 cup,14.4,47.379999999999995,21.35,8.33,0,208.55,426.70000000000005,,1,1,5.0,0
+North Indian,fulka roti + dal,veg,d,1 piece + 1 cup,21.9,65.46,9.25,16.22,0,282.26,423.84000000000003,,1,1,5.0,0
+North Indian,fulka roti + chana dal,veg,d,"1 piece + 1 cup, cooked",20.490000000000002,73.23,9.58,14.82,0,250.4,453.67,,1,1,5.0,0
+North Indian,fulka roti + moong dal,veg,d,1 piece + 1 cup,23.36,72.04,7.12,19.23,0,274.46000000000004,437.63,,1,1,5.0,0
+North Indian,fulka roti + lauki sabzi,veg,d,1 piece + 1 cup,9.540000000000001,42.68,7.74,6.63,0,307.3,271.04,,1,1,5.0,0
+North Indian,fulka roti + qormeh sabzi,non veg,d,1 piece + 1 bowl (2 cups),52.269999999999996,64.36,29.87,11.38,0,571.4,725.23,,1,1,5.0,mutton
+North Indian,fulka roti + mawa paneer curry,veg,d,1 piece + 1 cup,21.05,48.239999999999995,24.56,5.26,0,266.28999999999996,490.72,,1,1,5.0,0
+North Indian,fulka roti + palak paneer,veg,d,1 piece + 1 cup,22.71,41.53,35.55,5.970000000000001,0,268.0,567.49,,1,1,5.0,0
+North Indian,fulka roti + baingan bharta,veg,d,1 piece + 1 cup,9.790000000000001,48.989999999999995,10.71,8.15,0,301.91999999999996,319.37,,1,1,5.0,0
+North Indian,fulka roti + dal makhani,veg,d,1 piece + 1 serving,23.93,71.0,29.28,16.54,0,321.46000000000004,628.85,,1,1,5.0,0
+North Indian,fulka roti + bhindi fry,veg,d,1 piece + 1 cup,10.51,43.12,21.76,7.27,0,254.45,397.89,,1,1,5.0,0
+North Indian,fulka roti + veggie stir fry,veg,d,1 piece + 1 cup,13.68,46.91,15.96,8.34,0,305.82,372.51,,1,1,5.0,0
+North Indian,ragi roti + chole,veg,d,1 large + 1 cup,10.45,48.15,22.16,8.74,0,263.06,420.17,,1,1,5.0,0
+North Indian,ragi roti + channa masala,veg,d,1 large + 1 cup,10.45,48.15,22.16,8.74,0,263.06,420.17,,1,1,5.0,0
+North Indian,ragi roti + matar masala,veg,d,1 large + 1 cup,7.49,38.58,12.719999999999999,5.8,0,309.27,288.56,,1,1,5.0,0
+North Indian,ragi roti + chicken tikka masala,non veg,d,1 large + 2 cups,58.39,41.22,53.5,5.47,0,539.98,868.97,,1,1,5.0,chicken
+North Indian,ragi roti + paneer cheese,veg,d,"1 large + 1 cup, crumbled",24.85,23.16,34.769999999999996,1.14,0,189.98000000000002,504.02,,1,1,5.0,0
+North Indian,ragi roti + paneer korma,veg,d,1 large + 1 cup,20.26,29.65,34.8,2.62,0,303.98,506.63,,1,1,5.0,0
+North Indian,ragi roti + paneer butter masala,veg,d,1 large + 1 cup,11.02,26.42,21.98,2.6399999999999997,0,266.12,340.51,,1,1,5.0,0
+North Indian,ragi roti + mutter paneer,veg,d,1 large + 1 serving,26.09,44.45,51.89,7.55,0,508.44,737.78,,1,1,5.0,0
+North Indian,ragi roti + palak paneer,veg,d,1 large + 1 cup,17.84,29.53,36.19,3.7800000000000002,0,267.98,504.77,,1,1,5.0,0
+North Indian,ragi roti + saag paneer,veg,d,1 large + 1 cup,17.84,29.53,36.19,3.7800000000000002,0,267.98,504.77,,1,1,5.0,0
+North Indian,ragi roti + shahi paneer,veg,d,1 large + 1 cup,14.5,31.91,30.29,3.58,0,310.27,449.11,,1,1,5.0,0
+North Indian,ragi roti + chili paneer,veg,d,1 large + 1 cup,17.81,36.97,32.72,3.2299999999999995,0,300.69,505.72,,1,1,5.0,0
+North Indian,ragi roti + paneer tikka masala,veg,d,1 large + 1 cup,11.02,26.42,21.98,2.6399999999999997,0,266.12,340.51,,1,1,5.0,0
+North Indian,ragi roti + lauki sabzi,veg,d,1 large + 1 cup,4.67,30.68,8.379999999999999,4.4399999999999995,0,307.28000000000003,208.32,,1,1,5.0,0
+North Indian,ragi roti + rajma,veg,d,1 large + 1 cup,18.13,59.879999999999995,6.6,12.47,0,244.98000000000002,364.03,,1,1,5.0,0
+North Indian,ragi roti + dal makhani,veg,d,1 large + 1 serving,19.060000000000002,59.0,29.92,14.350000000000001,0,321.44,566.13,,1,1,5.0,0
+North Indian,ragi roti + palak dal,veg,d,1 large + 1 servings,15.58,48.59,14.48,12.600000000000001,0,252.66000000000003,376.08000000000004,,1,1,5.0,0
+North Indian,ragi roti + drumstick dal,veg,d,1 large + 1 serving,7.74,36.3,14.21,6.02,0,453.52000000000004,294.44,,1,1,5.0,0
+North Indian,ragi roti + plain chana dal,veg,d,"1 large + 1 cup, cooked",15.62,61.230000000000004,10.219999999999999,12.63,0,250.38,390.95000000000005,,1,1,5.0,0
+North Indian,ragi roti + lentil dal,veg,d,1 large + 1 cup,17.03,53.459999999999994,9.89,14.030000000000001,0,282.24,361.12,,1,1,5.0,0
+North Indian,ragi roti + coconut dal,veg,d,1 large + 1 cup,9.53,35.379999999999995,21.990000000000002,6.14,0,208.53000000000003,363.98,,1,1,5.0,0
+North Indian,ragi roti + dal,veg,d,1 large + 1 cup,17.03,53.459999999999994,9.89,14.030000000000001,0,282.24,361.12,,1,1,5.0,0
+North Indian,ragi roti + chana dal,veg,d,"1 large + 1 cup, cooked",15.62,61.230000000000004,10.219999999999999,12.63,0,250.38,390.95000000000005,,1,1,5.0,0
+North Indian,ragi roti + moong dal,veg,d,1 large + 1 cup,18.490000000000002,60.040000000000006,7.76,17.04,0,274.44,374.90999999999997,,1,1,5.0,0
+North Indian,ragi roti + lauki sabzi,veg,d,1 large + 1 cup,4.67,30.68,8.379999999999999,4.4399999999999995,0,307.28000000000003,208.32,,1,1,5.0,0
+North Indian,ragi roti + qormeh sabzi,non veg,d,1 large + 1 bowl (2 cups),47.4,52.36,30.51,9.190000000000001,0,571.38,662.51,,1,1,5.0,mutton
+North Indian,ragi roti + mawa paneer curry,veg,d,1 large + 1 cup,16.18,36.239999999999995,25.2,3.07,0,266.27,428.0,,1,1,5.0,0
+North Indian,ragi roti + palak paneer,veg,d,1 large + 1 cup,17.84,29.53,36.19,3.7800000000000002,0,267.98,504.77,,1,1,5.0,0
+North Indian,ragi roti + baingan bharta,veg,d,1 large + 1 cup,4.92,36.989999999999995,11.35,5.96,0,301.9,256.65,,1,1,5.0,0
+North Indian,ragi roti + dal makhani,veg,d,1 large + 1 serving,19.060000000000002,59.0,29.92,14.350000000000001,0,321.44,566.13,,1,1,5.0,0
+North Indian,ragi roti + bhindi fry,veg,d,1 large + 1 cup,5.64,31.119999999999997,22.400000000000002,5.08,0,254.43,335.17,,1,1,5.0,0
+North Indian,ragi roti + veggie stir fry,veg,d,1 large + 1 cup,8.81,34.91,16.6,6.1499999999999995,0,305.8,309.79,,1,1,5.0,0
+North Indian,wheat roti + chole,veg,d,1 medium + 1 cup,10.81,47.08,20.13,11.48,0,235.08,400.53,,1,1,5.0,0
+North Indian,wheat roti + paneer butter masala,veg,d,1 medium + 1 cup,11.38,25.35,19.95,5.38,0,238.14,320.87,,1,1,5.0,0
+North Indian,wheat roti + mutter paneer,veg,d,1 medium + 1 serving,26.45,43.379999999999995,49.86,10.29,0,480.46,718.14,,1,1,5.0,0
+North Indian,wheat roti + palak paneer,veg,d,1 medium + 1 cup,18.2,28.46,34.160000000000004,6.52,0,240.0,485.13,,1,1,5.0,0
+North Indian,wheat roti + saag paneer,veg,d,1 medium + 1 cup,18.2,28.46,34.160000000000004,6.52,0,240.0,485.13,,1,1,5.0,0
+North Indian,wheat roti + shahi paneer,veg,d,1 medium + 1 cup,14.860000000000001,30.84,28.259999999999998,6.32,0,282.28999999999996,429.47,,1,1,5.0,0
+North Indian,wheat roti + chili paneer,veg,d,1 medium + 1 cup,18.169999999999998,35.9,30.69,5.97,0,272.71000000000004,486.08000000000004,,1,1,5.0,0
+North Indian,wheat roti + paneer tikka masala,veg,d,1 medium + 1 cup,11.38,25.35,19.95,5.38,0,238.14,320.87,,1,1,5.0,0
+North Indian,wheat roti + lauki sabzi,veg,d,1 medium + 1 cup,5.03,29.61,6.35,7.18,0,279.3,188.68,,1,1,5.0,0
+North Indian,wheat roti + rajma,veg,d,1 medium + 1 cup,18.49,58.81,4.57,15.21,0,217.0,344.39,,1,1,5.0,0
+North Indian,wheat roti + dal makhani,veg,d,1 medium + 1 serving,19.42,57.92999999999999,27.89,17.09,0,293.46000000000004,546.49,,1,1,5.0,0
+North Indian,wheat roti + palak dal,veg,d,1 medium + 1 servings,15.940000000000001,47.519999999999996,12.45,15.34,0,224.68,356.44,,1,1,5.0,0
+North Indian,wheat roti + drumstick dal,veg,d,1 medium + 1 serving,8.1,35.230000000000004,12.18,8.76,0,425.54,274.79999999999995,,1,1,5.0,0
+North Indian,wheat roti + plain chana dal,veg,d,"1 medium + 1 cup, cooked",15.98,60.16,8.19,15.370000000000001,0,222.4,371.31,,1,1,5.0,0
+North Indian,wheat roti + lentil dal,veg,d,1 medium + 1 cup,17.39,52.39,7.859999999999999,16.77,0,254.26,341.48,,1,1,5.0,0
+North Indian,wheat roti + coconut dal,veg,d,1 medium + 1 cup,9.89,34.31,19.96,8.879999999999999,0,180.55,344.34000000000003,,1,1,5.0,0
+North Indian,wheat roti + dal,veg,d,1 medium + 1 cup,17.39,52.39,7.859999999999999,16.77,0,254.26,341.48,,1,1,5.0,0
+North Indian,wheat roti + chana dal,veg,d,"1 medium + 1 cup, cooked",15.98,60.16,8.19,15.370000000000001,0,222.4,371.31,,1,1,5.0,0
+North Indian,channa bhature,veg,"b,l,d",1 bhatura with chole,13.24,58.91,26.96,11.07,0,281.08,510.88,,0,0,0
+North Indian,chole puri,veg,"b,l,d",1 serving,15.11,54.05,14.28,13.33,0,226.02,392.59,,0,0,0
+North Indian,chana poori,veg,"b,l,d",1 serving,15.11,54.05,14.28,13.33,0,226.02,392.59,,0,0,0
+North Indian,chicken rotisserie,non veg,"l,d",1 serving (3 oz),21.93,0.02,10.3,0.0,0,85.0,180.51,,0,0,chicken
+North Indian,rotisserie drumstick,non veg,"l,d",1 drumstick,14.24,0.01,6.35,0.0,0,53.0,113.95,,0,0,chicken
+North Indian,rotisserie chicken thigh,non veg,"l,d",1 thigh,20.41,0.02,13.97,0.0,0,89.0,207.37,,0,0,chicken
+North Indian,rotisserie chicken breast,non veg,"l,d",1 serving (3 oz),23.36,0.02,6.95,0.0,0,85.0,156.4,,0,0,chicken
+general,hakka noodles,veg,"l,d",2 cups,18.43,52.26,17.16,5.77,0,400.0,424.13,,0,0,0
+general,veg fried rice,veg,"l,d",1 cup,8.01,29.71,14.28,2.11,0,166.99,278.8,,0,0,0
+general,veggie pizza,veg,"l,d",1 medium slice,10.95,32.7,9.91,2.48,0,108.0,262.8,,0,0,0
+general,mushroom soup,veg,"s,d",1 can,14.87,36.29,22.55,1.89,0,630.0,409.5,,0,0,0
+general,veg stew,veg,"l,d",1 bowl (2 cups),5.83,25.79,3.76,3.37,0,482.0,159.06,,0,0,0
+South Indian,chapati + plain chana dal,veg,d,"1 medium + 1 cup, cooked",15.98,60.16,8.19,15.370000000000001,0,222.4,371.31,,1,1,5.0,0
+South Indian,chapati + lentil dal,veg,d,1 medium + 1 cup,17.39,52.39,7.859999999999999,16.77,0,254.26,341.48,,1,1,5.0,0
+South Indian,chapati + coconut dal,veg,d,1 medium + 1 cup,9.89,34.31,19.96,8.879999999999999,0,180.55,344.34000000000003,,1,1,5.0,0
+South Indian,chapati + dal,veg,d,1 medium + 1 cup,17.39,52.39,7.859999999999999,16.77,0,254.26,341.48,,1,1,5.0,0
+South Indian,chapati + chana dal,veg,d,"1 medium + 1 cup, cooked",15.98,60.16,8.19,15.370000000000001,0,222.4,371.31,,1,1,5.0,0
+South Indian,chapati + moong dal,veg,d,1 medium + 1 cup,18.85,58.97,5.73,19.78,0,246.46,355.27,,1,1,5.0,0
+South Indian,chapati + lauki sabzi,veg,d,1 medium + 1 cup,5.03,29.61,6.35,7.18,0,279.3,188.68,,1,1,5.0,0
+South Indian,chapati + qormeh sabzi,non veg,d,1 medium + 1 bowl (2 cups),47.76,51.290000000000006,28.48,11.93,0,543.4,642.87,,1,1,5.0,mutton
+South Indian,chapati + mawa paneer curry,veg,d,1 medium + 1 cup,16.54,35.17,23.169999999999998,5.81,0,238.29,408.36,,1,1,5.0,0
+South Indian,chapati + palak paneer,veg,d,1 medium + 1 cup,18.2,28.46,34.160000000000004,6.52,0,240.0,485.13,,1,1,5.0,0
+South Indian,chapati + baingan bharta,veg,d,1 medium + 1 cup,5.28,35.92,9.32,8.7,0,273.91999999999996,237.01,,1,1,5.0,0
+South Indian,chapati + dal makhani,veg,d,1 medium + 1 serving,19.42,57.92999999999999,27.89,17.09,0,293.46000000000004,546.49,,1,1,5.0,0
+South Indian,chapati + bhindi fry,veg,d,1 medium + 1 cup,6.0,30.049999999999997,20.37,7.82,0,226.45,315.53,,1,1,5.0,0
+South Indian,chapati + veggie stir fry,veg,d,1 medium + 1 cup,9.17,33.84,14.57,8.89,0,277.82,290.15,,1,1,5.0,0
+South Indian,chapati + dahi,veg,d,1 medium + 5.3 oz container,16.64,24.419999999999998,11.18,3.88,0,190.0,265.1,,1,1,5.0,0
