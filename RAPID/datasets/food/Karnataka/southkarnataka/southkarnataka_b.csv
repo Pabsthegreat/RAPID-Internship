@@ -1,6 +1,7 @@
-South Karnataka,Uppittu (Upma),veg,b,1 cup,5.2,34.3,3.0,2.5,32.46,216,184.0,,0,0
-South Karnataka,Shavige Bath,veg,b,1 cup,4.2,33.4,3.9,4.5,30.38,166,184.0,,0,0
-South Karnataka,ragi roti + Gojju,veg,b,1 roti + 1 cup,3.0,42.8,4.9,4.1,132.8,290,223.0,,1,1,3.0
-South Karnataka,benne dosa + Saagu,veg,b,1 dosa + 1 cup,6.9,40.5,11.9,6.5,62.1,276,294.0,,1,1,4.0
-South Karnataka,akki roti + Gojju,veg,b,1 roti + 1 cup,3.2,50.3,9.4,2.4,55.14,330,298.0,,1,1,3.0
-South Karnataka,Besan utappam + Saagu,veg,b,1 uttapam + 1 cup,9.3,36.7,16.0,8.899999999999999,81.44,339,324.0,,1,1,4.0
+Cuisines,Food item,Type,MealTimings,Quantity,Protiens (in g),Carbs (in g),Fats (in g),Fiber (in g),Calcium (in mg),Total (in g),Calories (in Cal),GI,Side,Needside,meat_type
+South Karnataka,Uppittu (Upma),veg,b,1 cup,5.2,34.3,3.0,2.5,32.46,216,184.0,,0,0,0
+South Karnataka,Shavige Bath,veg,b,1 cup,4.2,33.4,3.9,4.5,30.38,166,184.0,,0,0,0
+South Karnataka,ragi roti + Gojju,veg,b,1 roti + 1 cup,3.0,42.8,4.9,4.1,132.8,290,223.0,,1,1,3.0,0
+South Karnataka,benne dosa + Saagu,veg,b,1 dosa + 1 cup,6.9,40.5,11.9,6.5,62.1,276,294.0,,1,1,4.0,0
+South Karnataka,akki roti + Gojju,veg,b,1 roti + 1 cup,3.2,50.3,9.4,2.4,55.14,330,298.0,,1,1,3.0,0
+South Karnataka,Besan utappam + Saagu,veg,b,1 uttapam + 1 cup,9.3,36.7,16.0,8.899999999999999,81.44,339,324.0,,1,1,4.0,0

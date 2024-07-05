@@ -1,6 +1,7 @@
-Coastal Karnataka,chapati + chicken ghee roast,veg,d,1 medium  + 1 bowl,52.04,26.85,16.48,5.279999999999999,114.0,273,462.6,,1,1,5.0
-Coastal Karnataka,chapati + meen gassi,veg,d,1 medium  + 1 bowl,39.14,28.75,21.78,6.18,54.0,390,460.6,,1,1,5.0
-Coastal Karnataka,chapati + prawn gassi,veg,d,1 medium  + 1 bowl,39.24,40.95,22.18,12.68,200.0,390,509.6,,1,1,5.0
-Coastal Karnataka,chapati + crab sukka,veg,d,1 medium  + 1 bowl,30.44,27.15,13.18,6.58,100.0,273,353.6,,1,1,5.0
-Coastal Karnataka,chapati + pomfret tawa fry,veg,d,1 medium  + 1 piece,14.440000000000001,27.85,11.78,4.58,16.46,120,274.6,,1,1,5.0
-Coastal Karnataka,chapati + bangude pulu munchi,veg,d,1 medium  + 1 bowl,48.54,27.45,12.68,5.48,107.0,377,412.6,,1,1,5.0
+Cuisines,Food item,Type,MealTimings,Quantity,Protiens (in g),Carbs (in g),Fats (in g),Fiber (in g),Calcium (in mg),Total (in g),Calories (in Cal),GI,Side,Needside,meat_type
+Coastal Karnataka,chapati + chicken ghee roast,non veg,d,1 medium  + 1 bowl,52.04,26.85,16.48,5.279999999999999,114.0,273,462.6,,1,1,5.0,chicken
+Coastal Karnataka,chapati + meen gassi,non veg,d,1 medium  + 1 bowl,39.14,28.75,21.78,6.18,54.0,390,460.6,,1,1,5.0,seafood
+Coastal Karnataka,chapati + prawn gassi,non veg,d,1 medium  + 1 bowl,39.24,40.95,22.18,12.68,200.0,390,509.6,,1,1,5.0,seafood
+Coastal Karnataka,chapati + crab sukka,non veg,d,1 medium  + 1 bowl,30.44,27.15,13.18,6.58,100.0,273,353.6,,1,1,5.0,seafood
+Coastal Karnataka,chapati + pomfret tawa fry,non veg,d,1 medium  + 1 piece,14.440000000000001,27.85,11.78,4.58,16.46,120,274.6,,1,1,5.0,seafood
+Coastal Karnataka,chapati + bangude pulu munchi,non veg,d,1 medium  + 1 bowl,48.54,27.45,12.68,5.48,107.0,377,412.6,,1,1,5.0,seafood

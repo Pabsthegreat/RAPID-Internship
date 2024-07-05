@@ -39,7 +39,8 @@ def manual_rank_combinations(combos, db, start_index):
             rank_score = float(input("Enter the rank score for this combination (0-5): "))
             
             if rank_score > 0:
-                combined_type = 'non-veg' if food1['Type'] == 'non-veg' or food2['Type'] == 'non-veg' else 'veg'
+                combined_type = 'non veg' if food1['Type'] == 'non veg' or food2['Type'] == 'non veg' else 'veg'
+                meat_type = 0 if combined_type == 'veg' else food1['meat_type'] if food1['Type'] == 'non veg' else food2['meat_type']
                 
                 ranked_combos.append({
                     'Cuisines': food1['Cuisines'],
@@ -57,7 +58,8 @@ def manual_rank_combinations(combos, db, start_index):
                     'GI': (food1['GI'] + food2['GI']) / 2,  # Average GI value
                     'Side': food2['Side'],
                     'Needside': food1['Needside'],
-                    'rank_score': rank_score
+                    'rank_score': rank_score,
+                    'meat_type':meat_type
                 })
         
         # Save progress after each combination

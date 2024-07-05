@@ -1,12 +1,4 @@
-South Indian,poha upma,veg,b,1 cup,4.03,35.41,6.92,1.91,0,163.4,219.18,,0,0
-South Indian,vegetable upma,veg,b,1 cup,3.45,21.12,3.96,1.98,0,155.06,132.38,,0,0
-South Indian,vegetable poha upma,veg,b,1 cup,4.03,35.41,6.92,1.91,0,163.4,219.18,,0,0
-South Indian,pongal,veg,b,1 cup,7.32,53.98,8.07,3.79,0,207.0,318.62,,0,0
-North Indian,plain poha,veg,b,1 cup,2.86,34.83,0.23,0.0,0,138.72,157.52,,0,0
-North Indian,channa bhature,veg,"b,l,d",1 bhatura with chole,13.24,58.91,26.96,11.07,0,281.08,510.88,,0,0
-North Indian,chole puri,veg,"b,l,d",1 serving,15.11,54.05,14.28,13.33,0,226.02,392.59,,0,0
-North Indian,chana poori,veg,"b,l,d",1 serving,15.11,54.05,14.28,13.33,0,226.02,392.59,,0,0
-North Indian,dhokla,veg,"b,s",1 piece,5.7,15.88,7.36,2.54,0,57.86,151.72,,0,0
+Cuisines,Food item,Type,MealTimings,Quantity,Protiens (in g),Carbs (in g),Fats (in g),Fiber (in g),Calcium (in mg),Total (in g),Calories (in Cal),GI,Side,Needside,meat_type
 South Indian,dosa + sambar,veg,b,1 medium dosa + 1 bowl (2 cups),18.0,82.03,5.0600000000000005,15.479999999999999,0,602.78,427.47,,1,1,4.0
 South Indian,dosa + coconut chutneys,veg,b,1 medium dosa + 2 tbsp,5.15,34.12,8.1,2.53,0,133.98000000000002,227.63,,1,1,5.0
 South Indian,dosa + onion chutney,veg,b,1 medium dosa + 2 tbsp,4.25,31.369999999999997,6.16,1.21,0,131.38,198.54,,1,1,5.0

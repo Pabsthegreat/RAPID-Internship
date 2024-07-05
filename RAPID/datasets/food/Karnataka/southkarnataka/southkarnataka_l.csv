@@ -1,22 +1,23 @@
-South Karnataka,bsi bele bath,veg,l,1 cup,7.6,30.8,8.9,5.0,37.36,206,233.0,,0,0
-South Karnataka,vangi bath,veg,l,1 cup,5.0,20.6,11.0,7.6,120.22,166,197.0,,0,0
-South Karnataka,curd rice,veg,l,1 cup,5.8,26.3,9.2,0.7,166.51,216,211.0,,0,0
-South Karnataka,Chitranna,veg,l,1 cup,6.2,43.6,5.1,1.9,23.3,206,244.0,,0,0
-South Karnataka,ragi mudde + kodava kuutu curry,veg,l,2 balls + 1 cup,11.6,77.9,13.3,20.6,295.39,550,474.0,,1,1,4.0
-South Karnataka,ragi mudde + koli saaru,veg,l,2 balls + 1 cup,31.400000000000002,51.9,12.4,9.8,304.66,550,441.0,,1,1,5.0
-South Karnataka,ragi mudde + Menthe soppu huli,veg,l,2 balls + 1 cup,13.0,66.4,4.8,12.1,328.15,550,359.0,,1,1,5.0
-South Karnataka,ragi mudde + Huli,veg,l,2 balls + 1 cup,21.8,96.9,12.4,20.4,331.09000000000003,650,581.0,,1,1,5.0
-South Karnataka,rice  + coorgi pandi curry,veg,l,1 cup + 1 cup,23.1,32.5,28.4,2.5,56.13,247,485.0,,1,1,4.0
-South Karnataka,rice  + kodava kuutu curry,veg,l,1 cup + 1 cup,9.3,63.1,12.5,14.700000000000001,92.56,281,402.0,,1,1,5.0
-South Karnataka,rice  + koli saaru,veg,l,1 cup + 1 cup,29.1,37.1,11.6,3.9,101.83,281,369.0,,1,1,5.0
-South Karnataka,rice  + Menthe soppu huli,veg,l,1 cup + 1 cup,10.7,51.6,4.0,6.2,125.32,281,287.0,,1,1,5.0
-South Karnataka,rice  + Gojju,veg,l,1 cup + 1 cup,3.0,51.6,4.5,1.9,50.66,281,259.0,,1,1,2.0
-South Karnataka,rice  + Huli,veg,l,1 cup + 1 cup,19.5,82.1,11.6,14.5,128.26,381,509.0,,1,1,5.0
-South Karnataka,rice  + Thili Saaru,veg,l,1 cup + 1 cup,4.5,37.6,1.3,2.6,43.04,281,183.0,,1,1,5.0
-South Karnataka,rice  + Majjige Huli,veg,l,1 cup + 1 cup,5.9,36.7,9.3,5.300000000000001,131.8,281,256.0,,1,1,5.0
-South Karnataka,chapati + coorgi pandi curry,veg,l,1 medium  + 1 cup,24.240000000000002,22.95,32.08,5.48,46.13,256,481.6,,1,1,5.0
-South Karnataka,chapati + kodava kuutu curry,veg,l,1 medium  + 1 cup,10.44,53.55,16.18,17.68,82.56,290,398.6,,1,1,4.0
-South Karnataka,chapati + Balekai palya,veg,l,1 medium  + 1 cup,6.4399999999999995,52.25,15.78,9.280000000000001,28.76,206,364.6,,1,1,5.0
-South Karnataka,chapati + Gojju,veg,l,1 medium  + 1 cup,4.140000000000001,42.05,8.18,4.88,40.66,290,255.6,,1,1,4.0
-South Karnataka,chapati + Huli,veg,l,1 medium  + 1 cup,20.64,72.55,15.28,17.48,118.26,390,505.6,,1,1,3.0
-South Karnataka,chapati + Badanekai Yennegai,veg,l,1 medium  + 1 cup,8.24,32.25,16.28,10.280000000000001,66.88,290,303.6,,1,1,5.0
+Cuisines,Food item,Type,MealTimings,Quantity,Protiens (in g),Carbs (in g),Fats (in g),Fiber (in g),Calcium (in mg),Total (in g),Calories (in Cal),GI,Side,Needside,meat_type
+South Karnataka,bsi bele bath,veg,l,1 cup,7.6,30.8,8.9,5.0,37.36,206,233.0,,0,0,0
+South Karnataka,vangi bath,veg,l,1 cup,5.0,20.6,11.0,7.6,120.22,166,197.0,,0,0,0
+South Karnataka,curd rice,veg,l,1 cup,5.8,26.3,9.2,0.7,166.51,216,211.0,,0,0,0
+South Karnataka,Chitranna,veg,l,1 cup,6.2,43.6,5.1,1.9,23.3,206,244.0,,0,0,0
+South Karnataka,ragi mudde + kodava kuutu curry,veg,l,2 balls + 1 cup,11.6,77.9,13.3,20.6,295.39,550,474.0,,1,1,4.0,0
+South Karnataka,ragi mudde + koli saaru,non veg,l,2 balls + 1 cup,31.400000000000002,51.9,12.4,9.8,304.66,550,441.0,,1,1,5.0,chicken
+South Karnataka,ragi mudde + Menthe soppu huli,veg,l,2 balls + 1 cup,13.0,66.4,4.8,12.1,328.15,550,359.0,,1,1,5.0,0
+South Karnataka,ragi mudde + Huli,veg,l,2 balls + 1 cup,21.8,96.9,12.4,20.4,331.09000000000003,650,581.0,,1,1,5.0,0
+South Karnataka,rice  + coorgi pandi curry,non veg,l,1 cup + 1 cup,23.1,32.5,28.4,2.5,56.13,247,485.0,,1,1,4.0,pork
+South Karnataka,rice  + kodava kuutu curry,veg,l,1 cup + 1 cup,9.3,63.1,12.5,14.700000000000001,92.56,281,402.0,,1,1,5.0,0
+South Karnataka,rice  + koli saaru,non veg,l,1 cup + 1 cup,29.1,37.1,11.6,3.9,101.83,281,369.0,,1,1,5.0,chicken
+South Karnataka,rice  + Menthe soppu huli,veg,l,1 cup + 1 cup,10.7,51.6,4.0,6.2,125.32,281,287.0,,1,1,5.0,0
+South Karnataka,rice  + Gojju,veg,l,1 cup + 1 cup,3.0,51.6,4.5,1.9,50.66,281,259.0,,1,1,2.0,0
+South Karnataka,rice  + Huli,veg,l,1 cup + 1 cup,19.5,82.1,11.6,14.5,128.26,381,509.0,,1,1,5.0,0
+South Karnataka,rice  + Thili Saaru,veg,l,1 cup + 1 cup,4.5,37.6,1.3,2.6,43.04,281,183.0,,1,1,5.0,0
+South Karnataka,rice  + Majjige Huli,veg,l,1 cup + 1 cup,5.9,36.7,9.3,5.300000000000001,131.8,281,256.0,,1,1,5.0,0
+South Karnataka,chapati + coorgi pandi curry,non veg,l,1 medium  + 1 cup,24.240000000000002,22.95,32.08,5.48,46.13,256,481.6,,1,1,5.0,pork
+South Karnataka,chapati + kodava kuutu curry,veg,l,1 medium  + 1 cup,10.44,53.55,16.18,17.68,82.56,290,398.6,,1,1,4.0,0
+South Karnataka,chapati + Balekai palya,veg,l,1 medium  + 1 cup,6.4399999999999995,52.25,15.78,9.280000000000001,28.76,206,364.6,,1,1,5.0,0
+South Karnataka,chapati + Gojju,veg,l,1 medium  + 1 cup,4.140000000000001,42.05,8.18,4.88,40.66,290,255.6,,1,1,4.0,0
+South Karnataka,chapati + Huli,veg,l,1 medium  + 1 cup,20.64,72.55,15.28,17.48,118.26,390,505.6,,1,1,3.0,0
+South Karnataka,chapati + Badanekai Yennegai,veg,l,1 medium  + 1 cup,8.24,32.25,16.28,10.280000000000001,66.88,290,303.6,,1,1,5.0,0
