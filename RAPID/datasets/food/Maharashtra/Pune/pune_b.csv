@@ -1,4 +1,5 @@
-pune Division,Pune's Special Poha,veg,b,1 cup,3.8,40.1,6.0,1.7,18.93,166,228.0,,0,0,0
-pune Division,Thalipeeth (pune Style),veg,b,1 thalipeeth,4.5,21.3,5.7,4.0,33.06,80,151.0,,0,0,0
-pune Division,Pohe Chivda,veg,b,1 cup,3.1,21.9,3.9,0.7,12.58,35,133.0,,0,0,0
-pune Division,Dadpe Pohe,veg,b,1 cup,5.3,40.1,9.0,3.9,21.32,93,262.0,,0,0,0
+Cuisines,Food item,Type,Quantity,Proteins (in g),Carbs (in g),Fats (in g),Fiber (in g),Calcium (in mg),Total (in g),Calories (in Cal),GI,Side,Needside,rating,meat_type
+pune Division,Pune's Special Poha,veg,1 cup,3.8,40.1,6.0,1.7,18.93,166,228.0,,0,0,5,0
+pune Division,Thalipeeth (pune Style),veg,1 thalipeeth,4.5,21.3,5.7,4.0,33.06,80,151.0,,0,0,5,0
+pune Division,Pohe Chivda,veg,1 cup,3.1,21.9,3.9,0.7,12.58,35,133.0,,0,0,5,0
+pune Division,Dadpe Pohe,veg,1 cup,5.3,40.1,9.0,3.9,21.32,93,262.0,,0,0,5,0

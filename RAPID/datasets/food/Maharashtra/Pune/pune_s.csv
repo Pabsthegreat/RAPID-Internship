@@ -1,2 +1,3 @@
-pune Division,Bhakarwadi,veg,s,1 serve,2.3,16.2,7.7,2.7,-,28,143.0,,0,0,0
-pune Division,Kaanda Bhajiya,veg,s,1 pakoda,0.7,2.8,3.0,0.4,2.88,15,41.0,,0,0,0
+Cuisines,Food item,Type,Quantity,Proteins (in g),Carbs (in g),Fats (in g),Fiber (in g),Calcium (in mg),Total (in g),Calories (in Cal),GI,Side,Needside,rating,meat_type
+pune Division,Bhakarwadi,veg,1 serve,2.3,16.2,7.7,2.7,-,28,143.0,,0,0,5,0
+pune Division,Kaanda Bhajiya,veg,1 pakoda,0.7,2.8,3.0,0.4,2.88,15,41.0,,0,0,5,0

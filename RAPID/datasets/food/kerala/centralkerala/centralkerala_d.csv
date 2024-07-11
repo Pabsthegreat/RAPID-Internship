@@ -1,0 +1,4 @@
+Cuisines,Food item,Type,Quantity,Proteins (in g),Carbs (in g),Fats (in g),Fiber (in g),Calcium (in mg),Total (in g),Calories (in Cal),GI,Side,Needside,rating,meat_type
+central kerala,Kozhi Pidi,non veg,1 cup,19.2,27.3,14.3,4.6,39.0,216,318.0,,0,0,5.0,chicken
+central kerala,chapati + yam theeyal,veg,1 medium  + 1 bowl,6.24,46.85,25.78,11.78,66.46,390,441.6,,1,1,5.0,0
+central kerala,chapati + meen peera,non veg,1 medium  + 1 cup,19.94,27.45,21.08,6.88,60.0,206,375.6,,1,1,5.0,seafood

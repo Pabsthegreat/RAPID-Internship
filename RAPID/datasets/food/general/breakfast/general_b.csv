@@ -1,0 +1,116 @@
+Cuisines,Food item,Type,Quantity,Proteins (in g),Carbs (in g),Fats (in g),Fiber (in g),Calcium (in mg),Total (in g),Calories (in Cal),GI,Side,Needside,rating,meat_type
+South Indian,dosa + sambar,veg,1 medium dosa + 1 bowl (2 cups),18.0,82.03,5.0600000000000005,15.48,0,602.78,427.47,,1,1,4.0,0
+South Indian,dosa + coconut chutneys,veg,1 medium dosa + 2 tbsp,5.15,34.12,8.1,2.53,0,133.98000000000002,227.63,,1,1,5.0,0
+South Indian,dosa + onion chutney,veg,1 medium dosa + 2 tbsp,4.25,31.37,6.16,1.21,0,131.38,198.54,,1,1,5.0,0
+South Indian,dosa + tomato chutney,veg,1 medium dosa + 1 tbsp,4.21,36.88,3.85,1.31,0,142.78,201.35,,1,1,5.0,0
+South Indian,dosa + mango chutney,veg,1 medium dosa + 1 tbsp,4.02,37.54,3.82,1.06,0,113.78,201.02,,1,1,5.0,0
+South Indian,dosa + green chutney,veg,1 medium dosa + 1 tablespoon,4.73,30.87,5.13,1.33,0,113.78,188.34,,1,1,5.0,0
+South Indian,dosa + garlic chutney,veg,1 medium dosa + 1 cup,5.14,33.96,23.0,1.97,0,252.63,359.99,,1,1,5.0,0
+South Indian,dosa + tamarind chutney,veg,1 medium dosa + 1 tbsp,3.98,34.07,3.75,1.11,0,114.63,186.44,,1,1,5.0,0
+South Indian,dosa + dahi,veg,1 medium dosa + 5.3 oz container,17.38,35.17,11.22,0.86,0,246.78,313.17,,1,1,3.0,0
+South Indian,ragi dosa + sambar,veg,1 medium dosa + 1 bowl (2 cups),16.07,67.41,9.11,15.36,0,586.0,394.59,,1,1,3.0,0
+South Indian,ragi dosa + coconut chutneys,veg,1 medium dosa + 2 tbsp,3.22,19.5,12.15,2.41,0,117.2,194.75,,1,1,5.0,0
+South Indian,ragi dosa + onion chutney,veg,1 medium dosa + 2 tbsp,2.32,16.75,10.21,1.09,0,114.6,165.66,,1,1,5.0,0
+South Indian,ragi dosa + tomato chutney,veg,1 medium dosa + 1 tbsp,2.28,22.26,7.899999999999999,1.19,0,126.0,168.47,,1,1,5.0,0
+South Indian,ragi dosa + mango chutney,veg,1 medium dosa + 1 tbsp,2.09,22.92,7.869999999999999,0.94,0,97.0,168.14,,1,1,5.0,0
+South Indian,ragi dosa + green chutney,veg,1 medium dosa + 1 tablespoon,2.8,16.25,9.18,1.21,0,97.0,155.45999999999998,,1,1,5.0,0
+South Indian,ragi dosa + garlic chutney,veg,1 medium dosa + 1 cup,3.21,19.34,27.05,1.85,0,235.85,327.11,,1,1,5.0,0
+South Indian,ragi dosa + tamarind chutney,veg,1 medium dosa + 1 tbsp,2.05,19.45,7.8,0.99,0,97.85,153.56,,1,1,4.0,0
+South Indian,ragi dosa + dahi,veg,1 medium dosa + 5.3 oz container,15.45,20.55,15.27,0.74,0,230.0,280.29,,1,1,4.0,0
+South Indian,onion dosa + sambar,veg,1 medium dosa + 1 bowl (2 cups),18.74,87.33,5.24,16.45,0,656.44,450.76,,1,1,2.0,0
+South Indian,onion dosa + coconut chutneys,veg,1 medium dosa + 2 tbsp,5.890000000000001,39.42,8.28,3.5,0,187.64,250.92,,1,1,5.0,0
+South Indian,onion dosa + onion chutney,veg,1 medium dosa + 2 tbsp,4.99,36.67,6.34,2.18,0,185.04,221.83,,1,1,5.0,0
+South Indian,onion dosa + tomato chutney,veg,1 medium dosa + 1 tbsp,4.95,42.18,4.03,2.28,0,196.44,224.64,,1,1,5.0,0
+South Indian,onion dosa + mango chutney,veg,1 medium dosa + 1 tbsp,4.76,42.84,4.0,2.03,0,167.44,224.31,,1,1,5.0,0
+South Indian,onion dosa + green chutney,veg,1 medium dosa + 1 tablespoon,5.47,36.17,5.31,2.3,0,167.44,211.63,,1,1,5.0,0
+South Indian,onion dosa + garlic chutney,veg,1 medium dosa + 1 cup,5.88,39.26,23.18,2.9400000000000004,0,306.29,383.28,,1,1,5.0,0
+South Indian,onion dosa + tamarind chutney,veg,1 medium dosa + 1 tbsp,4.72,39.37,3.93,2.08,0,168.29,209.73,,1,1,5.0,0
+South Indian,onion dosa + dahi,veg,1 medium dosa + 5.3 oz container,18.12,40.47,11.4,1.83,0,300.44,336.46000000000004,,1,1,2.0,0
+South Indian,wheat dosa + sambar,veg,1 medium dosa + 1 bowl (2 cups),18.0,82.03,5.0600000000000005,15.48,0,602.78,427.47,,1,1,1.0,0
+South Indian,wheat dosa + coconut chutneys,veg,1 medium dosa + 2 tbsp,5.15,34.12,8.1,2.53,0,133.98000000000002,227.63,,1,1,5.0,0
+South Indian,wheat dosa + onion chutney,veg,1 medium dosa + 2 tbsp,4.25,31.37,6.16,1.21,0,131.38,198.54,,1,1,5.0,0
+South Indian,wheat dosa + tomato chutney,veg,1 medium dosa + 1 tbsp,4.21,36.88,3.85,1.31,0,142.78,201.35,,1,1,5.0,0
+South Indian,wheat dosa + mango chutney,veg,1 medium dosa + 1 tbsp,4.02,37.54,3.82,1.06,0,113.78,201.02,,1,1,5.0,0
+South Indian,wheat dosa + green chutney,veg,1 medium dosa + 1 tablespoon,4.73,30.87,5.13,1.33,0,113.78,188.34,,1,1,5.0,0
+South Indian,wheat dosa + garlic chutney,veg,1 medium dosa + 1 cup,5.14,33.96,23.0,1.97,0,252.63,359.99,,1,1,5.0,0
+South Indian,wheat dosa + tamarind chutney,veg,1 medium dosa + 1 tbsp,3.98,34.07,3.75,1.11,0,114.63,186.44,,1,1,5.0,0
+South Indian,wheat dosa + dahi,veg,1 medium dosa + 5.3 oz container,17.38,35.17,11.22,0.86,0,246.78,313.17,,1,1,2.0,0
+South Indian,mutta dosa + coconut chutneys,veg,1 dosa + 2 tbsp,10.28,25.6,13.95,3.18,0,269.46,265.11,,1,1,5.0,0
+South Indian,mutta dosa + onion chutney,veg,1 dosa + 2 tbsp,9.38,22.85,12.01,1.86,0,266.86,236.02,,1,1,5.0,0
+South Indian,mutta dosa + tomato chutney,veg,1 dosa + 1 tbsp,9.34,28.36,9.7,1.96,0,278.26,238.83,,1,1,5.0,0
+South Indian,mutta dosa + garlic chutney,veg,1 dosa + 1 cup,10.27,25.44,28.85,2.62,0,388.11,397.47,,1,1,5.0,0
+South Indian,carrot dosa + sambar,veg,1 Serving + 1 bowl (2 cups),18.67,89.19,15.77,17.91,0,836.6800000000001,551.3299999999999,,1,1,2.0,0
+South Indian,carrot dosa + coconut chutneys,veg,1 Serving + 2 tbsp,5.82,41.28,18.81,4.96,0,367.88,351.48999999999995,,1,1,5.0,0
+South Indian,carrot dosa + onion chutney,veg,1 Serving + 2 tbsp,4.92,38.53,16.87,3.64,0,365.28,322.4,,1,1,5.0,0
+South Indian,carrot dosa + tomato chutney,veg,1 Serving + 1 tbsp,4.88,44.04,14.56,3.74,0,376.68,325.21,,1,1,5.0,0
+South Indian,carrot dosa + mango chutney,veg,1 Serving + 1 tbsp,4.69,44.7,14.53,3.49,0,347.68,324.88,,1,1,5.0,0
+South Indian,carrot dosa + green chutney,veg,1 Serving + 1 tablespoon,5.4,38.03,15.84,3.76,0,347.68,312.2,,1,1,5.0,0
+South Indian,carrot dosa + garlic chutney,veg,1 Serving + 1 cup,5.81,41.12,33.71,4.4,0,486.53,483.85,,1,1,5.0,0
+South Indian,carrot dosa + tamarind chutney,veg,1 Serving + 1 tbsp,4.65,41.23,14.46,3.54,0,348.53000000000003,310.29999999999995,,1,1,4.0,0
+South Indian,carrot dosa + dahi,veg,1 Serving + 5.3 oz container,18.05,42.33,21.93,3.29,0,480.68,437.03,,1,1,4.0,0
+South Indian,butter dosa + sambar,veg,1 medium dosa + 1 bowl (2 cups),18.13,82.03999999999999,13.11,15.48,0,613.5,498.68,,1,1,4.0,0
+South Indian,butter dosa + coconut chutneys,veg,1 medium dosa + 2 tbsp,5.279999999999999,34.13,16.15,2.53,0,144.7,298.84,,1,1,5.0,0
+South Indian,butter dosa + onion chutney,veg,1 medium dosa + 2 tbsp,4.38,31.380000000000003,14.21,1.21,0,142.1,269.75,,1,1,5.0,0
+South Indian,butter dosa + tomato chutney,veg,1 medium dosa + 1 tbsp,4.34,36.89,11.9,1.31,0,153.5,272.56,,1,1,5.0,0
+South Indian,butter dosa + mango chutney,veg,1 medium dosa + 1 tbsp,4.15,37.55,11.87,1.06,0,124.5,272.23,,1,1,5.0,0
+South Indian,butter dosa + green chutney,veg,1 medium dosa + 1 tablespoon,4.859999999999999,30.880000000000003,13.18,1.33,0,124.5,259.55,,1,1,5.0,0
+South Indian,butter dosa + garlic chutney,veg,1 medium dosa + 1 cup,5.27,33.97,31.05,1.97,0,263.35,431.2,,1,1,5.0,0
+South Indian,butter dosa + tamarind chutney,veg,1 medium dosa + 1 tbsp,4.109999999999999,34.08,11.8,1.11,0,125.35,257.65,,1,1,4.0,0
+South Indian,butter dosa + dahi,veg,1 medium dosa + 5.3 oz container,17.509999999999998,35.18,19.27,0.86,0,257.5,384.38,,1,1,2.0,0
+South Indian,carrot and ginger dosa + sambar,veg,1 Serving + 1 bowl (2 cups),18.67,89.19,15.77,17.91,0,836.6800000000001,551.3299999999999,,1,1,2.0,0
+South Indian,carrot and ginger dosa + coconut chutneys,veg,1 Serving + 2 tbsp,5.82,41.28,18.81,4.96,0,367.88,351.48999999999995,,1,1,5.0,0
+South Indian,carrot and ginger dosa + onion chutney,veg,1 Serving + 2 tbsp,4.92,38.53,16.87,3.64,0,365.28,322.4,,1,1,5.0,0
+South Indian,carrot and ginger dosa + tomato chutney,veg,1 Serving + 1 tbsp,4.88,44.04,14.56,3.74,0,376.68,325.21,,1,1,5.0,0
+South Indian,carrot and ginger dosa + mango chutney,veg,1 Serving + 1 tbsp,4.69,44.7,14.53,3.49,0,347.68,324.88,,1,1,5.0,0
+South Indian,carrot and ginger dosa + green chutney,veg,1 Serving + 1 tablespoon,5.4,38.03,15.84,3.76,0,347.68,312.2,,1,1,5.0,0
+South Indian,carrot and ginger dosa + garlic chutney,veg,1 Serving + 1 cup,5.81,41.12,33.71,4.4,0,486.53,483.85,,1,1,5.0,0
+South Indian,carrot and ginger dosa + tamarind chutney,veg,1 Serving + 1 tbsp,4.65,41.23,14.46,3.54,0,348.53000000000003,310.29999999999995,,1,1,4.0,0
+South Indian,carrot and ginger dosa + dahi,veg,1 Serving + 5.3 oz container,18.05,42.33,21.93,3.29,0,480.68,437.03,,1,1,3.0,0
+South Indian,idli + sambar,veg,1 idli + 1 bowl (2 cups),15.77,64.45,1.78,15.16,0,544.5,317.81,,1,1,5.0,0
+South Indian,idli + coconut chutneys,veg,1 idli + 2 tbsp,2.92,16.54,4.82,2.21,0,75.7,117.97,,1,1,5.0,0
+South Indian,idli + green chutney,veg,1 idli + 1 tablespoon,2.5,13.29,1.85,1.01,0,55.5,78.68,,1,1,5.0,0
+South Indian,idli + dahi,veg,1 idli + 5.3 oz container,15.15,17.59,7.94,0.54,0,188.5,203.51,,1,1,3.0,0
+South Indian,idli vada + sambar,veg,1 idli + 1 bowl (2 cups),15.77,64.45,1.78,15.16,0,544.5,317.81,,1,1,5.0,0
+South Indian,idli vada + coconut chutneys,veg,1 idli + 2 tbsp,2.92,16.54,4.82,2.21,0,75.7,117.97,,1,1,5.0,0
+South Indian,idli vada + green chutney,veg,1 idli + 1 tablespoon,2.5,13.29,1.85,1.01,0,55.5,78.68,,1,1,5.0,0
+South Indian,appam + sambar,veg,1 piece + 1 bowl (2 cups),15.59,69.50999999999999,3.73,15.23,0,551.94,354.09000000000003,,1,1,4.0,0
+South Indian,appam + coconut chutneys,veg,1 piece + 2 tbsp,2.74,21.6,6.77,2.28,0,83.14,154.25,,1,1,5.0,0
+South Indian,appam + onion chutney,veg,1 piece + 2 tbsp,1.84,18.85,4.83,0.96,0,80.53999999999999,125.16,,1,1,5.0,0
+South Indian,appam + tomato chutney,veg,1 piece + 1 tbsp,1.8,24.36,2.52,1.06,0,91.94,127.97,,1,1,5.0,0
+South Indian,appam + mango chutney,veg,1 piece + 1 tbsp,1.61,25.02,2.49,0.81,0,62.94,127.64,,1,1,5.0,0
+South Indian,appam + green chutney,veg,1 piece + 1 tablespoon,2.32,18.35,3.8,1.08,0,62.94,114.96,,1,1,5.0,0
+South Indian,appam + garlic chutney,veg,1 piece + 1 cup,2.73,21.44,21.67,1.7200000000000002,0,201.79,286.61,,1,1,5.0,0
+South Indian,appam + tamarind chutney,veg,1 piece + 1 tbsp,1.57,21.55,2.42,0.86,0,63.79,113.06,,1,1,5.0,0
+North Indian,dal paratha + dahi,veg,1 Paratha + 5.3 oz container,17.66,26.65,12.97,1.91,0,214.02,293.93,,1,1,5.0,0
+North Indian,roti paratha + rajma,veg,1 piece + 1 cup,20.37,76.19,11.32,18.91,0,256.0,482.33,,1,1,5.0,0
+North Indian,palak paratha + chole,veg,1 Piece + 1 cup,11.79,51.46,22.48,9.39,0,278.56,441.16,,1,1,5.0,0
+North Indian,palak paratha + channa masala,veg,1 Piece + 1 cup,11.79,51.46,22.48,9.39,0,278.56,441.16,,1,1,5.0,0
+North Indian,palak paratha + rajma,veg,1 Piece + 1 cup,19.47,63.19,6.92,13.12,0,260.48,385.02,,1,1,5.0,0
+North Indian,palak paratha + dahi,veg,1 Piece + 5.3 oz container,17.62,28.8,13.53,1.79,0,233.48,305.73,,1,1,5.0,0
+North Indian,onion paratha + chole,veg,1 piece + 1 cup,13.34,68.57,27.15,16.07,0,310.84000000000003,557.48,,1,1,5.0,0
+North Indian,onion paratha + channa masala,veg,1 piece + 1 cup,13.34,68.57,27.15,16.07,0,310.84000000000003,557.48,,1,1,5.0,0
+North Indian,onion paratha + rajma,veg,1 piece + 1 cup,21.02,80.3,11.59,19.8,0,292.76,501.34,,1,1,5.0,0
+North Indian,onion paratha + dahi,veg,1 piece + 5.3 oz container,19.17,45.91,18.2,8.47,0,265.76,422.05,,1,1,5.0,0
+North Indian,paneer paratha + chole,veg,1 piece + 1 cup,15.37,49.25,24.23,10.63,0,272.83000000000004,457.04,,1,1,5.0,0
+North Indian,paneer paratha + channa masala,veg,1 piece + 1 cup,15.37,49.25,24.23,10.63,0,272.83000000000004,457.04,,1,1,5.0,0
+North Indian,paneer paratha + rajma,veg,1 piece + 1 cup,23.05,60.98,8.67,14.36,0,254.75,400.9,,1,1,5.0,0
+North Indian,paneer paratha + dahi,veg,1 piece + 5.3 oz container,21.2,26.59,15.28,3.03,0,227.75,321.61,,1,1,5.0,0
+North Indian,chana dal paratha + rajma,veg,1 Paratha + 1 cup,19.51,61.04,6.359999999999999,13.24,0,241.02,373.22,,1,1,5.0,0
+North Indian,chana dal paratha + dahi,veg,1 Paratha + 5.3 oz container,17.66,26.65,12.97,1.91,0,214.02,293.93,,1,1,5.0,0
+North Indian,dal paratha + chole,veg,1 Paratha + 1 cup,11.83,49.31,21.92,9.51,0,259.1,429.36,,1,1,5.0,0
+North Indian,dal paratha + channa masala,veg,1 Paratha + 1 cup,11.83,49.31,21.92,9.51,0,259.1,429.36,,1,1,5.0,0
+North Indian,dal paratha + rajma,veg,1 Paratha + 1 cup,19.51,61.04,6.359999999999999,13.24,0,241.02,373.22,,1,1,5.0,0
+North Indian,dal paratha + dahi,veg,1 Paratha + 5.3 oz container,17.66,26.65,12.97,1.91,0,214.02,293.93,,1,1,5.0,0
+North Indian,chana dal paratha + chole,veg,1 Paratha + 1 cup,11.83,49.31,21.92,9.51,0,259.1,429.36,,1,1,5.0,0
+North Indian,chana dal paratha + channa masala,veg,1 Paratha + 1 cup,11.83,49.31,21.92,9.51,0,259.1,429.36,,1,1,5.0,0
+North Indian,chana dal paratha + rajma,veg,1 Paratha + 1 cup,19.51,61.04,6.359999999999999,13.24,0,241.02,373.22,,1,1,5.0,0
+North Indian,chana dal paratha + dahi,veg,1 Paratha + 5.3 oz container,17.66,26.65,12.97,1.91,0,214.02,293.93,,1,1,5.0,0
+South Indian,poha upma,veg,1 cup,4.03,35.41,6.92,1.91,0,163.4,219.18,,0,0,5.0,0
+South Indian,vegetable upma,veg,1 cup,3.45,21.12,3.96,1.98,0,155.06,132.38,,0,0,5.0,0
+South Indian,vegetable poha upma,veg,1 cup,4.03,35.41,6.92,1.91,0,163.4,219.18,,0,0,5.0,0
+South Indian,pongal,veg,1 cup,7.32,53.98,8.07,3.79,0,207.0,318.62,,0,0,5.0,0
+North Indian,plain poha,veg,1 cup,2.86,34.83,0.23,0.0,0,138.72,157.52,,0,0,5.0,0
+North Indian,channa bhature,veg,1 bhatura with chole,13.24,58.91,26.96,11.07,0,281.08,510.88,,0,0,5.0,0
+North Indian,chole puri,veg,1 serving,15.11,54.05,14.28,13.33,0,226.02,392.59,,0,0,5.0,0
+North Indian,chana poori,veg,1 serving,15.11,54.05,14.28,13.33,0,226.02,392.59,,0,0,5.0,0
+North Indian,dhokla,veg,1 piece,5.7,15.88,7.36,2.54,0,57.86,151.72,,0,0,5.0,0

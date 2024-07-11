@@ -1,0 +1,5 @@
+Cuisines,Food item,Type,Quantity,Proteins (in g),Carbs (in g),Fats (in g),Fiber (in g),Calcium (in mg),Total (in g),Calories (in Cal),GI,Side,Needside,rating,meat_type
+north kerala,pathiri + Fish Mango Curry,non veg,1 piece + 1 cup,28.7,24.6,8.8,1.2,72.73,280,291.0,,1,1,5.0,seafood
+north kerala,pathiri + Kadukka (Mussels) Fry,non veg,1 piece + 1 cup,19.7,12.4,12.2,0.8,776.73,196,240.0,,1,1,5.0,seafood
+north kerala,malabar parotta + Fish Mango Curry,non veg,1 piece + 1 cup,32.9,50.1,22.9,2.0,105.21,330,537.0,,1,1,5.0,seafood
+north kerala,malabar parotta + Kadukka (Mussels) Fry,non veg,1 piece + 1 cup,23.9,37.9,26.3,1.6,809.21,246,486.0,,1,1,5.0,seafood

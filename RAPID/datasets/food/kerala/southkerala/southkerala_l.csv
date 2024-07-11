@@ -1,0 +1,11 @@
+Cuisines,Food item,Type,Quantity,Proteins (in g),Carbs (in g),Fats (in g),Fiber (in g),Calcium (in mg),Total (in g),Calories (in Cal),GI,Side,Needside,rating,meat_type
+south kerala,rice  + cocunut stew,veg,1 cup + 1 cup,9.3,53.4,16.7,7.800000000000001,71.92,281,392.0,,1,1,5.0,0
+south kerala,rice  + Nadan Kozhi Curry,non veg,1 cup + 1 cup,27.0,38.0,16.6,3.3,39.38,281,414.0,,1,1,5.0,chicken
+south kerala,rice  + Fish Moilee,non veg,1 cup + 1 bowl,31.8,44.2,3.7,5.6000000000000005,78.92,381,572.0,,1,1,5.0,seafood
+south kerala,rice  + avial,veg,1 cup + 1 cup,5.2,48.0,10.9,7.4,90.0,281,313.0,,1,1,5.0,0
+south kerala,chapati + Karimeen Pollichathu,non veg,1 medium  + 1 piece,13.44,21.65,17.48,4.48,18.52,120,298.6,,1,1,5.0,seafood
+south kerala,chapati + cocunut stew,veg,1 medium  + 1 cup,10.44,43.85,20.38,10.78,61.92,290,388.6,,1,1,5.0,0
+south kerala,chapati + Nadan Kozhi Curry,non veg,1 medium  + 1 cup,28.14,28.45,20.28,6.279999999999999,29.38,290,410.6,,1,1,5.0,chicken
+south kerala,chapati + Fish Moilee,non veg,1 medium  + 1 bowl,32.94,34.65,7.380000000000001,8.58,68.92,390,568.6,,1,1,5.0,seafood
+south kerala,chapati + Kanava Thoran,non veg,1 medium  + 1 cup,22.14,31.05,15.28,6.88,72.14,206,352.6,,1,1,5.0,seafood
+south kerala,chapati + avial,veg,1 medium  + 1 cup,6.34,38.45,14.58,10.38,80.0,290,309.6,,1,1,5.0,0

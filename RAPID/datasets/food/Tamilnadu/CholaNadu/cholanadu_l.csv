@@ -1,10 +1,11 @@
-chola nadu,Seeraga Samba Rice Biriyani,non veg,l,1 cup,4.0,35.0,7.1,2.8,32.0,206.0,223.0,,0,0,chicken
-chola nadu,rice  + Vathal Kuzhambu,veg,l,1 cup + 1 bowl,5.7,65.0,1.7,7.4,165.0,381.0,293.0,,1,1,5.0,0
-chola nadu,rice  + Pudukkottai Fish Curry,non veg,l,1 cup + 1 cup,30.6,42.0,8.7,5.1000000000000005,552.0,281.0,369.0,,1,1,5.0,seafood
-chola nadu,rice  + Karuvadu Kuzhambu,non veg,l,1 cup + 1 cup,13.3,45.0,17.4,6.9,126.0,281.0,388.0,,1,1,5.0,seafood
-chola nadu,rice  + Mayiladuthurai Mutton Soup,non veg,l,1 cup + 1 bowl,14.1,35.3,9.7,3.8,138.0,381.0,288.0,,1,1,5.0,mutton
-chola nadu,chapati + Vathal Kuzhambu,veg,l,1 medium  + 1 bowl,6.84,55.45,5.38,10.379999999999999,155.0,390.0,289.6,,1,1,5.0,0
-chola nadu,chapati + Pudukkottai Fish Curry,non veg,l,1 medium  + 1 cup,31.740000000000002,32.45,12.379999999999999,8.08,542.0,290.0,365.6,,1,1,5.0,seafood
-chola nadu,chapati + Karuvadu Kuzhambu,non veg,l,1 medium  + 1 cup,14.440000000000001,35.45,21.08,9.879999999999999,116.0,290.0,384.6,,1,1,5.0,seafood
-chola nadu,chapati + Karaikudi Meen Varuval,non veg,l,1 medium  + 1 piece,17.64,20.45,8.88,4.28,7.82,120.0,230.6,,1,1,5.0,seafood
-chola nadu,chapati + Mayiladuthurai Mutton Soup,non veg,l,1 medium  + 1 bowl,15.24,25.75,13.379999999999999,6.779999999999999,128.0,390.0,284.6,,1,1,5.0,mutton
+Cuisines,Food item,Type,Quantity,Proteins (in g),Carbs (in g),Fats (in g),Fiber (in g),Calcium (in mg),Total (in g),Calories (in Cal),GI,Side,Needside,rating,meat_type
+chola nadu,Seeraga Samba Rice Biriyani,non veg,1 cup,4.0,35.0,7.1,2.8,32.0,206.0,223.0,,0,0,5.0,chicken
+chola nadu,rice  + Vathal Kuzhambu,veg,1 cup + 1 bowl,5.7,65.0,1.7,7.4,165.0,381.0,293.0,,1,1,5.0,0
+chola nadu,rice  + Pudukkottai Fish Curry,non veg,1 cup + 1 cup,30.6,42.0,8.7,5.1000000000000005,552.0,281.0,369.0,,1,1,5.0,seafood
+chola nadu,rice  + Karuvadu Kuzhambu,non veg,1 cup + 1 cup,13.3,45.0,17.4,6.9,126.0,281.0,388.0,,1,1,5.0,seafood
+chola nadu,rice  + Mayiladuthurai Mutton Soup,non veg,1 cup + 1 bowl,14.1,35.3,9.7,3.8,138.0,381.0,288.0,,1,1,5.0,mutton
+chola nadu,chapati + Vathal Kuzhambu,veg,1 medium  + 1 bowl,6.84,55.45,5.38,10.38,155.0,390.0,289.6,,1,1,5.0,0
+chola nadu,chapati + Pudukkottai Fish Curry,non veg,1 medium  + 1 cup,31.74,32.45,12.38,8.08,542.0,290.0,365.6,,1,1,5.0,seafood
+chola nadu,chapati + Karuvadu Kuzhambu,non veg,1 medium  + 1 cup,14.44,35.45,21.08,9.88,116.0,290.0,384.6,,1,1,5.0,seafood
+chola nadu,chapati + Karaikudi Meen Varuval,non veg,1 medium  + 1 piece,17.64,20.45,8.88,4.28,7.82,120.0,230.6,,1,1,5.0,seafood
+chola nadu,chapati + Mayiladuthurai Mutton Soup,non veg,1 medium  + 1 bowl,15.24,25.75,13.38,6.779999999999999,128.0,390.0,284.6,,1,1,5.0,mutton

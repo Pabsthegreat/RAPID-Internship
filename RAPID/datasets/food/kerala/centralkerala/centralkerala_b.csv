@@ -1,0 +1,5 @@
+Cuisines,Food item,Type,Quantity,Proteins (in g),Carbs (in g),Fats (in g),Fiber (in g),Calcium (in mg),Total (in g),Calories (in Cal),GI,Side,Needside,rating,meat_type
+central kerala,Kozhi Pidi,non veg,1 cup,19.2,27.3,14.3,4.6,39.0,216,318.0,,0,0,5.0,chicken
+central kerala,palappam + koottu curry,veg,1 piece + 1 cup,9.2,49.5,21.5,16.6,86.34,300,425.0,,1,1,5.0,0
+central kerala,palappam + olan,veg,1 piece + 1 cup,8.9,31.0,20.5,6.0,42.53,300,341.0,,1,1,5.0,0
+central kerala,palappam + meen peera,non veg,1 piece + 1 cup,18.7,23.4,26.4,5.8,63.78,216,402.0,,1,1,5.0,seafood

@@ -1,4 +1,5 @@
-pandya naadu,chapati + Chettinad Pepper Chicken,non veg,d,1 medium  + 1 bowl,45.74,27.25,19.68,8.879999999999999,90.0,331,466.6,,1,1,5.0,chicken
-pandya naadu,chapati + Nagercoil Mutton Kuzhambu,non veg,d,1 medium  + 1 cup,6.84,34.95,23.68,11.280000000000001,61.0,290,374.6,,1,1,5.0,mutton
-pandya naadu,chapati + Meen Kuzhambu,non veg,d,1 medium  + 1 cup,25.94,29.45,26.68,7.48,51.11,290,399.6,,1,1,5.0,seafood
-pandya naadu,chapati + Madurai Mutton Balls,non veg,d,1 medium  + 1 piece,7.140000000000001,18.95,12.68,3.98,2.39,70,219.6,,1,1,5.0,mutton
+Cuisines,Food item,Type,Quantity,Proteins (in g),Carbs (in g),Fats (in g),Fiber (in g),Calcium (in mg),Total (in g),Calories (in Cal),GI,Side,Needside,rating,meat_type
+pandya naadu,chapati + Chettinad Pepper Chicken,non veg,1 medium  + 1 bowl,45.74,27.25,19.68,8.879999999999999,90.0,331,466.6,,1,1,5.0,chicken
+pandya naadu,chapati + Nagercoil Mutton Kuzhambu,non veg,1 medium  + 1 cup,6.84,34.95,23.68,11.28,61.0,290,374.6,,1,1,5.0,mutton
+pandya naadu,chapati + Meen Kuzhambu,non veg,1 medium  + 1 cup,25.94,29.45,26.68,7.48,51.11,290,399.6,,1,1,5.0,seafood
+pandya naadu,chapati + Madurai Mutton Balls,non veg,1 medium  + 1 piece,7.140000000000001,18.95,12.68,3.98,2.39,70,219.6,,1,1,5.0,mutton

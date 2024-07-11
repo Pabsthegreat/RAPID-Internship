@@ -1,8 +1,9 @@
-kongu naadu,chapati + Kongunadu Chicken Curry,non veg,d,1 medium  + 1 cup,30.94,38.25,17.080000000000002,9.379999999999999,58.0,290.0,432.6,,1,1,5.0,chicken
-kongu naadu,chapati + Pallipalayam Chicken,non veg,d,1 medium  + 1 cup,23.64,28.25,25.88,7.48,38.57,290.0,435.6,,1,1,5.0,chicken
-kongu naadu,chapati + Kongunadu Mutton Kuzhambu,non veg,d,1 medium  + 1 cup,23.44,31.65,24.18,8.780000000000001,236.0,290.0,433.6,,1,1,5.0,mutton
-kongu naadu,chapati + Murungai Keerai Poriyal,veg,d,1 medium  + 1 cup,4.54,21.05,4.08,5.779999999999999,65.0,61.0,138.6,,1,1,5.0,0
-kongu naadu,chapati + Thengai Paal Kozhi,non veg,d,1 medium  + 1 cup,27.64,30.15,24.38,7.58,42.5,290.0,443.6,,1,1,5.0,chicken
-kongu naadu,chapati + Avarakkai Poriyal,veg,d,1 medium  + 1 cup,9.540000000000001,29.85,15.18,14.98,92.0,206.0,294.6,,1,1,5.0,0
-kongu naadu,chapati + Kongunadu Urundai Kuzhambu,veg,d,1 medium  + 1 cup,10.94,43.95,15.18,9.58,69.0,290.0,353.6,,1,1,5.0,0
-kongu naadu,chapati + Nethili Fry,non veg,d,1 medium  + 1 cup,29.84,27.65,35.18,5.779999999999999,72.0,206.0,543.6,,1,1,5.0,seafood
+Cuisines,Food item,Type,Quantity,Proteins (in g),Carbs (in g),Fats (in g),Fiber (in g),Calcium (in mg),Total (in g),Calories (in Cal),GI,Side,Needside,rating,meat_type
+kongu naadu,chapati + Kongunadu Chicken Curry,non veg,1 medium  + 1 cup,30.94,38.25,17.080000000000002,9.38,58.0,290.0,432.6,,1,1,5.0,chicken
+kongu naadu,chapati + Pallipalayam Chicken,non veg,1 medium  + 1 cup,23.64,28.25,25.88,7.48,38.57,290.0,435.6,,1,1,5.0,chicken
+kongu naadu,chapati + Kongunadu Mutton Kuzhambu,non veg,1 medium  + 1 cup,23.44,31.65,24.18,8.780000000000001,236.0,290.0,433.6,,1,1,5.0,mutton
+kongu naadu,chapati + Murungai Keerai Poriyal,veg,1 medium  + 1 cup,4.54,21.05,4.08,5.779999999999999,65.0,61.0,138.6,,1,1,5.0,0
+kongu naadu,chapati + Thengai Paal Kozhi,non veg,1 medium  + 1 cup,27.64,30.15,24.38,7.58,42.5,290.0,443.6,,1,1,5.0,chicken
+kongu naadu,chapati + Avarakkai Poriyal,veg,1 medium  + 1 cup,9.54,29.85,15.18,14.98,92.0,206.0,294.6,,1,1,5.0,0
+kongu naadu,chapati + Kongunadu Urundai Kuzhambu,veg,1 medium  + 1 cup,10.94,43.95,15.18,9.58,69.0,290.0,353.6,,1,1,5.0,0
+kongu naadu,chapati + Nethili Fry,non veg,1 medium  + 1 cup,29.84,27.65,35.18,5.779999999999999,72.0,206.0,543.6,,1,1,5.0,seafood

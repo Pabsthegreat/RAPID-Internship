@@ -1,4 +1,5 @@
-telengana,chapati + haleem,non veg,d,1 medium  + 1 bowl,30.14,37.65,34.38,7.38,,303,498,,1,1,5.0,mutton
-telengana,chapati + Bagara Baingan,veg,d,1 medium  + 1 cup,9.14,33.95,26.38,11.18,,250,323,,1,1,5.0,0
-telengana,chapati + Talakaya Kura,non veg,d,1 medium  + 1 cup,25.54,28.45,21.68,7.88,,250,332,,1,1,5.0,mutton
-telengana,chapati + Palakura Pappu,veg,d,1 medium  + 1 cup,13.440000000000001,44.05,9.68,8.48,,250,237,,1,1,5.0,0
+Cuisines,Food item,Type,Quantity,Proteins (in g),Carbs (in g),Fats (in g),Fiber (in g),Calcium (in mg),Total (in g),Calories (in Cal),GI,Side,Needside,rating,meat_type
+telengana,chapati + haleem,non veg,1 medium  + 1 bowl,30.14,37.65,34.38,7.38,,303,498,,1,1,5.0,mutton
+telengana,chapati + Bagara Baingan,veg,1 medium  + 1 cup,9.14,33.95,26.38,11.18,,250,323,,1,1,5.0,0
+telengana,chapati + Talakaya Kura,non veg,1 medium  + 1 cup,25.54,28.45,21.68,7.88,,250,332,,1,1,5.0,mutton
+telengana,chapati + Palakura Pappu,veg,1 medium  + 1 cup,13.44,44.05,9.68,8.48,,250,237,,1,1,5.0,0

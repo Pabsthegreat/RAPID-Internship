@@ -1,5 +1,5 @@
-Cuisines,Food item,Type,MealTimings,Quantity,Protiens (in g),Carbs (in g),Fats (in g),Fiber (in g),Calcium (in mg),Total (in g),Calories (in Cal),GI,Side,Needside,meat_type
-South Karnataka,chapati + coorgi pandi curry,non veg,d,1 medium  + 1 cup,24.240000000000002,22.95,32.08,5.48,46.13,256,481.6,,1,1,5.0,pork
-South Karnataka,chapati + Balekai palya,veg,d,1 medium  + 1 cup,6.4399999999999995,52.25,15.78,9.280000000000001,28.76,206,364.6,,1,1,5.0,0
-South Karnataka,chapati + Gojju,veg,d,1 medium  + 1 cup,4.140000000000001,42.05,8.18,4.88,40.66,290,255.6,,1,1,4.0,0
-South Karnataka,chapati + Badanekai Yennegai,veg,d,1 medium  + 1 cup,8.24,32.25,16.28,10.280000000000001,66.88,290,303.6,,1,1,5.0,0
+Cuisines,Food item,Type,Quantity,Proteins (in g),Carbs (in g),Fats (in g),Fiber (in g),Calcium (in mg),Total (in g),Calories (in Cal),GI,Side,Needside,rating,meat_type
+South Karnataka,chapati + coorgi pandi curry,non veg,1 medium  + 1 cup,24.24,22.95,32.08,5.48,46.13,256,481.6,,1,1,5.0,pork
+South Karnataka,chapati + Balekai palya,veg,1 medium  + 1 cup,6.44,52.25,15.78,9.28,28.76,206,364.6,,1,1,5.0,0
+South Karnataka,chapati + Gojju,veg,1 medium  + 1 cup,4.140000000000001,42.05,8.18,4.88,40.66,290,255.6,,1,1,4.0,0
+South Karnataka,chapati + Badanekai Yennegai,veg,1 medium  + 1 cup,8.24,32.25,16.28,10.28,66.88,290,303.6,,1,1,5.0,0

@@ -1,3 +1,4 @@
-thondai nadu,chapati + Chettinad Pepper Chicken,non veg,d,1 medium  + 1 bowl,45.74,27.25,19.68,8.879999999999999,90.0,331,466.6,,1,1,5.0,chicken
-thondai nadu,chapati + madras chicken curry,non veg,d,1 medium  + 1 bowl,43.14,28.25,14.18,6.08,70.0,390,402.6,,1,1,5.0,0
-thondai nadu,chapati + Pallipalayam Chicken,non veg,d,1 medium  + 1 cup,23.64,28.25,25.88,7.48,28.57,290,435.6,,1,1,5.0,chicken
+Cuisines,Food item,Type,Quantity,Proteins (in g),Carbs (in g),Fats (in g),Fiber (in g),Calcium (in mg),Total (in g),Calories (in Cal),GI,Side,Needside,rating,meat_type
+thondai nadu,chapati + Chettinad Pepper Chicken,non veg,1 medium  + 1 bowl,45.74,27.25,19.68,8.879999999999999,90.0,331,466.6,,1,1,5.0,chicken
+thondai nadu,chapati + madras chicken curry,non veg,1 medium  + 1 bowl,43.14,28.25,14.18,6.08,70.0,390,402.6,,1,1,5.0,0
+thondai nadu,chapati + Pallipalayam Chicken,non veg,1 medium  + 1 cup,23.64,28.25,25.88,7.48,28.57,290,435.6,,1,1,5.0,chicken

@@ -1,3 +1,4 @@
-thondai nadu,Thayir Vadai,veg,b,1 piece,8.3,18.3,12.0,3.5,120.0,134,214.0,,0,0,0
-thondai nadu,pongal,veg,b,1 cup,6.0,39.0,5.0,1.8,27.0,216,223.0,,0,0,0
-thondai nadu,Kanchipuram Idli + Kothamalli Thogayal,veg,b,1 piece + 1 tablespon,3.3,15.5,3.8000000000000003,2.3,15.18,65,108.0,,1,1,5.0,0
+Cuisines,Food item,Type,Quantity,Proteins (in g),Carbs (in g),Fats (in g),Fiber (in g),Calcium (in mg),Total (in g),Calories (in Cal),GI,Side,Needside,rating,meat_type
+thondai nadu,Thayir Vadai,veg,1 piece,8.3,18.3,12.0,3.5,120.0,134,214.0,,0,0,5.0,0
+thondai nadu,pongal,veg,1 cup,6.0,39.0,5.0,1.8,27.0,216,223.0,,0,0,5.0,0
+thondai nadu,Kanchipuram Idli + Kothamalli Thogayal,veg,1 piece + 1 tablespon,3.3,15.5,3.8,2.3,15.18,65,108.0,,1,1,5.0,0

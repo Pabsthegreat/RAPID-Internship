@@ -1,0 +1,8 @@
+Cuisines,Food item,Type,Quantity,Proteins (in g),Carbs (in g),Fats (in g),Fiber (in g),Calcium (in mg),Total (in g),Calories (in Cal),GI,Side,Needside,rating,meat_type
+south kerala,Puttu and Kadala Curry,veg,1 cup,14.4,124.1,23.0,17.5,95.57,450,771.0,,0,0,5.0,0
+south kerala,appam + cocunut stew,veg,1 piece + 1 cup,9.7,47.9,18.6,7.800000000000001,66.13,310,385.0,,1,1,5.0,0
+south kerala,appam + avial,veg,1 piece + 1 cup,5.6,42.5,12.8,7.4,84.21,310,306.0,,1,1,5.0,0
+south kerala,idiyappam + cocunut stew,veg,1 piece + 1 cup,8.5,41.1,17.5,7.4,64.86,300,346.0,,1,1,5.0,0
+south kerala,idiyappam + avial,veg,1 piece + 1 cup,4.4,35.7,11.7,7.0,82.94,300,267.0,,1,1,5.0,0
+south kerala,Vellayappam + cocunut stew,veg,1 piece + 1 cup,9.7,45.5,20.8,8.6,66.43,315,396.0,,1,1,5.0,0
+south kerala,Vellayappam + avial,veg,1 piece + 1 cup,5.6,40.1,15.0,8.2,84.51,315,317.0,,1,1,5.0,0
