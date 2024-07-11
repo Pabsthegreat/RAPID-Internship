@@ -21,7 +21,7 @@ class FoodRecommender:
         self.current_preprandial = None
         self.isf = None
         self.hba1c = None
-        self.last_meal_time = None
+        self.last_meal_time = "10PM"
         self.cumulative_macros = {
             "protein": 0,
             "carbs": 0,
