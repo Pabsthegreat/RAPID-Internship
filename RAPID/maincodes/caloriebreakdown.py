@@ -9,7 +9,7 @@ from total_calorie_predictor import totalcal
 warnings.filterwarnings(action='ignore', category=UserWarning, module='sklearn')
 
 # Load your dataset
-df = pd.read_csv('filteredcalbreak.csv')
+df = pd.read_csv('RAPID\\datasets\\nonfood\\filteredcalbreak.csv')
 
 # Select relevant features and target variables
 X = df[['age','height','weight','activity_level','total_daily_expenditure']]  # Include other relevant features like age, gender, etc.
@@ -34,6 +34,7 @@ y_protein_pred = lasso_protein.predict(X_test)
 
 # Example prediction usage
 new_data = [totalcal()]  # Example with total daily expenditure, fat, carbs, protein
+print(new_data)
 predicted_fat = lasso_fat.predict(new_data)
 predicted_carbs = lasso_carbs.predict(new_data)
 predicted_protein = lasso_protein.predict(new_data)

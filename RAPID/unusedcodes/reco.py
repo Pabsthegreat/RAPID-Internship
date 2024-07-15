@@ -34,7 +34,7 @@ class FoodRecommender:
             "snack": "4PM",
             "dinner": "8PM"
         }
-
+    #opens a file 
     def load_food_data(self, region, subregion, meal_time_suffix):
         file_path = os.path.join(self.food_database_path, region, subregion, f"{subregion}_{meal_time_suffix[0]}.csv")
         try:
@@ -126,33 +126,87 @@ class FoodRecommender:
 
         return None, "No suitable foods found within macro limits after filtering. Please choose another subregion or regenerate the meal."
 
-    def recommend_daily_meals(self, initial_preprandial, preference, regions, meal_times, activity_level, macro_limits):
+    # def recommend_daily_meals(self, initial_preprandial, preference, regions, meal_times, activity_level, macro_limits):
+    #     self.current_preprandial = initial_preprandial
+    #     daily_meals = {}
+    #     for meal_time in meal_times:
+    #         meal_recommended = False
+    #         for region in regions:
+    #             subregions = self.get_subregions(region)
+    #             for subregion in subregions:
+    #                 recommended_food, postprandial_level = self.recommend_meal(
+    #                     self.current_preprandial, preference, region, subregion, meal_time, activity_level, macro_limits
+    #                 )
+
+    #                 if recommended_food:
+    #                     daily_meals[meal_time] = recommended_food
+    #                     self.current_preprandial = self.calculate_preprandial(
+    #                         postprandial_level, self.calculate_time_between_meals(self.meal_times[meal_time])
+    #                     )
+    #                     self.last_meal_time = self.meal_times[meal_time]
+    #                     meal_recommended = True
+    #                     break
+
+    #             if meal_recommended:
+    #                 break
+
+    #         if not meal_recommended:
+    #             print(f"No suitable foods found for {meal_time}. Please adjust your preferences or limits.")
+    #             break
+
+    #     return daily_meals
+    def recommend_daily_meals(self, initial_preprandial, preference, meal_times, activity_level, macro_limits):
         self.current_preprandial = initial_preprandial
         daily_meals = {}
+        
+        regions = os.listdir(self.food_database_path)
+        print("Available regions:")
+        for idx, region in enumerate(regions):
+            print(f"{idx + 1}. {region.capitalize()}")
+
         for meal_time in meal_times:
-            meal_recommended = False
-            for region in regions:
-                subregions = self.get_subregions(region)
-                for subregion in subregions:
-                    recommended_food, postprandial_level = self.recommend_meal(
-                        self.current_preprandial, preference, region, subregion, meal_time, activity_level, macro_limits
-                    )
-
-                    if recommended_food:
-                        daily_meals[meal_time] = recommended_food
-                        self.current_preprandial = self.calculate_preprandial(
-                            postprandial_level, self.calculate_time_between_meals(self.meal_times[meal_time])
-                        )
-                        self.last_meal_time = self.meal_times[meal_time]
-                        meal_recommended = True
+            while True:
+                try:
+                    region_idx = int(input(f"Select region for {meal_time} (enter number): ").strip()) - 1
+                    if 0 <= region_idx < len(regions):
+                        region = regions[region_idx]
                         break
+                    else:
+                        print("Invalid selection. Please choose a valid region number.")
+                except ValueError:
+                    print("Invalid input. Please enter a number.")
+            
+            subregions = self.get_subregions(region)
+            print(f"Available subregions in {region.capitalize()}:")
+            for idx, subregion in enumerate(subregions):
+                print(f"{idx + 1}. {subregion.capitalize()}")
 
-                if meal_recommended:
-                    break
-
-            if not meal_recommended:
-                print(f"No suitable foods found for {meal_time}. Please adjust your preferences or limits.")
-                break
+            while True:
+                try:
+                    subregion_idx = int(input(f"Select subregion for {meal_time} (enter number): ").strip()) - 1
+                    if 0 <= subregion_idx < len(subregions):
+                        subregion = subregions[subregion_idx]
+                        break
+                    else:
+                        print("Invalid selection. Please choose a valid subregion number.")
+                except ValueError:
+                    print("Invalid input. Please enter a number.")
+            
+            recommended_food, postprandial_level = self.recommend_meal(
+                self.current_preprandial, preference, region, subregion, meal_time, activity_level, macro_limits
+            )
+            
+            if recommended_food:
+                daily_meals[meal_time] = recommended_food
+                self.current_preprandial = self.calculate_preprandial(
+                    postprandial_level, self.calculate_time_between_meals(self.meal_times[meal_time])
+                )
+                self.last_meal_time = self.meal_times[meal_time]
+                print(f"Recommended {meal_time.capitalize()}: {recommended_food['Food item']}")
+                print(f"Protein: {recommended_food['Proteins (in g)']} g, Carbs: {recommended_food['Carbs (in g)']} g, Fat: {recommended_food['Fats (in g)']} g")
+                print(f"Calories: {recommended_food['Calories (in Cal)']}, Calcium: {recommended_food['Calcium (in mg)']} mg, Fiber: {recommended_food['Fiber (in g)']} g\n")
+            else:
+                print(f"No suitable foods found for {meal_time}. {postprandial_level}")
 
         return daily_meals
 
@@ -205,7 +259,7 @@ if __name__ == "__main__":
     regions = ["karnataka", "andhra", "kerala", "maharashtra", "tamilnadu", "general"]
     meal_times = ["breakfast", "lunch", "dinner", "snack"]
     
-    daily_meals = recommender.recommend_daily_meals(initial_preprandial, preference, regions, meal_times, activity_level, macro_limits)
+    daily_meals = recommender.recommend_daily_meals(initial_preprandial, preference, meal_times, activity_level, macro_limits)
     
     print("\nRecommended Daily Meals:")
     for meal_time, meal_details in daily_meals.items():
@@ -268,3 +322,4 @@ if __name__ == "__main__":
 #             print(f"No suitable foods found for {meal_time}. {postprandial_level}")
 
 #     return daily_meals
+

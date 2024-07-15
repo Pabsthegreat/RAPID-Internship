@@ -1,4 +1,4 @@
-Cuisines,Food item,Type,Quantity,Protiens (in g),Carbs (in g),Fats (in g),Fiber (in g),Calcium (in mg),Total (in g),Calories (in Cal),GI,Side,Needside,rating,meat_type
+Cuisines,Food item,Type,Quantity,Proteins (in g),Carbs (in g),Fats (in g),Fiber (in g),Calcium (in mg),Total (in g),Calories (in Cal),GI,Side,Needside,rating,meat_type
 South Indian,biryani veg + dahi,veg,1 cup + 5.3 oz container,17.68,42.79,11.38,1.97,0,318.81,343.91,,1,1,5.0,0
 North Indian,fulka roti + chole,veg,1 piece + 1 cup,15.32,60.15,21.52,10.93,0,263.08000000000004,482.89,,1,1,5.0,0
 North Indian,fulka roti + channa masala,veg,1 piece + 1 cup,15.32,60.15,21.52,10.93,0,263.08000000000004,482.89,,1,1,5.0,0

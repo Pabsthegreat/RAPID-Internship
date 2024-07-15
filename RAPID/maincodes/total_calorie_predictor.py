@@ -11,7 +11,7 @@ def totalcal():
     weight = float(input("Enter your weight in kg: "))
     age = int(input("Enter your age in years: "))
     activity_level = float(input("Enter your activity level (1.2 for sedentary, 1.375 for lightly active, 1.55 for moderately active, 1.725 for very active, 1.9 for extra active): "))
-    df = pd.read_csv("cleaned_dataset.csv")
+    df = pd.read_csv("RAPID\\datasets\\nonfood\\cleaned_dataset.csv")
 
     # Prompt user for input
 
@@ -34,7 +34,7 @@ def totalcal():
 
     # Make prediction for user input
     user_data = pd.DataFrame([[height, weight, age, activity_level]], columns=features_input)
-    predicted_calories = lasso_model.predict(user_data)
+    predicted_calories = int(lasso_model.predict(user_data))
     print("Total daily expenditure:",predicted_calories)
 
     return [age,height,weight,activity_level,predicted_calories]
