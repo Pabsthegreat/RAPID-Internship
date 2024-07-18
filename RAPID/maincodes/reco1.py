@@ -48,11 +48,11 @@ class FoodRecommender:
             raise ValueError(f"Error parsing data from {file_path}. Check the file format.")
 
     def filter_foods(self, foods, preference, carb_limit):
-        if preference == "vegetarian":
+        if preference == "veg":
             filtered_foods = foods[foods["Type"] == "veg"]
         elif preference == "non-veg":
             filtered_foods = foods[foods["Type"].isin(["veg", "non-veg", "egg"])]
-        elif preference == "eggitarian":
+        elif preference == "egg":
             filtered_foods = foods[foods["Type"].isin(["veg", "egg"])]
 
         filtered_foods = filtered_foods[filtered_foods["Carbs (in g)"] <= carb_limit]
@@ -112,6 +112,7 @@ class FoodRecommender:
         if recommended_food:
             return self.food_choice_randomiser(meal_time_suffix)
         return None
+
     def food_choice_randomiser(self,meal_time_suffix):
         random_index = random.randint(0,len(self.choices)-1)
         food = self.choices[random_index]
@@ -205,7 +206,7 @@ class FoodRecommender:
 food_database_path = "RAPID\\datasets\\food"
 recommender = FoodRecommender(food_database_path)
 initial_preprandial = 90
-preference = "vegetarian"
+preference = "non-veg"
 activity_level = "frequent"
 macro_limits = {
     "protein": 100,  # in grams
