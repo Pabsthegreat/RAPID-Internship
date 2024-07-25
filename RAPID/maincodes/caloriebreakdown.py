@@ -12,7 +12,7 @@ warnings.filterwarnings(action='ignore', category=UserWarning, module='sklearn')
 df = pd.read_csv('RAPID\\datasets\\nonfood\\filteredcalbreak.csv')
 
 # Select relevant features and target variables
-X = df[['age','height','weight','activity_level','total_daily_expenditure']]  # Include other relevant features like age, gender, etc.
+X = df[['age','height','weight','activity_level','total_daily_expenditure']] 
 y_fat = df['fat']
 y_carbs = df['carbs']
 y_protein = df['protein']
@@ -34,14 +34,13 @@ y_protein_pred = lasso_protein.predict(X_test)
 
 # Example prediction usage
 new_data = [totalcal()]  # Example with total daily expenditure, fat, carbs, protein
-print(new_data)
 predicted_fat = lasso_fat.predict(new_data)
 predicted_carbs = lasso_carbs.predict(new_data)
 predicted_protein = lasso_protein.predict(new_data)
 
-print(f"Predicted Fat Calories: {predicted_fat[0]}")
-print(f"Predicted Carbs Calories: {predicted_carbs[0]}")
-print(f"Predicted Protein Calories: {predicted_protein[0]}")
+print(f"Predicted Fat grams: {predicted_fat[0]/9}")
+print(f"Predicted Carbs grams: {predicted_carbs[0]/4}")
+print(f"Predicted Protein grams: {predicted_protein[0]/4}")
 
 
 

@@ -6,7 +6,7 @@ import seaborn as sns
 from sklearn.preprocessing import LabelEncoder
 
 # Load your dataset (replace 'your_dataset.csv' with your actual dataset path)
-df = pd.read_csv('filteredcalbreak.csv')
+df = pd.read_csv('cleaned_dataset.csv')
 
 # Encode 'gender' column using LabelEncoder
 le = LabelEncoder()
@@ -33,7 +33,7 @@ df = pd.read_csv('filteredcalbreak.csv')
 df['gender'] = df['gender'].replace({'M': 0, 'F': 1})
 
 # Assuming X and y are defined as features and target variable respectively
-X = df[['age', 'gender', 'height', 'weight', 'activity_level', 'carb','protein','fat']]
+X = df[['age', 'gender', 'height', 'weight', 'activity_level']]
 y = df['total_daily_expenditure']
 
 # Initialize Random Forest model
@@ -66,7 +66,7 @@ print(feature_importance_df)
 # from sklearn.preprocessing import StandardScaler
 
 # # Load your dataset (replace 'your_dataset.csv' with your actual dataset path)
-# df = pd.read_csv('calbreak.csv')
+# df = pd.read_csv('filteredcalbreak.csv')
 
 # # Convert 'gender' column to numerical values if needed
 # df['gender'] = df['gender'].map({'M': 0, 'F': 1})

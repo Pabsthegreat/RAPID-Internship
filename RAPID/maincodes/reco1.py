@@ -22,7 +22,7 @@ class FoodRecommender:
         self.current_preprandial = None
         self.isf = 30
         self.hba1c = 9
-        self.last_meal_time = "10PM"
+        self.last_meal_time = "6AM"
         self.cumulative_macros = {
             "protein": 0,
             "carbs": 0,
@@ -70,7 +70,6 @@ class FoodRecommender:
     def calculate_preprandial(self, postprandial_level, time_between_meals):
         if self.isf is None:
             raise ValueError("ISF must be set before calculating preprandial levels.")
-        print(time_between_meals,postprandial_level)
         return postprandial_level - (time_between_meals * self.isf)
 
     def recommend_meal(self, preprandial_level, preference, region, subregion, meal_time_suffix, activity_level, macro_limits):
@@ -119,15 +118,12 @@ class FoodRecommender:
         while food.to_dict()["Food item"] in self.recommended[meal_time_suffix]:
             random_index = random.randint(0,len(self.choices)-1)
             food = self.choices[random_index]
-            print(food.to_dict())
-            print("here")
         return food.to_dict()
     
     def print_food(self,food,meal_time_suffix):
-            print(food)
             print(f"Recommended {meal_time_suffix.capitalize()}: {food['Food item']}")
-            print(f"Quantity: {food['Quantity']}, Protein: {food['Proteins (in g)']} g, Carbs: {food['Carbs (in g)']} g, Fat: {food['Fats (in g)']} g")
-            print(f"Calories: {food['Calories (in Cal)']}, Calcium: {food['Calcium (in mg)']} mg, Fiber: {food['Fiber (in g)']} g\n")
+            print(f"Quantity: {food['Quantity']}, Protein: {food['Proteins (in g)']*2} g, Carbs: {food['Carbs (in g)']*2} g, Fat: {food['Fats (in g)']*2} g")
+            print(f"Calories: {food['Calories (in Cal)']*2}, Calcium: {food['Calcium (in mg)']*2} mg, Fiber: {food['Fiber (in g)']*2} g\n")
     
     def macro_update(self,food,preprandial_level,meal_time_suffix,activity_level):
         postprandial_level = self.calculate_postprandial(
@@ -150,7 +146,6 @@ class FoodRecommender:
         for meal_time in self.meal_times:
             self.choices = []
             while True:
-                print(self.current_preprandial)
                 while True:
                     print(f"\nPlease choose a region for {meal_time.capitalize()}:")
                     for i, region in enumerate(regions):
@@ -225,4 +220,4 @@ for i in daily_meals:
     print("\n")
 
 for i in day_macros:
-    print(i+": "+str(day_macros[i]))
+    print(i+": "+str(day_macros[i]*2))
