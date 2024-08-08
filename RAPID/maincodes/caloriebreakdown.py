@@ -5,10 +5,10 @@ from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
 import warnings
 from total_calorie_predictor import totalcal
 
-# Example: Suppress warnings
+
 warnings.filterwarnings(action='ignore', category=UserWarning, module='sklearn')
 
-# Load your dataset
+
 df = pd.read_csv('RAPID\\datasets\\nonfood\\filteredcalbreak.csv')
 
 # Select relevant features and target variables

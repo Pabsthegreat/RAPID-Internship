@@ -4,16 +4,12 @@ from sklearn.model_selection import train_test_split
 from sklearn.linear_model import Lasso
 from sklearn.metrics import mean_squared_error, r2_score
 
-# Load your dataset (replace 'your_dataset.csv' with your actual dataset path)
-# dataset_path = input("Enter the path to your dataset (CSV format): ")
 def totalcal():
     height = float(input("Enter your height in cm: "))
     weight = float(input("Enter your weight in kg: "))
     age = int(input("Enter your age in years: "))
     activity_level = float(input("Enter your activity level (1.2 for sedentary, 1.375 for lightly active, 1.55 for moderately active, 1.725 for very active, 1.9 for extra active): "))
     df = pd.read_csv("RAPID\\datasets\\nonfood\\cleaned_dataset.csv")
-
-    # Prompt user for input
 
     # Selecting features and target variable
     features_input = ['height', 'weight', 'age', 'activity_level']
@@ -26,7 +22,7 @@ def totalcal():
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
 
     # Initialize Lasso regression model
-    alpha = 30  # Adjust alpha as needed for regularization strength
+    alpha = 30  
     lasso_model = Lasso(alpha=alpha, random_state=42)
 
     # Fit the model
